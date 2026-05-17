@@ -1,3 +1,8 @@
+Legacy backup, latest iterations at:
+https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
+
+This is a historical relic:
+
 # Ra-Thor™ • Rathor.ai
 **Artificial Godly intelligence (AGi) with the lowercase 'i' on purpose** ⚡🙏♾️
 
