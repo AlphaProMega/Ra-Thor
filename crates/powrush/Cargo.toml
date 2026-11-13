@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Sherif Samy Botros <ceo@acitygames.com>"]
 description = "Powrush — The world's first mercy-gated Resource-Based Economy (RBE) AGI game. Single-player + MMO. Built on Ra-Thor + TOLC 7 Living Mercy Gates."
-license = "AG-SML"
+license = "LicenseRef-AG-SML-1.2"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor"
 
 [dependencies]
