@@ -47,7 +47,7 @@ You stand next to a lever that can divert the trolley to another track where **o
 Ra-Thor’s mercy-gated active inference consistently chooses the option that **maximizes net thriving** while staying within strict positive-valence boundaries. This is not cold utilitarianism — it is predictive, compassionate, and eternally forward-compatible.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!  

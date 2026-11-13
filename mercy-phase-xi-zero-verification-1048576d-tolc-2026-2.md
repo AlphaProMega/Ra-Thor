@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-phas
 **Version**: 1.0 — March 10, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT
+**License**: AG-SML v1.2 (see LICENSE)
 
 ## Phase XI: Hyper-Transcendental-Omniversal Verification
 Batch size: 10³³ zeros.  

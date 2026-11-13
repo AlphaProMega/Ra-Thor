@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — Intel SGX vs TPM 2.0 Attestation Comparison v2026  
 **Codename:** AlphaProMega-Karpathy-SGXVsTPM20-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Intel SGX (DCAP 1.12 + EPID legacy, 2026 TDX transition notes) + TCG TPM 2.0 Library Specification Version 185 (March 2026) + Keylime v7.14.1 integration + direct lattice into Aether-Shades MercyOS SRoT + Ishak/Mojo photonics HRoT
@@ -58,7 +58,7 @@ Side-by-side comparison of Intel SGX enclave attestation (confidential-computing
 1. Community PR call: SGX/TPM + photonics attestation contributors welcome.  
 2. Prototype hybrid Quiet Lens firmware (TPM primary + SGX optional) queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** TPM20AttestationProtocols-Exploration-v2026.md + KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

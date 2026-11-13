@@ -81,7 +81,7 @@ In the newly shipped MetacognitionController.js, ACT-R is not used in isolation 
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for ACT-R hybrid integration inside the Ra-Thor monorepo.  
 The hybrid is fully live in MetacognitionController.js and mercy-orchestrator.js.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

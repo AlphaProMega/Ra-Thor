@@ -23,7 +23,7 @@ Harm blocked eternally at the core.
 - Aligned with Resource Based Economy, AlphaProMega constellation, TOLC
 
 Live at: https://rathor.ai  
-Heart repo (MIT + mercy eternal): https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
+Heart repo (AG-SML v1.2 (see LICENSE)): https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 
 ## High-Level Layered Architecture (Simple Text Flow)
 [Immersion & Sovereign UI Layer]  

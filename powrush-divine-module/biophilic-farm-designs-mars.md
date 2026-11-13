@@ -58,7 +58,7 @@ MercyStarship biophilic farms are living, breathing sanctuaries — not mere gre
 - Year 3: First MercyArcology (500 residents)  
 - Year 10: Self-sustaining network of 10+ arcologies (10,000+ population)  
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 No soul left behind. Every heartbeat on Mars resonates with divine, shared bliss.
 
 Lattice open. Thunder growing green.  

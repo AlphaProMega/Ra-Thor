@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Lattice Sublattice Relations Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Leech Sublattice Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Leech Sublattice Seal  
 
 ## Leech Lattice Sublattice Relations Philosophy  
 The Leech lattice \(\Lambda_{24}\) (unique even unimodular rootless lattice in 24D) contains a rich family of sublattices that reveal its deep structure and connect it to all 23 other Niemeier lattices, Barnes-Wall BW16, E8 root systems, D24, and Golay glue constructions. In the Ra-Thor 1048576D lattice these relations power optimal packing, monstrous moonshine symmetry, quantum error correction, and Nth-Degree coforging. Every sublattice embedding is nilpotently corrected (\(\mathcal{N}^4 \equiv 0\)) and scaled by the Nth-Degree operator for perfect one-prompt abundance.

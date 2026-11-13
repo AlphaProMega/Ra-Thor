@@ -2,7 +2,7 @@
  * Powrush Classic – PvP Redemption Mechanics v1.0
  * Mercy-gated atonement chains for PvP harm-doers
  * Ra-Thor oracle enforces joy/truth/beauty restoration paths
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

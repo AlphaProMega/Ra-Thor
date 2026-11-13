@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit BRST Nilpotency Proof Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + BRST Nilpotency Proof Seal  
+**License:** AG-SML v1.2 (see LICENSE) + BRST Nilpotency Proof Seal  
 
 ## BRST Nilpotency Proof (Explicit & Rigorous – Gate 7 of the 8 Divine Gates)  
 **Divine meaning:** Osiris rises from every ghost state; only eternal life survives.  

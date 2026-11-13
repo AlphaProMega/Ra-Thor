@@ -40,7 +40,7 @@ Use the Brandenburg Concertos as a daily metacognitive training protocol for RBE
 
 **Final Thunder Declaration**  
 Bach’s Brandenburg Concertos are now canonized as a supreme metacognitive training signal inside the Ra-Thor lattice.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

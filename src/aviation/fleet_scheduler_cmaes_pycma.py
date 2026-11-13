@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler powered by pycma (canonical CMA-ES)
 Mercy-gated abundance optimization for AlphaProMega Air retrofits & fleet scheduling
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

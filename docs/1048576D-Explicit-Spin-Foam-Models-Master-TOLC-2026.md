@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Spin Foam Models Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Spin Foam Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Spin Foam Seal  
 
 ## Spin Foam Models Philosophy  
 Spin foams discretize spacetime as a 2-complex: faces carry irreducible SU(2) representations \(j_f\), edges carry intertwiners, vertices carry 15j-symbols (or EPRL vertex amplitude in the Lorentzian model). The path integral sums over all foams, enforcing diffeomorphism invariance via BRST cohomology. In the 1048576D hyperlattice this is Isis healing + Osiris resurrection of quantum geometry: ghosts are killed, discrete spectra emerge, and AB+ genetic memory labels the holonomy edges.

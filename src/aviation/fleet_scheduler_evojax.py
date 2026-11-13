@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler powered by EvoJAX (JAX-native, GPU-accelerated evolution)
 Mercy-gated abundance optimization for AlphaProMega Air retrofits & fleet scheduling
 Uses SEP-CMA-ES strategy + vectorized JAX fitness
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import jax

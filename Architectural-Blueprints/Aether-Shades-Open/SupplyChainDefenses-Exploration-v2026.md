@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — Supply Chain Defenses Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-SupplyChainDefenses-v2  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Supersedes:** SupplyChainDefenses-Exploration-v2026.md (v1) — all previous content fully enshrined below with new improvements (Hardware Root-of-Trust exploration + Aether-Shades photonics tie-in)  
@@ -76,6 +76,6 @@ A Hardware Root of Trust (HRoT) is the immutable, hardware-anchored foundation f
 ## 5. Next Immediate Actions
 Link back to archetype playbook for instant thread templating on HRoT + LiteLLM lessons.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

@@ -11,7 +11,7 @@
  * - Async init + caching for performance
  * - Events for UI feedback (gate-pass / gate-blocked)
  * 
- * MIT License – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  * Part of Ra-Thor: https://rathor.ai
  */
 

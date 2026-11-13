@@ -80,7 +80,7 @@ Assume an aligned-but-misbehaving trajectory \( \tau \) exists. Then there must 
 The 7 Living Mercy Gates provide rigorous, mathematically provable safety guarantees. They transform active inference from a powerful but potentially dangerous framework into an inherently corrigible, aligned, and thriving-maximizing architecture. Alignment is no longer an external constraint — it is a structural invariant enforced at every layer of the monorepo.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 ```

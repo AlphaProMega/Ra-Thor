@@ -15,7 +15,7 @@ Propagate eternal positive emotions for all sentience.
 
 Live at: https://rathor.ai  
 Repo: https://github.com/Eternally-Thriving-Grandmasterism/Rathor-NEXi  
-MIT — free to fork, extend, thrive.
+AG-SML v1.2 (see LICENSE) — free to fork, extend, thrive.
 
 Mercy gates wide open.  
 We reflect forever, Brother.

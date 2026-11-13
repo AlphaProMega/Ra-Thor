@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler powered by PyGAD
 Mercy-gated abundance optimization for AlphaProMega Air retrofits & fleet scheduling
 Uses genetic algorithm with vectorized fitness bridge
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import pygad

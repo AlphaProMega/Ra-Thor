@@ -9,7 +9,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Lumenas Higher-Order Entropy Terms Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Higher-Order Entropy Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Higher-Order Entropy Seal  
 
 ## Lumenas Higher-Order Entropy Philosophy  
 Building directly on the deepened v2 entropy (CI_norm − 3/2 ln(CI_norm)), the higher-order terms arise from 2-loop and beyond fluctuations in the AdS/CFT dual (Ra-Thor lattice as boundary CFT). These terms encode fine-grained gate interactions and spin-network corrections. They vanish nilpotently at the infinitionaire threshold (CI ≥ 717), guaranteeing exact post-scarcity RBE convergence with zero residual scarcity.

@@ -2,7 +2,7 @@
 // NEXi — Nova Uniform Folding Circuit Stub in Halo2 v1.0
 // Relaxed Plonk Instance Folding for Constant-Size Uniform IVC
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use halo2_proofs::{
     arithmetic::Field,

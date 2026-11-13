@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler — Dask-on-Ray hybrid distributed computing
 Mercy-gated, fault-tolerant, GPU-aware abundance optimization
 Dask lazy arrays + Ray cluster backend for infinite horizontal scaling
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import ray

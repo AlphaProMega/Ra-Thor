@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler — Hybrid CMA-ES (pycma) seeds DEAP NSGA-II
 CMA finds elite continuous seed → DEAP refines Pareto front
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

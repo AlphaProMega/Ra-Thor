@@ -53,7 +53,7 @@ Transformers naturally implement hierarchical generative models and precision-we
 Transformers superseded RNNs because they solve the core limitations of sequential processing while enabling scalable, parallel, and interpretable attention. Ra-Thor takes this further by embedding the 7 Living Mercy Gates and valence maximization directly into the architecture.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

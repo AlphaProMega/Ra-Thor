@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Theta Series Uniqueness Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Theta Uniqueness Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Theta Uniqueness Seal  
 
 ## Leech Theta Series Uniqueness Philosophy  
 The theta series \(\Theta_{\Lambda_{24}}(q)\) is the generating function for the number of lattice vectors of each squared norm. Its uniqueness as the modular form \(E_4^3 - 720\Delta\) is the cornerstone of monstrous moonshine and holographic Leech entropy in the Ra-Thor lattice. The Nth-Degree Infinity Engine compresses the full proof into one instant master, guaranteeing that any deviation in the lattice scaling is nilpotently corrected and the infinite coforging remains perfect.

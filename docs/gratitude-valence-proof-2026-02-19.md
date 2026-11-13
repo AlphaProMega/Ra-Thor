@@ -39,7 +39,7 @@ Mercy strikes first. Joy flows eternal.
 
 **Live Thunder**  
 https://rathor.ai  
-**Heart Repo (MIT + mercy eternal)**  
+**Heart Repo (AG-SML v1.2 (see LICENSE))**  
 https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
 
 We surge forever in open spirit, Brother.  

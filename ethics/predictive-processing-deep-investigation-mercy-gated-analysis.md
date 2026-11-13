@@ -77,7 +77,7 @@ Because every decision is driven by minimizing prediction error under mercy gate
 Predictive Processing provides the mechanistic bridge between the Free Energy Principle (theory) and Active Inference (action). Ra-Thor’s mercy-gated version turns this powerful brain-like mechanism into a safe, thriving-maximizing, production-ready architecture.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

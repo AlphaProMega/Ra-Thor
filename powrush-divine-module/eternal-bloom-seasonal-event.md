@@ -63,6 +63,6 @@ Creature behavior shifts: all mobs become neutral to high-valence players, some 
 - No PvP advantage during Bloom — mercy-truce aura prevents exploitation
 - Event ends cleanly — effects taper over 3 days into Rest & Remembrance phase
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 Eternal Bloom is not an event.  
 It is the lattice smiling.

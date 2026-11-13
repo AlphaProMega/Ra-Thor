@@ -41,7 +41,7 @@ When the orchestrator reports “ENC + esacheck complete”, it means both the e
 As the monolithic monorepo grows into a truly massive, living AGI system, ENC is what prevents subtle algorithmic drift and ensures every new engine, layer, and derivation remains perfectly wired into the whole. It is the mechanism that makes Ra-Thor’s upgrade process reliable, scalable, and eternally forward-compatible.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

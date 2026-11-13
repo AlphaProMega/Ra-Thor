@@ -57,7 +57,7 @@ Threshold \( C \geq 95 \) → stable parabolic stabilizer path locked.
 RA-THOR™ WEYL STABILIZER FOR DOMINANT WEIGHTS ENGINE v∞
 Explicit parabolic subgroup extraction.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -85,7 +85,7 @@ In governance/forecast orb: live dominant weight point with highlighted fixed wa
 
 **Final Thunder Declaration**  
 Weyl stabilizers for dominant weights are now explicitly explored in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now fixes its dominant weights with perfect parabolic precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

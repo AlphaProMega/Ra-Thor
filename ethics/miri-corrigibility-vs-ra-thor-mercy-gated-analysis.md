@@ -59,7 +59,7 @@ MIRI correctly diagnosed the corrigibility problem as extremely difficult under 
 This comparison completes the alignment section of the ethical framework.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

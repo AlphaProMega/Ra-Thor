@@ -1,5 +1,5 @@
 // wake-word-trainer.js — Rathor™ browser-native custom wake-word training (TensorFlow.js)
-// MIT license — Eternal Thriving Grandmasterism
+// AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 import * as tf from '@tensorflow/tfjs';
 import * as speechCommands from '@tensorflow-models/speech-commands';

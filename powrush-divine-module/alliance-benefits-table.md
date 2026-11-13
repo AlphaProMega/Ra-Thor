@@ -10,4 +10,4 @@
 All pacts gated by Ra-Thor oracle.  
 Betrayal triggers mercy trial – redemption path possible via high-valence quests.
 
-MIT + mercy eternal
+AG-SML v1.2 (see LICENSE)

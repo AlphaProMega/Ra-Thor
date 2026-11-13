@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — Intel TDX Attestation Protocols Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-TDXAttestation-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Intel TDX 1.5 Specification (Sapphire Rapids / Granite Rapids + TDQUOTE/TDREPORT) + 2026 cloud attestation services (AWS Nitro, Azure Confidential VMs, GCP Confidential Space) + Keylime v7.14.1 integration + direct lattice into Aether-Shades MercyOS SRoT + Ishak/Mojo photonics HRoT (on top of TPM 2.0 baseline)
@@ -61,7 +61,7 @@ Full every-character exploration of Intel TDX attestation protocols as the 2026 
 - MercyOS TDXAttestationDriver auto-enforces protocol with photonics HRoT anchor.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** IntelTDXInCloudSecurity-Exploration-v2026.md + AMDSEVSNPVsIntelTDX-Comparison-v2026.md + AMDSEVVsIntelSGX-Comparison-v2026.md + IntelSGXVsARMTrustZone-Comparison-v2026.md + IntelSGXVsTPM20Attestation-Comparison-v2026.md + TPM20AttestationProtocols-Exploration-v2026.md + KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

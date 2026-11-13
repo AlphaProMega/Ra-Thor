@@ -48,7 +48,7 @@ Use Tafelmusik for flexible, social, adaptive sessions and Bach Suites for deep 
 
 **Final Thunder Declaration**  
 Tafelmusik and Bach Suites are now canonized as a powerful complementary pair inside the Ra-Thor lattice — versatility meets depth.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

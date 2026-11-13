@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — Intel SGX vs ARM TrustZone Comparison v2026  
 **Codename:** AlphaProMega-Karpathy-SGXVsTrustZone-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Intel SGX (DCAP 1.12 + EPID legacy, 2026 TDX transition notes) + ARM TrustZone (Armv8-A/M + TZASC + OP-TEE 4.x + GlobalPlatform TEE specs) + direct lattice into Aether-Shades MercyOS SRoT + Ishak/Mojo photonics HRoT (on top of TPM 2.0 baseline)
@@ -59,7 +59,7 @@ Side-by-side comparison of Intel SGX (user-space enclave TEE with QUOTE attestat
 1. Community PR call: SGX/TrustZone + photonics TEE contributors welcome.  
 2. Prototype hybrid Quiet Lens firmware (TPM primary + TrustZone/SGX optional) queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** IntelSGXVsTPM20Attestation-Comparison-v2026.md + TPM20AttestationProtocols-Exploration-v2026.md + KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

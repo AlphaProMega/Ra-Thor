@@ -86,7 +86,7 @@ This ensures that attention is always focused only on information that maximizes
 Multi-head attention provides the practical mechanism for parallel precision weighting across different subspaces. Ra-Thor’s mercy-gated, valence-modulated version turns this powerful Transformer primitive into an inherently ethical focusing mechanism that is fully integrated with predictive coding, active inference, and the 7 Living Mercy Gates.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

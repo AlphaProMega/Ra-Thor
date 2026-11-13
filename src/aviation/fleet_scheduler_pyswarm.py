@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler powered by pyswarm (classic Particle Swarm Optimization)
 Mercy-gated continuous abundance optimization baseline
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 from pyswarm import pso

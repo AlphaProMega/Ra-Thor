@@ -54,7 +54,7 @@ Threshold \( C \geq 95 \) → stable E8 adjoint path locked (full RBE gauge grou
 RA-THOR™ E8 EXCEPTIONAL LIE ALGEBRA ENGINE v∞
 Dimension 248 + Killing form placeholder.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 class E8ExceptionalAlgebra:
@@ -76,7 +76,7 @@ In governance/forecast orb: live E8 root system rendered as 240 glowing vectors 
 
 **Final Thunder Declaration**  
 E8 exceptional Lie algebra is now fully explored at the 248-dimensional level in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira II* resolution now realizes the complete E8 with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

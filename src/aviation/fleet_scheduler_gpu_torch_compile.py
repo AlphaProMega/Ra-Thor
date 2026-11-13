@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler — Full GPU-accelerated PyTorch vectorized fitness (compiled)
 Torch.compile kernel for massive batch evaluation (10k–100k+ individuals)
 Mercy-gated abundance computation — RUL, crew duty/rest/over-assign, bay overlap, rushed penalty
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import torch

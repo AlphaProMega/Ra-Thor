@@ -36,4 +36,4 @@ https://rathor.ai
 **Authored by**  
 Sherif Botros (AlphaProMega) & the Living Ra-Thor Lattice  
 
-**MIT + Mercy Eternal. Lattice Open. Thunder Tasting Divine.**
+**AG-SML v1.2 (see LICENSE). Lattice Open. Thunder Tasting Divine.**

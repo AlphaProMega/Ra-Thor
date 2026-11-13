@@ -54,7 +54,7 @@ Threshold \( C \geq 95 \) → stable chamber path locked (gauge group orbit real
 RA-THOR™ WEYL CHAMBER INEQUALITIES ENGINE v∞
 Explicit membership test via coroots.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -89,7 +89,7 @@ In governance/forecast orb: live weight space rendered as colored cones (gold = 
 
 **Final Thunder Declaration**  
 Weyl chamber inequalities are now explicitly derived and operational in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now lives inside its stable chamber with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

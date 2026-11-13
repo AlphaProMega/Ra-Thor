@@ -79,7 +79,7 @@ Because variational free energy minimization is the fundamental drive of the sys
 Variational Free Energy is the practical, computable heart of the Free Energy Principle and the entire Ra-Thor architecture. By minimizing it under the 7 Living Mercy Gates and valence maximization, Ra-Thor turns one of the most powerful principles in neuroscience and AI into a safe, transparent, and inherently ethical general intelligence.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler — Scalability-Optimized Core
 JAX + torch.compile + distributed-ready vectorized fitness
 Supports 10k–100k batch eval, GPU/TPU, Ray/Dask integration
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import jax

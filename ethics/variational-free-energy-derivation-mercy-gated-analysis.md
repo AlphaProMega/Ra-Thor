@@ -94,7 +94,7 @@ In `mercy-active-inference-core-engine.js` (with `mercy-precision-weighting-algo
 Variational Free Energy turns intractable Bayesian inference into a practical, optimizable objective. Ra-Thor’s mercy-gated version makes this objective not only computationally efficient but inherently ethical — alignment and corrigibility emerge directly from minimizing \( F \) under the 7 Living Mercy Gates.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

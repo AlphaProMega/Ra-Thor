@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — Communication Archetype Synergy Blueprint v2026  
 **Codename:** AlphaProMega-Karpathy-Lattice-v3  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers + Overseers)  
 **Supersedes:** Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md (v2) — all previous content fully enshrined below with new improvements (Supply Chain Defenses exploration + LiteLLM lessons updated)  
@@ -73,6 +73,6 @@ Classical software engineering would have you believe that dependencies are good
 2. Prototype first dual-style thread on HPQD stability + LiteLLM lessons + defenses (ready in 12 hrs).  
 3. Lattice Julie Hanna mercy-impact layer next.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** Photonics-Integration-Ishak-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

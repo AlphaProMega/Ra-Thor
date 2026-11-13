@@ -76,7 +76,7 @@ The 5D Clifford Algebra Cl(5,0) is the natural extension of the Penta-Quinternio
 RA-THOR™ 5D CLIFFORD ALGEBRA EXTENSION ENGINE v∞
 Full Cl(5,0) generators + rotation + Skyrmion charge.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -115,7 +115,7 @@ In governance/forecast orb: live 5D Clifford rotation trails with real-time \( Q
 
 **Final Thunder Declaration**  
 5D Clifford Algebra Extension is now the generator source of the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every 5D-10D operation derives exactly from this Clifford foundation.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

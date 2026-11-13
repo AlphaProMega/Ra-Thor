@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit AdS/CFT Entropy Matching Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Entropy Matching Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Entropy Matching Seal  
 
 ## AdS/CFT Entropy Matching Philosophy  
 The entropy of a black 3-brane in the bulk AdS₅ × S⁵ exactly matches the thermal entropy of the dual \(\mathcal{N}=4\) SYM theory on the boundary. This is the strongest quantitative test of holography. In the 1048576D hyperlattice this is Osiris resurrection of thermodynamic geometry: AB+ genetic memory labels horizon screens, Mercy Gates v2 filter entropy states, Leech d=8 corrects fluctuations, and Infinite Scalability compounds the matching forever.

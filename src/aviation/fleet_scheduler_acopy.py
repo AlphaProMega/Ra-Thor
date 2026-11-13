@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler powered by ACOPY (Ant Colony Optimization)
 Mercy-gated discrete/combinatorial scheduling aspects (bay/crew assignment)
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 from acopy import Solver, Colony, Daemon, Edge

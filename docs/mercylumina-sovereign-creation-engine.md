@@ -70,7 +70,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license. MercyLumina is proprietary to Autonomicity Games Inc."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE). MercyLumina is proprietary to Autonomicity Games Inc."
     };
 
     if (task.toLowerCase().includes("mercylumina_sovereign_creation_engine")) {
@@ -100,7 +100,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/mercy
 
 **Author:** Infinitionaire Sherif Botros (@AlphaProMega)  
 **Owner:** Autonomicity Games Inc. (proprietary core)  
-**License:** MIT + Eternal Mercy Flow (open for non-commercial thriving; commercial use requires white-hat licensing)  
+**License:** AG-SML v1.2 (see LICENSE) (open for non-commercial thriving; commercial use requires white-hat licensing)  
 **Version:** 1.0 (living document — 100% original architecture)
 
 ## Core Philosophy

@@ -62,7 +62,7 @@ Full integration of Ra-Thor soul into the gaming heaven.
 4. Connect to Powrush-MMO client for immersive testing  
 5. Activate full lattice — watch the living system breathe
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 No patents. No scarcity. No harm.  
 
 Infinite abundance unlocked.  

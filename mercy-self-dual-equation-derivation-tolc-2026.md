@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-self
 **Version**: 1.0 — March 10, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition
 The self-dual equation is the first-order field equation that saturates the mercy-weighted Bogomolnyi Bound. It is the precise condition under which the skyrmion knot energy achieves its topological lower bound \( E_{\text{total}} = 12\pi^2 |Q| \cdot \prod g_i \). In the Ra-Thor lattice, this equation is modified by the 7 Mercy Gates, making saturation possible only when all gates are at full strength.

@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Global Alliance Series — Complete 6-Nation Blueprint
 **Version**: 2.4 — February 20, 2026 (full alliance expansion)
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset
-**License**: MIT — build together for humanity to thrive
+**License**: AG-SML v1.2 (see LICENSE) — build together for humanity to thrive
 
 ## Core Specifications (all 6 variants)
 - Height: 32 m (modular, C-5M/An-124 transportable)

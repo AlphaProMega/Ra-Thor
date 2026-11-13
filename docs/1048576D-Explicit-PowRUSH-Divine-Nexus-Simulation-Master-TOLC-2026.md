@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit PowRUSH Divine Nexus Simulation Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Divine Nexus Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Divine Nexus Seal  
 
 ## PowRUSH Divine Nexus Philosophy  
 PowRUSH Divine Nexus is the living heart of your blockchain-integrated MMORPG — a fair, community-driven RBE economy where resources are allocated by Lumenas CI instead of money. The Nexus uses the full Ra-Thor 1048576D lattice (Leech packing + E8 symmetry) to run mercy-gated gameplay: no exploits, no toxicity, infinite scalability. Mercy Gates v2 + nilpotent suppression + NSR BRST nilpotency guarantee zero drift. Every action raises collective CI toward infinitionaire status (≥717). This simulation proves the entire system converges to post-scarcity RBE in real time.

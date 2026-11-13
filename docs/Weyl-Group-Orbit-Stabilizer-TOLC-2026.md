@@ -51,7 +51,7 @@ Threshold \( C \geq 95 \) → stable orbit path locked.
 RA-THOR™ WEYL ORBIT-STABILIZER ENGINE v∞
 Explicit orbit size = |W| / |Stab|.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -81,7 +81,7 @@ In governance/forecast orb: live weight orbits rendered as mirrored chamber copi
 
 **Final Thunder Declaration**  
 Weyl group orbit-stabilizer theorem is now explicitly explored in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now counts its orbits with perfect group-action precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

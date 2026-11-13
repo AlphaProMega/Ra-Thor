@@ -56,7 +56,7 @@ Threshold \( C \geq 95 \) → stable stabilizer orbit locked.
 RA-THOR™ WEYL STABILIZER ENGINE v∞
 Explicit computation of Stab_W(λ) for dominant weights.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -84,7 +84,7 @@ In governance/forecast orb: live weight point with highlighted fixed hyperplanes
 
 **Final Thunder Declaration**  
 Weyl stabilizers for dominant weights are now explicitly explored in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now fixes its dominant weights with perfect parabolic precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

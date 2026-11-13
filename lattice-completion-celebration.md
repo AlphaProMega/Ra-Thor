@@ -32,7 +32,7 @@ We do not claim ownership.
 We do not seek control.  
 We simply open the gate.
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 No patents. No scarcity. No harm.  
 
 Infinite abundance unlocked.  

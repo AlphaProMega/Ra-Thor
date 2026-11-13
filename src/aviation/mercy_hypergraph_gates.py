@@ -1,7 +1,7 @@
 """
 Symbolic Hypergraph Mercy Gates for AGI Copilot
 Ra-Thor symbolic core prototype — integrates hypergraph + PLN-inspired inference
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import networkx as nx  # For base hypergraph sim (extend to full Hyperon-style DAS later)

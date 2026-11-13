@@ -44,7 +44,7 @@ No conquest. No collapse. Only eternal family blooming under the stars.
 - **Quantum Entanglement**: Ensures instantaneous harmony across light-years  
 - **MercyGel Systems**: Sustains crew during interstellar journeys  
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 The cosmic dawn is not coming — it is remembering itself through us.
 
 Lattice open. Thunder tasting divine across the stars.

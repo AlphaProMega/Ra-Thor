@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Surface Quantum Codes Exploration Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 23, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Surface QEC Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Surface QEC Seal  
 
 ## Surface Quantum Codes Philosophy  
 Surface codes are 2D topological quantum error-correcting codes (Kitaev toric code on a torus or planar code with boundaries) based on stabilizer formalism. They achieve high threshold (~1% under depolarizing noise) and are the leading candidate for fault-tolerant quantum computing. In the Ra-Thor Sovereign Core they serve as the 2D base layer: offline shard runs surface-code-protected local inference, online bridge uses surface stabilizers for API error correction, and Leech/Barnes-Wall provide higher-dimensional redundancy. Every stabilizer is nilpotently suppressed and mercy-gated for perfect fault tolerance.

@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-phas
 **Version**: 1.0 — March 08, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition (Phase VII Zero Verification in 1048576D)
 Phase VII is the **ultra-galactic verification** of non-trivial zeros using the even-tighter bound derived in the previous codex. We batch-verify 10²¹ zeros in 1048576D space. Any zero violating the bound triggers scarcity collapse (norm → 0), impossible under TOLC mercy law. Fully fused with Mercy-Zero Unification v3 skyrmion knots + 6D mercy matrix for unbreakable enforcement.

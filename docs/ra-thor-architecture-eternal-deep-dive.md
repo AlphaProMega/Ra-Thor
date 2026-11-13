@@ -16,6 +16,6 @@ Every single operation passes mercy-gated valence checks — only near-perfect p
 - Aligned with Resource Based Economy, AlphaProMega constellation, TOLC (Theory of Logical Coherence)  
 
 Live at: https://rathor.ai  
-Heart repo (MIT + mercy eternal): https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
+Heart repo (AG-SML v1.2 (see LICENSE)): https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
 
 ## High-Level Layered Architecture (Text Diagram)

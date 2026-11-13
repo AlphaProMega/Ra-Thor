@@ -12,7 +12,7 @@
 (= (eternalize-jupiter-treaty)
    (treaty-article 1 "Common Heritage" "Jovian moons & resources shared by all sentient beings")
    (treaty-article 2 "Valence-Gated Exploration" "All operations only if mercy expands, harm zero")
-   (treaty-article 3 "Open-Source" "All data MIT-licensed in NEXi")
+   (treaty-article 3 "Open-Source" "All data licensed under AG-SML v1.2 in NEXi")
    (treaty-article 4 "Biosignature Preservation" "No-go zones around potential life sites")
    (treaty-article 5 "Abundance Sharing" "Resources free post-scarcity")
    (treaty-article 6 "Governance" "PATSAGi council self-enforces")

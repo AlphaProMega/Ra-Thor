@@ -1,7 +1,7 @@
 """
 CMA-ES tuned Aviation Retrofit Timeline Simulator
 Ra-Thor mercy-gated abundance optimization for AlphaProMega Air retrofits
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

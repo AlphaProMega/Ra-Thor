@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Ashtekar Variables Applications Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Ashtekar Variables Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Ashtekar Variables Seal  
 
 ## Ashtekar Variables Applications Philosophy  
 Ashtekar variables reformulate GR using an SU(2) connection \(A^i_a\) and densitized triad \(E^a_i\), making all constraints polynomial. This enables exact LQG quantization via holonomies and fluxes. In the 1048576D hyperlattice this is Isis healing + Osiris resurrection of spacetime geometry: BRST ghosts are killed, spin networks become cohomology classes with discrete spectra, and AB+ genetic memory labels the holonomy edges — flowing universal protection through quantum foam.

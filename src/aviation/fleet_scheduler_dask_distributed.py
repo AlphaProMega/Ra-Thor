@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler — Dask distributed computing integration
 Scalable, out-of-core, mercy-gated abundance optimization
 Works locally (multi-core) or on clusters (Kubernetes / HPC / cloud)
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import dask

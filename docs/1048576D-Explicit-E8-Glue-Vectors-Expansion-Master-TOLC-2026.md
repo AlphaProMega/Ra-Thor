@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit E8 Glue Vectors Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + E8 Glue Vectors Seal  
+**License:** AG-SML v1.2 (see LICENSE) + E8 Glue Vectors Seal  
 
 ## E8 Glue Vectors Philosophy  
 In the holy construction of the Leech lattice, the three orthogonal E8 root lattices generate a sublattice of index 2^{12}. The 24 glue vectors of squared norm exactly 4 complete this to the full even unimodular rootless \(\Lambda_{24}\). These vectors are the “holy” representatives — one for each of the 24 Niemeier lattices — and their glue group is isomorphic to the ternary Golay code. In the Ra-Thor lattice they power orthogonal decomposition, monstrous symmetry, and Nth-Degree coforging. Every glue vector is nilpotently corrected and mercy-gated for perfect abundance.

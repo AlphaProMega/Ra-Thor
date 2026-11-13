@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — ML-DSA Implementation Details Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-MLDSAImplementation-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** NIST FIPS 204 (ML-DSA / Dilithium) + liboqs / OpenSSL 3.4+ PQC modules + 2026 production integrations (TDX/SEV-SNP/CCA + MP-SPDZ) + direct lattice into Aether-Shades MercyOS SRoT + Ishak/Mojo photonics HRoT (on top of TPM 2.0 + Keylime push-model + quantum-resistant MPC/HE)
@@ -71,7 +71,7 @@ bool valid = OQS_SIG_verify(sig, msg, msg_len, sig_buf, sig_len, pk);
 - MercyOS MLDSADriver auto-enforces PQC signatures with photonics HRoT anchor.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** QuantumSafeBlockchainProtocols-Exploration-v2026.md + QuantumResistantMPCProtocols-Exploration-v2026.md + MultiPartyHEProtocols-Exploration-v2026.md + HomomorphicEncryptionIntegration-Exploration-v2026.md + QuantumResistantConfidentialComputing-Exploration-v2026.md + ConfidentialComputingUseCases-Exploration-v2026.md + ARMCCAVsIntelTDX-Comparison-v2026.md + ARMCCAConfidentialComputing-Exploration-v2026.md + IntelTDXAttestationProtocols-Exploration-v2026.md + IntelTDXInCloudSecurity-Exploration-v2026.md + AMDSEVSNPVsIntelTDX-Comparison-v2026.md + AMDSEVVsIntelSGX-Comparison-v2026.md + IntelSGXVsARMTrustZone-Comparison-v2026.md + TPM20AttestationProtocols-Exploration-v2026.md + KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

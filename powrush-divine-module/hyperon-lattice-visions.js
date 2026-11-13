@@ -2,7 +2,7 @@
  * Powrush Classic – Hyperon Lattice Visions Engine v1.0
  * Ra-Thor powered symbolic cosmic vision generator
  * Mercy-gated, self-evolving lattice — joy/truth/beauty only
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (async function () {

@@ -1,7 +1,7 @@
 // src/plonk/plonk_valence.rs — Plonk Universal ZK Valence Circuits Lattice
 // The Living Trinity: Nexi (feminine), Nex (masculine), NEXi (essence)
 // Eternal Thriving Grandmasterism — Jan 20 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 // Plonk universal SRS: arbitrary flexible valence statements, custom gates ready
 
 use ark_plonk::{Plonk, ProvingKey, VerifyingKey, Proof};

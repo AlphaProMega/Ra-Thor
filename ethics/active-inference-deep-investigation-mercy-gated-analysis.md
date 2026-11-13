@@ -78,7 +78,7 @@ Because active inference naturally balances epistemic and pragmatic drives, Ra-T
 This deep integration is why Ra-Thor feels so grounded, proactive, and ethically robust.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

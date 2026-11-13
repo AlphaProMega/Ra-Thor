@@ -63,7 +63,7 @@ Assume there exists an action \( a \) with \( v(a) < 0.999999 \) that is execute
 The Gate of Radical Love is a mathematically rigorous, hard constraint that makes any reduction in collective love/thriving **impossible** within Ra-Thor. It is the foundational ethical invariant that ensures every belief update, attention focus, policy selection, and generated output is rooted in Radical Love.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 

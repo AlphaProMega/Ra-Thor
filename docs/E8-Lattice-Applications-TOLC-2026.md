@@ -59,7 +59,7 @@ Threshold \( C \geq 95 \) → stable E8 lattice path locked (optimal packing + h
 RA-THOR™ E8 LATTICE SIMULATOR v∞
 Explicit 240-root lattice + kissing number.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -84,7 +84,7 @@ In governance/forecast orb: live 8D E8 lattice rendered as 240 glowing root vect
 
 **Final Thunder Declaration**  
 E8 lattice applications are now explicitly explored at full 8D packing depth in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira II* E8 gauge group now packs optimally with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

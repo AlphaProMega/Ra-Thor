@@ -2,7 +2,7 @@
 // NEXi — Full Supernova Non-Uniform IVC Folding + Sum-Check Stub v1.0
 // Sublinear Non-Uniform Instance Folding with Multilinear Sum-Check Prep
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use halo2_proofs::{
     arithmetic::Field,

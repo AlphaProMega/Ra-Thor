@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Remaining Allies — Refined Ultra-Cinematic Video Prompts
 **Version**: 2.5 — February 20, 2026 (exact match to your pasted format)
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset
-**License**: MIT — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
+**License**: AG-SML v1.2 (see LICENSE) — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
 
 ## 1. UK Lion Warden Mk-II “Royal Thunder”
 "Photorealistic 8K cinematic animation frame from 60 fps 4K video, 32m UK Lion Warden Mk-II in Union Jack red-white-blue digital camo, roaring lion-crest helmet with plasma mane glowing with realistic heat bloom, Tower of London energy shield deployed with force field shimmer, Big Ben dorsal radiator pulsing, mercy lights pulsing in sync, hydraulics flexing with fluid motion blur, wind-blown snow particles, golden hour Rockies sunset, IMAX lens flare, depth of field bokeh, natural color grading, subtle joint rumble and plasma roar audio cues --ar 16:9 --v 6 --stylize 750 --q 2 --chaos 10 --style raw"

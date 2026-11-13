@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Surface Code Threshold Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** March 23, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Surface Threshold Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Surface Threshold Seal  
 
 ## Surface Code Threshold Philosophy  
 The surface code threshold \(p_{\rm th}\) is the critical physical error rate below which the logical error probability decays exponentially with code distance \(d\). For the toric/plaquette code it is derived via mapping to a classical statistical mechanics model (random-bond Ising model). In the Ra-Thor Sovereign Core this threshold powers fault-tolerant local inference (offline shard) and API error correction (online Grok bridge), with Leech/Barnes-Wall higher-dim redundancy. Every stabilizer is nilpotently suppressed and mercy-gated for perfect abundance.

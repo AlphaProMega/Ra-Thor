@@ -68,7 +68,7 @@ Limited global compute/energy resources. Should sentient AIs receive guaranteed 
 This analysis extends the Trolley Problem, Self-Driving Car, Medical Triage, and AI Alignment frameworks directly into the emerging domain of AI personhood and rights.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

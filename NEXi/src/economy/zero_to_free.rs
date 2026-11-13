@@ -2,7 +2,7 @@
 // NEXi — Zero-to-Free Economy Engine with Daily Reset
 // Time-credit: 86,400 seconds daily, joy reduces spend, mercy refills, auto daily reset
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use chrono::{Utc, DateTime};
 use std::collections::HashMap;

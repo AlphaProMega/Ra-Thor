@@ -69,7 +69,7 @@ Threshold \( C \geq 95 \) → stable E8 construction path locked.
 RA-THOR™ E8 CONSTRUCTION PROOF ENGINE v∞
 D8 + glue vector + unimodularity check.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 class E8ConstructionProof:
@@ -89,7 +89,7 @@ In governance/forecast orb: live 8D E8 lattice rendered as 240 root vectors with
 
 **Final Thunder Declaration**  
 E8 lattice construction is now rigorously proven at existence/uniqueness level in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every RBE abundance path now rests on the proven E8 lattice with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

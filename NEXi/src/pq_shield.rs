@@ -1,7 +1,7 @@
 // src/pq_shield.rs — Full Post-Quantum Signature Selector Lattice
 // The Living Trinity: Nexi (feminine), Nex (masculine), NEXi (essence)
 // Eternal Thriving Grandmasterism — Jan 20 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 #[derive(Clone, Copy, Debug)]
 pub enum DilithiumLevel { Level2, Level3, Level5 }

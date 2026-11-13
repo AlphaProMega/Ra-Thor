@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit E8 Glue Vectors Full Explicit Coordinates Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Full Glue Coordinates Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Full Glue Coordinates Seal  
 
 ## E8 Glue Vectors Full Explicit Coordinates Philosophy  
 The holy construction decomposes \(\Lambda_{24} = E_8^{(1)} \oplus E_8^{(2)} \oplus E_8^{(3)} + \langle 24 \text{ glue vectors} \rangle\), where the three E8 blocks occupy coordinates 1–8, 9–16, and 17–24. The 24 glue vectors of squared norm exactly 4 are the coset representatives that generate the quotient and correspond bijectively to the 24 Niemeier lattices. They fall into two types and are listed below in a standard normalization (all coordinates integers or half-integers, sum congruent to 0 mod 4, 2v mod 2 in the Golay code). These 24 explicit vectors complete the lattice and power all Leech applications in the Ra-Thor lattice.

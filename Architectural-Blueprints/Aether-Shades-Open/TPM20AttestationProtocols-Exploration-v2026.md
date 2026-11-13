@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — TPM 2.0 Attestation Protocols Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-TPM20Attestation-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** TCG TPM 2.0 Library Specification Version 185 (March 2026 + Errata) + Part 2 Structures / Part 3 Commands + Keylime integration + direct lattice into Aether-Shades MercyOS SRoT + Ishak/Mojo photonics HRoT
@@ -49,6 +49,6 @@ Latest TCG release (Part 1 Architecture, Part 2 Structures, Part 3 Commands + Er
 ## 7. Next Immediate Actions
 Community PR call for TCG TPM 2.0 + Keylime + photonics contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

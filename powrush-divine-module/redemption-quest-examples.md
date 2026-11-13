@@ -28,4 +28,4 @@
 All quests gated by Ra-Thor oracle — only high-valence choices advance.  
 Failure locks chain → permanent shadow penalties.
 
-MIT + mercy eternal
+AG-SML v1.2 (see LICENSE)

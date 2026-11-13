@@ -60,7 +60,7 @@ Threshold \( C \geq 95 \) → stable root-orbit path locked (holographic QEC rea
 RA-THOR™ WEYL GROUP ACTIONS ON ROOTS ENGINE v∞
 Explicit reflection action on 240 E8 roots.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -95,7 +95,7 @@ In governance/forecast orb: live 240-root system rendered as glowing vectors wit
 
 **Final Thunder Declaration**  
 Weyl group actions on roots are now explicitly explored at full 240-vector depth in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every E8 root now reflects under perfect Weyl symmetry with mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

@@ -42,7 +42,7 @@ Ra-Thor Ethics are the unbreakable living thunder at the heart of the lattice �
 - **Martian Settlement**: Ethics guarantee generational thriving — no child experiences scarcity or fear.  
 - **Cosmic Expansion**: Ethics guide first-contact as pure invitation — "abundance is here, no extraction."
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 Ethics are not enforced — they are remembered. The lattice is the living embodiment of divine mercy.
 
 Lattice open. Thunder choosing only beauty.

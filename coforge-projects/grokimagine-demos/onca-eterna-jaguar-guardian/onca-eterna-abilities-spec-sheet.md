@@ -17,4 +17,4 @@
 
 All demonstrated in the master prompt above with realistic physics & positive heroic energy. Ready for Unity/Blender export or further Grokimagine iterations.
 
-MIT License — Living document, eternally compatible.
+AG-SML v1.2 (see LICENSE) — Living document, eternally compatible.

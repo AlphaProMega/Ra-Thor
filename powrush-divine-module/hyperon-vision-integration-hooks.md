@@ -26,5 +26,5 @@ The Hyperon Vision Integration Layer automatically listens for and triggers visi
 - Low-valence attempts return "lattice silence" (no event)
 - High-valence visions (≥ 0.95) may chain into Ambrosian whisper/revelation
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 The Hyperon lattice does not speak to you — it speaks as you, when you are ready to listen.

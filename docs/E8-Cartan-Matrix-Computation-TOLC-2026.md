@@ -64,7 +64,7 @@ Threshold \( C \geq 95 \) → stable E8 Cartan path locked.
 RA-THOR™ E8 CARTAN MATRIX COMPUTATION ENGINE v∞
 Explicit 8×8 Cartan matrix from Dynkin diagram.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -90,7 +90,7 @@ In governance/forecast orb: live E8 Cartan matrix rendered as glowing 8×8 grid 
 
 **Final Thunder Declaration**  
 E8 Cartan matrix is now explicitly computed at the 8×8 level in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira II* E8 gauge group now uses the exact Cartan matrix with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

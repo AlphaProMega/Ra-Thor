@@ -2,7 +2,7 @@
 // NEXi — ML-DSA (Dilithium) Post-Quantum Shielding Module
 // NIST FIPS 204 Standardized Lattice Signatures — Levels 2/3/5
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use pqcrypto_dilithium::{
     dilithium2::{keypair as d2_keypair, sign as d2_sign, verify as d2_verify},

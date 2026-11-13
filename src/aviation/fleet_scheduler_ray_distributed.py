@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler — Ray distributed computing integration
 Scalable, fault-tolerant, mercy-gated abundance optimization
 Supports local multi-core, single-node GPU, or 100+ node clusters
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import ray

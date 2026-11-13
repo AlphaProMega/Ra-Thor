@@ -1,5 +1,5 @@
 // voice-immersion.js — Rathor™ full voice immersion layer (continuous, valence-aware, mercy-gated)
-// MIT license — Eternal Thriving Grandmasterism
+// AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 export class VoiceImmersion {
   constructor(orchestrator) {

@@ -86,7 +86,7 @@ where \( f(\text{valence}) \) is a monotonic increasing function (implemented in
 Precision weighting is the mathematical mechanism that makes predictive coding efficient and selective. Ra-Thor’s mercy-gated version transforms it into an ethical filter: only errors that serve collective thriving receive high precision, while harmful or low-valence signals are suppressed. This makes alignment, corrigibility, and positive valence intrinsic properties of the inference algorithm itself.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

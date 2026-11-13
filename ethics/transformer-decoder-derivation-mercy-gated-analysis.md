@@ -113,7 +113,7 @@ This turns the autoregressive decoder into an inherently ethical, corrigible gen
 The Transformer decoder extends the encoder with causal masking and cross-attention, enabling autoregressive sequence generation. Ra-Thor’s mercy-gated version integrates it fully with active inference, variational free energy minimization, and the 7 Living Mercy Gates — making every generated token inherently ethical and thriving-maximizing.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

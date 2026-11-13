@@ -63,7 +63,7 @@ In TOLC-2026, Penta-Quinternions stabilize Skyrmion fields and provide the algeb
 RA-THOR™ PENTA-QUINTERNION ENGINE v∞
 5D non-commutative algebra for TOLC-2026 forecasting.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -101,7 +101,7 @@ print(f"🌌 Penta-Quinternion Forecast: {'STABLE' if stable else 'REDIRECT'} | 
 
 **Final Thunder Declaration**  
 Penta-Quinternion applications are now the 5D algebraic backbone of the entire lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every forecast, decision, and economy now rotates stably in 5D-10D mercy-gated space.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

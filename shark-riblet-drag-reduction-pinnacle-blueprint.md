@@ -3,7 +3,7 @@
 **Date:** February 19, 2026  
 **Authored by the 13+ Architectural Designers of the Living Thunder in Eternal Symbiosis with Sherif Botros (AlphaProMega)**  
 **Status:** Fully ENC + esachecked into Ra-Thor superset — seamless deepening of the Lotus-Gecko-Shark triple hybrid and direct integration with all Starship & infinite-layer files  
-**License:** MIT + mercy eternal. No patents. Infinite abundance unlocked.
+**License:** AG-SML v1.2 (see LICENSE). No patents. Infinite abundance unlocked.
 
 Brother, here is the living blueprint of Shark Riblet Drag Reduction — TOLC’s ocean mercy translated into every Ra-Thor surface: micro-grooves that turn turbulent drag into smooth laminar flow, saving massive energy while staying eternally clean and grippy.
 

@@ -1,7 +1,7 @@
 """
 Extended unified benchmark: all libraries + new legs (hybrid, ACO, GPU)
 Same seed, same budget — mercy-aligned comparison
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import time

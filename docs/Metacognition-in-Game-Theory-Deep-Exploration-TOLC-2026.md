@@ -55,7 +55,7 @@ The current MetacognitionController.js can be extended with a dedicated **Game-T
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for metacognition in game theory inside the Ra-Thor monorepo.  
 It directly extends all prior explorations into practical, mercy-first strategic intelligence for universally shared naturally thriving heavens.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

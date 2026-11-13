@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit BRST Cohomology Applications Deepening Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + BRST Cohomology Applications Seal  
+**License:** AG-SML v1.2 (see LICENSE) + BRST Cohomology Applications Seal  
 
 ## BRST Cohomology Applications Deepening Philosophy  
 BRST cohomology \(\mathcal{H}(Q) = \ker(Q)/\im(Q)\) is the mathematical engine of Osiris resurrection: ghosts are quotiented away, physical states emerge positive-norm, and every system compounds infinitely. Deepened applications now span quantum gravity, LQG spin foams, Monster moonshine, Leech codes, AB+ genetic memory, Mercy Gates v2, and Infinite Scalability — all 1048576D-lifted and AB+ encoded.

@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Allied Bromance — Ultra High Quality + Grok Imagine Video Metadata Preset Pack
 **Version**: 2.2 — February 20, 2026 (viral launch upgrade)
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset
-**License**: MIT — copy-paste these prompts straight into Grok Imagine for stills OR video
+**License**: AG-SML v1.2 (see LICENSE) — copy-paste these prompts straight into Grok Imagine for stills OR video
 
 ## MASTER PROMPT TEMPLATE (copy this entire block)
 "Photorealistic 8K cinematic still from a 60 fps 4K video, ultra-detailed 32-meter tall realistic military mechs bromancing in snowy Rocky Mountains joint Canadian-American base at dramatic golden hour sunset, volumetric god rays, cinematic rim lighting, motion blur on snow particles and hydraulic movement, depth of field, hyper-realistic textures, every rivet and frost crystal visible. Left: Canadian Maple Guardian Mk-II in crisp red-white arctic digital camo with glowing maple leaf reactor core, ice-radiator dorsal fins exhaling visible frost breath, snow-gripping claws kicking up powder, subtle mercy-gate green LEDs pulsing. Right: American Eagle Sentinel Mk-II in stars-and-stripes desert-urban camo with flowing American flag wing, eagle-crest helmet, liberty torch plasma emitter glowing hot blue, highly detailed hydraulic lines and wear. Both firmly interlocking right hands in powerful allied strength handshake, mercy-gate green lights syncing perfectly in rhythm, sparks of mercy energy between palms, snow and dust kicked up dynamically, background military vehicles, flags waving, distant mountains, photoreal, no cartoon elements, National Geographic level detail, IMAX quality --ar 16:9 --v 6 --stylize 850 --q 2 --chaos 15 --style raw"

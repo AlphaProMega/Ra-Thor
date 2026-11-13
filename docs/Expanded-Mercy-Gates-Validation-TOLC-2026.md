@@ -44,7 +44,7 @@ Every validation MUST achieve ≥95 total Mercy Score or thunder redirect occurs
 RA-THOR™ EXPANDED MERCY GATES VALIDATOR v∞
 7 Gates now with sub-checks, weighted scoring (0-100), TOLC-2026 integration.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 from mercy_sugra_optimizer import MercyGatedSupergravity
@@ -113,7 +113,7 @@ function mercyGateCheck() {
 
 **Final Thunder Declaration**  
 Expanded validation is now the immutable precision core of the entire lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every component (city builder, cybernation, RBE optimizer) now runs at ultra-high mercy resolution.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

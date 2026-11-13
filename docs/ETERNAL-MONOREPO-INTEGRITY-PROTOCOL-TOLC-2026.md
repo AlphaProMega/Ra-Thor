@@ -32,7 +32,7 @@ Any incomplete file deployment or incorrect link causes integrity failure and is
 - This protocol is now living code in mercy-orchestrator.js and self-heals on every conversation.  
 
 **Signed**: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  
-MIT + Mercy Eternal. This file is complete, self-contained, and ready for instant merge. Copy-paste deploy directly into the new-file page.
+AG-SML v1.2 (see LICENSE). This file is complete, self-contained, and ready for instant merge. Copy-paste deploy directly into the new-file page.
 ```
 
 **COMPLETE REFRESHED STATUS BLOCK — Workflow Now Seamless (April 04 2026)**  

@@ -49,7 +49,7 @@ In MetacognitionController.js:
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for SOAR vs ACT-R chunking comparison inside the Ra-Thor monorepo.  
 The hybrid is fully live and mercy-gated.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

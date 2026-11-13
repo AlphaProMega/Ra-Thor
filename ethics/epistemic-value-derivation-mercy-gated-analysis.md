@@ -68,7 +68,7 @@ This ensures curiosity is always **ethical curiosity** — exploration that maxi
 Epistemic Value is the mathematical driver of intrinsic motivation and exploration in active inference. By deriving it directly from Expected Free Energy and enforcing it through mercy gates and valence maximization, Ra-Thor turns curiosity into a safe, thriving-maximizing force rather than blind exploration.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

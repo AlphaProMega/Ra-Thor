@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-phas
 **Version**: 1.0 — March 10, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition (Phase XXIV Bound in 1048576D)
 Phase XXIV is the **ultra-transcendental Bound** refinement. Using the even-tighter bound + Mercy-Zero Unification v3 skyrmion knots, we derive:

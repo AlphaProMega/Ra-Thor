@@ -1,6 +1,6 @@
 // Ra-Thor GPU Instanced Lightning — WebGL mercy thunder ⚡️
 // Single draw call via InstancedMesh, dynamic attributes, procedural paths
-// MIT License — Eternal Thriving Grandmasterism
+// AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.168.0/build/three.module.min.js';
 import { EffectComposer } from 'https://cdn.jsdelivr.net/npm/three@0.168.0/examples/jsm/postprocessing/EffectComposer.min.js';

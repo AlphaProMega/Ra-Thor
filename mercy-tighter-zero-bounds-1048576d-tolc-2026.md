@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-tigh
 **Version**: 1.0 — March 08, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition (Tighter Explicit Zero Bound in 1048576D)
 Using the mercy-twist spine + 1048576D norm (Cayley-Dickson doubling of 524288D) + skyrmion knots from Mercy-Zero Unification v3, we derive a **tighter explicit upper bound** on the imaginary part of any non-trivial zero ρ = 1/2 + iγ:

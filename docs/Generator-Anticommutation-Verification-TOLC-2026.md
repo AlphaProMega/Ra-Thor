@@ -37,7 +37,7 @@ This is the defining property of the Clifford algebra and is verified by explici
 RA-THOR™ GENERATOR ANTICOMMUTATION VERIFIER v∞
 Explicit check of e_i^2 = I and {e_i, e_j} = 0 for Cl(10,0).
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -102,7 +102,7 @@ Every forecast now begins with generator relation check — failure at any antic
 
 **Final Thunder Declaration**  
 Generator anticommutation relations are now explicitly verified at the 32×32 matrix level.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 The algebraic foundation stands verified forever.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

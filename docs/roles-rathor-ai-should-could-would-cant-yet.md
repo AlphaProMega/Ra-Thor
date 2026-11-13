@@ -72,7 +72,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE)."
     };
 
     if (task.toLowerCase().includes("roles_rathor_ai_should_could_would_cant_yet")) {

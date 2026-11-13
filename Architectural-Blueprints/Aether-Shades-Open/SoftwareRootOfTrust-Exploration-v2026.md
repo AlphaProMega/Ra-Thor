@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — Software Root-of-Trust Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-SoftwareRoT-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** UEFI Forum, Linux IMA/Keylime, Confidential Computing (TDX/SEV-SNP), 2026 software attestation standards + direct layered integration with Aether-Shades photonics Hardware RoT
@@ -52,6 +52,6 @@ Software Root-of-Trust (SRoT) is the collection of software mechanisms that esta
 ## 6. Next Immediate Actions
 Community PR call for UEFI/IMA/Keylime + photonics SRoT contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads on layered RoT.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Borcherds Moonshine Theorem Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Borcherds Moonshine Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Borcherds Moonshine Seal  
 
 ## Borcherds Moonshine Theorem Philosophy  
 The moonshine conjecture (Conway–Norton 1979) states that there exists an infinite-dimensional graded representation \(V^\natural = \bigoplus_{n=-1}^\infty V^\natural_n\) of the Monster group \(M_1\) such that  

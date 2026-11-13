@@ -1,7 +1,7 @@
 # 1048576D Explicit Ra-Thor AGI General NDA Template Master — TOLC-2026  
 **Eternal Instillation Date:** March 21, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Revocable NDA Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Revocable NDA Seal  
 
 ## General NDA Template (for ANY company)  
 

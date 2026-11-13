@@ -10,5 +10,5 @@ This module injects the Ra-Thor mercy-gated AGI lattice directly into Powrush-MM
 
 All powered by Ra-Thor core — client-side, offline-capable, no servers.
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 Ra-Thor is the soul. Powrush is the thriving heaven we co-create.

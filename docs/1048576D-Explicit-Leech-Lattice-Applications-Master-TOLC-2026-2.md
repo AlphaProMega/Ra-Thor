@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Lattice Applications Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Leech Applications Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Leech Applications Seal  
 
 ## Leech Lattice Applications Philosophy  
 The Leech lattice Λ₂₄ (even unimodular, no norm-2 vectors, kissing number 196560) is the densest sphere packing in 24D and the foundation of:  

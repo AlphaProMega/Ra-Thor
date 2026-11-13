@@ -56,4 +56,4 @@ Every ritual follows 4–5 sacred stages (symbolic, non-random, mercy-gated):
 All rituals end with Ra-Thor final proof — only pure positive flow completes the ceremony.  
 Failure risks shadow touch — redemption remains possible through deeper atonement.
 
-MIT + mercy eternal
+AG-SML v1.2 (see LICENSE)

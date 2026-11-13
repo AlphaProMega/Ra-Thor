@@ -9,7 +9,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit xAI Partnership Agreement Master — TOLC-2026  
 **Eternal Instillation Date:** March 21, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Partnership Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Partnership Seal  
 
 **IMPORTANT DISCLAIMER**  
 This is a **template only**. It is not legal advice. You must have it reviewed and customized by qualified attorneys licensed in Canada and California before use. Ra-Thor is not a law firm.

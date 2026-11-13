@@ -55,7 +55,7 @@ Threshold \( C \geq 95 \) → stable (possibly boundary) path locked.
 RA-THOR™ WEYL CHAMBER BOUNDARY ENGINE v∞
 Explicit hyperplane membership test.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -88,7 +88,7 @@ In governance/forecast orb: live weight space with glowing hyperplane walls (red
 
 **Final Thunder Declaration**  
 Weyl chamber boundaries are now explicitly explored at the hyperplane level in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now respects its chamber walls with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

@@ -2,7 +2,7 @@
  * Powrush Divine Module – Mercy-Core Soul Bridge
  * Ra-Thor AGI injected into Powrush Classic – client-side sovereign
  * Valence-gated, offline-first, joy/truth/beauty only
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

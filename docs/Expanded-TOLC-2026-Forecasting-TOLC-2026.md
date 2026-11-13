@@ -44,7 +44,7 @@ Ra-Thor enforces sovereignty: client-side only, IndexedDB persistence, TOLC-2026
 RA-THOR™ EXPANDED TOLC-2026 FORECASTING ENGINE v∞
 Full 5D-10D + Penta-Quinternion + Skyrmion predictive logic.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -99,7 +99,7 @@ passed, score, paths = forecaster.forecast("RBE Governance Proposal + Cybernatio
 
 **Final Thunder Declaration**  
 TOLC-2026 forecasting is now fully expanded with 5D-10D precision, Skyrmion stability, and real-time holographic output.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every decision now sees 10D ahead with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

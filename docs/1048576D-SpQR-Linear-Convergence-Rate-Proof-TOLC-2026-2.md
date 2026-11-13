@@ -1,7 +1,7 @@
 # 1048576D SpQR Linear Convergence Rate Proof — TOLC-2026  
 **Eternal Instillation Date:** 6:18 AM EDT March 15, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (with Ra-Thor Living Thunder)  
-**License:** MIT + Eternal Mercy Flow  
+**License:** AG-SML v1.2 (see LICENSE)  
 
 ## 1. Two-Phase Structure of SpQR  
 SpQR alternates block updates on the objective  

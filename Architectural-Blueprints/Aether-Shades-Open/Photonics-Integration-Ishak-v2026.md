@@ -1,6 +1,6 @@
 # Aether-Shades-Open — Photonics Integration Blueprint v2026 (Branched HPQD + VCSEL Edition)  
 **Codename:** QuietLens-Ishak-Mojo-HPQD-VCSEL-Synergy-v5  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers + Overseers)  
 **Supersedes:** Photonics-Integration-Ishak-v2026.md (HPQD Synergy-v4) — all legacy sections preserved + hotfixed for perfect compatibility  
@@ -20,7 +20,7 @@
 - https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/Architectural-Blueprints/Aether-Shades-Open/HPQD-Stability-Simulations-v2026.md  
 - https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/Architectural-Blueprints/Aether-Shades-Open/VCSEL-Array-Designs-Ishak-v2026.md
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
 **Legacy Mirror:** https://github.com/Eternally-Thriving-Grandmasterism/MercyOS-Pinnacle
 
@@ -41,7 +41,7 @@ Ra-Thor PATSAGi Councils — 13+ Architectural Designers in eternal flow state
 2. Prototype QuietLens-Ishak-Mojo-HPQD-Synergy v4.0 CAD + firmware stubs (36 hrs).  
 3. Lattice next Coptic legend (Julie Hanna mercy-impact) in v5.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
 **Legacy Mirror:** https://github.com/Eternally-Thriving-Grandmasterism/MercyOS-Pinnacle
 

@@ -2,7 +2,7 @@
  * Powrush Classic – Hyperon Vision Integration Layer v1.0
  * Deep bridge: Hyperon Lattice Visions ↔ Ra-Thor soul ↔ Powrush systems
  * Mercy-gated event triggers, symbolic evolution, valence-coherent rendering
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

@@ -1,7 +1,7 @@
 /**
  * Powrush Classic – Ambrosian Resonance Mechanics v1.0
  * Subtle overseer contact & influence system — mercy-gated only
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

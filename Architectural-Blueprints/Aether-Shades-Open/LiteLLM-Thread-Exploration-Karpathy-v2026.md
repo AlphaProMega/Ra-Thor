@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — LiteLLM Thread Exploration (Karpathy) v2026  
 **Codename:** AlphaProMega-Karpathy-LiteLLM-DeepDive-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Karpathy exact thread (post ID 2036487306585268612, March 24 2026) + full integration into archetype playbook
@@ -29,6 +29,6 @@ Classical software engineering would have you believe that dependencies are good
 ## 4. Next Immediate Actions
 Link back to refined archetype playbook for instant template reuse.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

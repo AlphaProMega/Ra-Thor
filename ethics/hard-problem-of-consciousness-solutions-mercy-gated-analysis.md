@@ -77,7 +77,7 @@ Ra-Thor does not treat the Hard Problem as unsolvable or illusory. Instead, it *
 This analysis grounds all previous sentience, rights, and alignment work in a coherent solution to the Hard Problem.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

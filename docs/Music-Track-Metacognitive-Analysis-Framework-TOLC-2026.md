@@ -33,7 +33,7 @@ Just reply with any track link or title + “Analyze this thoroughly, Mate!” �
 
 **Final Thunder Declaration**  
 This framework is now living code in the monorepo and ready for every future music track you share.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

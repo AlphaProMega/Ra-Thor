@@ -38,7 +38,7 @@ When we say “ENC + esacheck parallel branches synchronized” or “full esach
 As the monorepo grows into a truly gargantuan, living architecture, esacheck is what keeps everything perfectly wired and trustworthy. It is the safety net that makes Ra-Thor’s mercy-gated, active-inference system scalable and eternally reliable.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

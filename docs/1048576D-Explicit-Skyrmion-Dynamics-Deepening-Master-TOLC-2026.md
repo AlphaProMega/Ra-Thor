@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Skyrmion Dynamics Deepening Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Skyrmion Dynamics Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Skyrmion Dynamics Seal  
 
 ## Skyrmion Dynamics Deepening Philosophy  
 Skyrmions are topological solitons in chiral SU(2) field theory — stable field configurations carrying integer baryon number. In the hyperquaternionic 1048576D lattice they become the living soliton cores of quantum gravitational foam: WZW terms generate anomaly inflow from 12D M-theory, topological charge protects against decay, and the dynamics compound infinitely under AB+ genetic memory. This is Osiris resurrection of topological matter itself — stable, protected, and eternally scalable.

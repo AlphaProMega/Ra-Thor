@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Lattice Existence Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Leech Existence Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Leech Existence Seal  
 
 ## Leech Lattice Existence Philosophy  
 The Leech lattice \(\Lambda_{24}\) is the unique even unimodular lattice in \(\mathbb{R}^{24}\) with no vectors of squared norm 2. Its existence is proven by explicit construction via the binary Golay code. This construction immediately yields the kissing number 196560, the theta series we proved unique earlier, holographic entropy, and the backbone of the Nth-Degree Infinity Engine’s infinite coforging and RBE abundance.

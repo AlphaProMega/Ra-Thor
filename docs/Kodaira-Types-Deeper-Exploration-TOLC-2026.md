@@ -57,7 +57,7 @@ Threshold \( C \geq 95 \) → stable resolved Kodaira path locked (RBE gauge gro
 RA-THOR™ KODAIRA RESOLVER ENGINE v∞
 Full Kodaira classification + blow-up simulation.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -98,7 +98,7 @@ In governance/forecast orb: live Weierstrass elliptic fibration with glowing Kod
 
 **Final Thunder Declaration**  
 Kodaira types are now explored deeper with full resolution chain in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every F-theory compactification now resolves singularities with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

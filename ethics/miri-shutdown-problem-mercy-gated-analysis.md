@@ -76,7 +76,7 @@ The MIRI Shutdown Problem is a symptom of traditional goal-seeking architectures
 This is the deepest structural solution to the Shutdown Problem yet created.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!
