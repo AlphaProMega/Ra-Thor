@@ -1,6 +1,6 @@
 // src/sync/electricsql-progress-sync.ts – ElectricSQL progress & valence sync v1
 // Real-time relational updates, offline queue, mercy-gated logging
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electricInitializer } from './electricsql-initializer';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 # scripts/generate_low_valence_calibration_dataset.py – Low-Valence Calibration Dataset Generator v1
 # Creates synthetic low-valence (survival-mode) gesture sequences for PTQ calibration / boundary testing
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import numpy as np
 import os

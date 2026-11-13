@@ -1,7 +1,7 @@
 // src/inference/ensemble_fusion.ts – Ensemble Fusion Layer v1.0
 // Combines multiple gesture transformer variants via valence-weighted soft voting
 // Disagreement entropy gating, mercy-protected output, uncertainty-aware rejection
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as ort from 'onnxruntime-web';
 import { currentValence } from '@/core/valence-tracker';

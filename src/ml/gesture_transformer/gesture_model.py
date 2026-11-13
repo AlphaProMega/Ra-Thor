@@ -2,7 +2,7 @@
 # Multi-head self-attention over time + landmarks, positional encoding,
 # valence-conditioned attention scaling, residual connections, layer norm
 # PyTorch 2.3+, CUDA-ready, ONNX exportable
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

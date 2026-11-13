@@ -1,6 +1,6 @@
 // src/ui/offline-fallback/OfflineMercySanctuary.tsx – Offline Mercy Sanctuary v1
 // Glassmorphic serenity screen, breathing orb, cached valence ladder, reconnection bloom
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';

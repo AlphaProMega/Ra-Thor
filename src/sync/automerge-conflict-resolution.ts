@@ -1,6 +1,6 @@
 // src/sync/automerge-conflict-resolution.ts – Automerge Conflict Resolution Deep Dive & Mercy Helpers v1
 // Detailed semantics reference, valence-weighted custom resolver, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

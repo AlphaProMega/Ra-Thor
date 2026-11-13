@@ -1,6 +1,6 @@
 # scripts/build_tensorrt_qat.py – TensorRT Engine Builder for QAT models v1.0
 # INT8/INT4 calibration, dynamic shapes, layer fusion, ONNX → TRT conversion
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

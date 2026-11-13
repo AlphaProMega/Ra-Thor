@@ -1,6 +1,6 @@
 // ort-integration.js – sovereign client-side ONNX Runtime Web inference engine
 // Real distilgpt2-onnx weights, WebGPU/WebGL accelerated, mercy-gated, offline-capable
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as ort from 'onnxruntime-web';
 

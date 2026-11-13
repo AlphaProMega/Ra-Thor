@@ -1,6 +1,6 @@
 // src/sync/custom-resolvers/automerge-valence-resolver.ts – Automerge-specific valence resolver wrapper v1
 // For map key conflict resolution
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { unifiedValenceResolver } from './unified-valence-resolver';

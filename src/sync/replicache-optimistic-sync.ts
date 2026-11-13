@@ -1,6 +1,6 @@
 // src/sync/replicache-optimistic-sync.ts – Replicache Optimistic Offline-First Sync Layer v1
 // Valence-aware mutations, server push/pull, rollback on rejection, reconnection bloom
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import Replicache from 'replicache';
 import { currentValence } from '@/core/valence-tracker';

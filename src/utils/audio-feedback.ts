@@ -1,7 +1,7 @@
 // src/utils/audio-feedback.ts – Audio Feedback Library v1.0
 // Valence-modulated pure tones, chords, sweeps, pulses via Web Audio API
 // Mercy-gated volume & frequency, haptic/visual sync, offline-safe (no external files)
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

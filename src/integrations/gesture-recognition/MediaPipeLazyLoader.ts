@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/MediaPipeLazyLoader.ts – MediaPipe Holistic WASM Lazy Loader v1
 // Deferred WASM download, instantiation, model init — only on explicit activation
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

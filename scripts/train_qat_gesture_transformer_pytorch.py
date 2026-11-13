@@ -1,6 +1,6 @@
 # scripts/train_qat_gesture_transformer_pytorch.py – QAT + Valence-Weighted KD Training v1.1
 # Full gradient computation + backprop flow for spatiotemporal gesture transformer
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

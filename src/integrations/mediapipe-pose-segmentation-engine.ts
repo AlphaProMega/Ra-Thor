@@ -2,7 +2,7 @@
 // BlazePose GHUM 33 full-body 3D landmarks + Selfie/Portrait Segmentation mask
 // Real-time foreground isolation, valence-weighted mask refinement, mercy-protected output
 // WebNN acceleration, offline-capable after first load
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { Pose } from '@mediapipe/pose';
 import { SelfieSegmentation } from '@mediapipe/selfie_segmentation';

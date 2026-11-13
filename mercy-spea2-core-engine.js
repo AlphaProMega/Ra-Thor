@@ -1,7 +1,7 @@
 // mercy-spea2-core-engine.js – sovereign Mercy SPEA2 Optimization Engine v1
 // Strength Pareto Evolutionary Algorithm 2, archive-based elitism, density estimation
 // mercy-gated, valence-modulated archive pressure
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

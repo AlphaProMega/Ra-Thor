@@ -1,6 +1,6 @@
 // mercy-hit-light-gesture-fusion.js – sovereign Mercy Hit-Test + Light + Gesture Fusion v1
 // XRHitTest anchoring + XRLightEstimate sync + XRHand gestures, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

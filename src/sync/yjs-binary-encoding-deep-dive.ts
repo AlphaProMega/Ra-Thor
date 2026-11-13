@@ -1,6 +1,6 @@
 // src/sync/yjs-binary-encoding-deep-dive.ts – Yjs Binary Encoding Deep Dive Reference & Mercy Helpers v1
 // Format details, size estimation, custom optimizations for multiplanetary sync
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 

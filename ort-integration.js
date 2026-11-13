@@ -1,6 +1,6 @@
 // ort-integration.js – sovereign client-side ONNX Runtime Web inference engine v3
 // Real Llama-3.2-1B-Instruct-onnx weights + optimized tokenizer, WebGPU/WebGL, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as ort from 'onnxruntime-web';
 

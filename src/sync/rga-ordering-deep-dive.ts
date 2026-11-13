@@ -1,6 +1,6 @@
 // src/sync/rga-ordering-deep-dive.ts – RGA Ordering Deep Dive Reference & Mercy Helpers v1
 // Detailed position ID mechanics, boundary adjustment, valence-weighted override
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

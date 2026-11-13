@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/QuantizedGestureModel.ts – Quantized Model Loader v9
 // QAT preference chain (per-channel INT8/INT4/ternary), valence gating, mercy fallback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as tf from '@tensorflow/tfjs';
 import '@tensorflow/tfjs-backend-webgl';

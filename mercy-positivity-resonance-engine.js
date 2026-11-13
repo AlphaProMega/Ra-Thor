@@ -1,7 +1,7 @@
 // mercy-positivity-resonance-engine.js – sovereign Mercy Positivity Resonance Engine v1
 // Shared affect + behavioral synchrony + neural coupling approximation, upward spiral tracking
 // mercy-gated, valence-modulated micro-moment amplification
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

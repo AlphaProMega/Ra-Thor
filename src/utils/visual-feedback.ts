@@ -1,7 +1,7 @@
 // src/utils/visual-feedback.ts – Visual Feedback Library v1.0
 // Valence-modulated glyphs, particles, glows, ripples, mercy-gated visuals
 // Works offline, low-power CSS-first, haptic sync
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

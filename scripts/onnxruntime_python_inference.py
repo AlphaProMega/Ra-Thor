@@ -1,6 +1,6 @@
 # scripts/onnxruntime_python_inference.py – ONNX Runtime Python Inference Runner v1
 # Multi-backend (CPU, CUDA, TensorRT, DirectML), valence-aware model selection, batch inference
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import time

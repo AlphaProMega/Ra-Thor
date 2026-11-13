@@ -1,6 +1,6 @@
 // mercy-flow-in-education-blueprint.js – sovereign Mercy Flow-in-Education Blueprint v1
 // Flow state engineering for learning, adaptive challenge, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { mercyFlow } from './mercy-flow-state-engine.js';
 

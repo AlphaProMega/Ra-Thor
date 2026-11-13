@@ -1,6 +1,6 @@
 // mercy-flow-state-audit.js – sovereign Mercy Flow State Audit & Live Monitoring v1
 // Real-time flow score calculation, adaptive challenge tuning, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

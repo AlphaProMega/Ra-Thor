@@ -1,7 +1,7 @@
 // src/utils/temporal-smoothing.ts – Temporal Smoothing Techniques v1.0
 // EMA, Kalman, Savitzky-Golay, one-euro, valence-adaptive hybrid smoothing
 // Mercy-gated outlier rejection, real-time jitter reduction for landmarks/trajectories
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

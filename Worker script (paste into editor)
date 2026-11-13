@@ -1,7 +1,7 @@
 /**
  * Rathor Chat Proxy Worker – Sovereign Grok Gateway
  * Hides xAI API key & Cloudflare AI Gateway token
- * MIT License – Autonomicity Games Inc. 2026
+ * AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
  */
 
 addEventListener('fetch', event => {

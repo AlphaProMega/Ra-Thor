@@ -1,6 +1,6 @@
 // mercy-neel-nanda-inspired-audit.js – sovereign Mercy Neel Nanda-Inspired Interpretability Audit v1
 // Concrete checks, deception realism, superposition awareness, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

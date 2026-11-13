@@ -1,5 +1,5 @@
 // genetic-programming-engine.js – sovereign client-side tree-based Genetic Programming
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // Function set – primitives available for tree construction
 const GP_FUNCTIONS = [

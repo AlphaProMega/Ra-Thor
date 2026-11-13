@@ -1,6 +1,6 @@
 // src/sync/electricsql-initializer.ts – ElectricSQL client initializer v1
 // Electrified SQLite setup, schema sync, offline-first, real-time, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electrify } from 'electric-sql';
 import { electrify as electrifySqlite } from 'electric-sql/sqlite';

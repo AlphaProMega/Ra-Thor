@@ -1,6 +1,6 @@
 // src/sync/pglite-offline-postgres.ts – PGlite Offline Postgres Layer v1
 // Full local-first Postgres in browser (IndexedDB/OPFS), valence-aware queries, mutations, ElectricSQL sync bridge
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { PGlite } from '@electric-sql/pglite';
 import { currentValence } from '@/core/valence-tracker';

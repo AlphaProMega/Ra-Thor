@@ -1,6 +1,6 @@
 // hyperon-runtime-optimizer.js – sovereign PLN/Atomspace optimizer v1
 // Memoization, depth limit, derivation cache, mercy-weighted pruning
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { hyperon } from './hyperon-runtime.js';
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';

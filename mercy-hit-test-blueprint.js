@@ -1,6 +1,6 @@
 // mercy-hit-test-blueprint.js – sovereign Mercy Hit-Test Blueprint v1
 // WebXR hit-test (transient + persistent), mercy-gated placement, valence-modulated feedback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

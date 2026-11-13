@@ -1,6 +1,6 @@
 // modal-mercy-logic.js – sovereign client-side modal mercy-logic engine v1
 // □ mercy-necessity, ◇ thriving-possibility, valence-restricted S5-like modality
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class ModalMercyLogic {
   constructor() {

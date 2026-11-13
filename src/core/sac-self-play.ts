@@ -2,7 +2,7 @@
 // Autonomous SAC learning from self-generated trajectories
 // Automatic temperature tuning, clipped double Q-learning, valence-shaped rewards
 // Mercy gating, continuous action space, lattice-integrated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

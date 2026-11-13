@@ -1,6 +1,6 @@
 // hyperon-runtime-deep-integration.js – sovereign deep PLN chaining with mercy gates v1
 // Mercy-weighted forward/backward chaining on dossiers, query → inference → valence answer
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { hyperon } from './hyperon-runtime.js'; // Assume existing with atomSpace, PLN rules
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';

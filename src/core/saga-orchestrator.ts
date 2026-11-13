@@ -1,7 +1,7 @@
 // src/core/saga-orchestrator.ts – Saga Pattern Orchestrator v1.0
 // Centralized saga orchestration for distributed transactions
 // Step-by-step execution with compensation on failure, valence-aware rollback gating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

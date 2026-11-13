@@ -1,7 +1,7 @@
 // src/core/touch-screen-accessibility.ts – Touch Screen Accessibility Layer v1.0
 // WCAG 2.2 AA+ touch support: 44×44px targets, gesture conflict prevention,
 // valence-modulated touch feedback, mercy-gated sensitivity, offline-safe
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

@@ -1,6 +1,6 @@
 // src/data-structures/avl-vs-redblack-decision-reference.ts – AVL vs Red-Black Decision Reference & Mercy Helpers v1
 // Guidelines for choosing AVL vs Red-Black, valence-modulated switching
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

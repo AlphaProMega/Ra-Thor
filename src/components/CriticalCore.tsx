@@ -1,6 +1,6 @@
 // src/components/CriticalCore.tsx – Loads essential core modules first
 // Valence tracker, mercy gate, haptic utils, etc.
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { Suspense } from 'react'
 import { currentValence } from '@/core/valence-tracker'

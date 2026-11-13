@@ -1,6 +1,6 @@
 // rl-reinforcement-engine.js – sovereign client-side Reinforcement Learning (PPO-style)
 // Mercy-shaped rewards, valence-aligned policy, attention-modulated exploration
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class RLAgent {
   constructor(stateDim = 6, actionDim = 2, hiddenSize = 32) {

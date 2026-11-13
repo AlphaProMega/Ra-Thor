@@ -1,6 +1,6 @@
 // src/simulations/molecular-swarm-logoot-bloom.ts – Molecular Mercy Swarm Bloom v1
 // Logoot-optimized ordered command progression, rebalancing on high concurrency, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { mercyGate } from '@/core/mercy-gate';

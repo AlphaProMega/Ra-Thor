@@ -1,6 +1,6 @@
 // mercy-haptic-hand-tracking-integration.js – sovereign Mercy hand-tracking haptic proxy v1
 // Gesture detection (pinch/point/grab), controller haptic trigger, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

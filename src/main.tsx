@@ -1,6 +1,6 @@
 // src/main.tsx – Entry point with ultra-granular Suspense boundaries v4
 // Progressive layered fallbacks + granular lazy loading + debug timing
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { Suspense, lazy, useEffect, useState } from 'react'
 import ReactDOM from 'react-dom/client'

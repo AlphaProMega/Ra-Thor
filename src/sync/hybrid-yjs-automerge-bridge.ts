@@ -1,6 +1,6 @@
 // src/sync/hybrid-yjs-automerge-bridge.ts – Hybrid Yjs + Automerge Bridge v1
 // Real-time Yjs UI view + durable Automerge history, bidirectional delta sync
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import * as Automerge from '@automerge/automerge';

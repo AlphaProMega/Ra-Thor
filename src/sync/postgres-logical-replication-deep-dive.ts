@@ -1,6 +1,6 @@
 // src/sync/postgres-logical-replication-deep-dive.ts – Postgres Logical Replication Deep Dive Reference & Mercy Helpers v1
 // Detailed flow, shape examples, valence gating, multiplanetary notes
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

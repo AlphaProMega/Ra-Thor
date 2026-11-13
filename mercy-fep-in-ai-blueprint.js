@@ -1,6 +1,6 @@
 // mercy-fep-in-ai-blueprint.js – sovereign Mercy Free Energy Principle in AI Blueprint v1 + Paraconsistent Eternal Life Expansion
 // Active inference applications, surprise minimization, epistemic value, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

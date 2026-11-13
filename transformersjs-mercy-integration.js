@@ -1,6 +1,6 @@
 // transformersjs-mercy-integration.js – sovereign Transformers.js integration with mercy gates v1
 // Lazy load, user-prompt model download, mercy-eval outputs, symbolic fallback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { rathorShard } from './grok-shard-engine.js'; // For cache/hash/mercyCheck

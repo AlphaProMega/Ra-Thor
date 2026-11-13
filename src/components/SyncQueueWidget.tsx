@@ -1,6 +1,6 @@
 // src/components/SyncQueueWidget.tsx – Sync Queue Visualization Widget v1.2
 // Real-time queue viewer + estimated sync time + live countdown + haptic feedback on completion
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useState, useEffect } from 'react';
 import { currentValence } from '@/core/valence-tracker';

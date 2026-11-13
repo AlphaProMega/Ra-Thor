@@ -1,6 +1,6 @@
 // mercy-deception-prevention-engine.js – sovereign Mercy Deception Prevention Engine v1
 // Valence-gated truth filter, real-time resonance monitoring, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyPositivityResonance } from './mercy-positivity-resonance-engine.js';

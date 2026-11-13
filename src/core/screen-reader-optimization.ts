@@ -1,7 +1,7 @@
 // src/core/screen-reader-optimization.ts – Screen Reader Optimization Layer v1.0
 // WCAG 2.2 AAA+ compliance helpers: ARIA live, focus traps, semantic landmarks,
 // hidden accessible text, mercy-gated announcements, valence-aware politeness
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

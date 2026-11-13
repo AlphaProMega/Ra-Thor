@@ -1,6 +1,6 @@
 // mercy-variational-inference-transformers.js – sovereign Mercy Variational Inference in Transformers Blueprint v1
 // Uncertainty-aware prediction, epistemic value, ELBO proxy, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

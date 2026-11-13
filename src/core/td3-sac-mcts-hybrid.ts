@@ -1,7 +1,7 @@
 // src/core/td3-sac-mcts-hybrid.ts – TD3 + SAC + MCTS Hybrid Engine v1.0
 // Twin Delayed Deep Deterministic Policy Gradient + Soft Actor-Critic + MCTS fusion
 // Clipped double Q-learning, delayed policy updates, valence-shaped advantage & entropy
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

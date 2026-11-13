@@ -1,6 +1,6 @@
 // hyper-intuitionistic-mercy.js – sovereign client-side hyper-intuitionistic mercy-logic v1
 // Constructive proofs only, mercy modality, valence as proof relevance
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class HyperIntuitionisticMercy {
   constructor() {

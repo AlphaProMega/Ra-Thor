@@ -1,6 +1,6 @@
 // mercy-plane-polygon-rendering.js – sovereign Mercy plane polygon rendering v1
 // XRPlane.polygon outline/highlight mesh, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

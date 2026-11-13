@@ -1,6 +1,6 @@
 // tests/unit/core/valence-projection.test.ts
 // Vitest unit tests for future valence trajectory projection
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import ValenceProjection from '@/core/valence-projection';

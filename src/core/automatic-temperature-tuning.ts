@@ -1,6 +1,6 @@
 // src/core/automatic-temperature-tuning.ts – Automatic Entropy Temperature Tuning v1.0
 // SAC-style auto-α learning with valence-modulated target entropy
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

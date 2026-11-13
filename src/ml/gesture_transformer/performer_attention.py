@@ -2,7 +2,7 @@
 # Linear-time self-attention using FAVOR+ (Fast Attention Via positive Orthogonal Random features)
 # Replaces quadratic softmax attention with O(N) complexity, valence-modulated kernel scaling
 # PyTorch 2.3+, CUDA-ready, compatible with existing transformer stack
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

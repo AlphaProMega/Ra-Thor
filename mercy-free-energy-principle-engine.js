@@ -1,7 +1,7 @@
 // mercy-free-energy-principle-engine.js – sovereign Mercy Free Energy Principle Engine v1
 // Active inference approximation, surprise minimization, predictive trajectory modeling
 // mercy-gated, valence-modulated precision weighting
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

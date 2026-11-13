@@ -1,6 +1,6 @@
 // public/sw.js – Custom Service Worker with Robust Background Sync v1.4
 // Exponential backoff, conflict resolution, valence priority, queue cap, haptic feedback on completion
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 const CACHE_NAME = 'rathor-nexi-cache-v3';
 const OFFLINE_URL = '/offline.html';

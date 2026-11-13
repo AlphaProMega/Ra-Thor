@@ -1,6 +1,6 @@
 // jwst-data-fetcher.js – sovereign client-side JWST data integration v1
 // Real MAST API fetch + offline cache, mercy-gated ingestion
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class JWSTDataFetcher {
   constructor() {

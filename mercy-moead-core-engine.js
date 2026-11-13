@@ -1,7 +1,7 @@
 // mercy-moead-core-engine.js – sovereign Mercy MOEA/D Optimization Engine v1
 // Decomposition-based multi-objective, Tchebycheff aggregation, neighborhood cooperation
 // mercy-gated, valence-modulated neighborhood & mating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

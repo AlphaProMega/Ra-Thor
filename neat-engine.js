@@ -1,5 +1,5 @@
 // neat-engine.js – sovereign client-side Neuroevolution of Augmenting Topologies (NEAT)
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // ────────────────────────────────────────────────────────────────
 // Core NEAT classes

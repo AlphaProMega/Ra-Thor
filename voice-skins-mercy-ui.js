@@ -1,6 +1,6 @@
 // voice-skins-mercy-ui.js – sovereign Web Speech API TTS with mercy valence tones v1
 // Speaks assistant responses with modulated pitch/rate/volume, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

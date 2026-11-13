@@ -1,7 +1,7 @@
 # src/ml/gesture_transformer/model_test.py – Unit tests for GestureTransformer v1.0
 # Shape checks, forward pass, gradient flow, ONNX export validation
 # Runs with: bazelisk test //src/ml/gesture_transformer:model_test
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import unittest
 import torch

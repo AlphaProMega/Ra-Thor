@@ -1,6 +1,6 @@
 // src/sync/interplanetary-wooto-annotation-sync.ts – Interplanetary WOOTO Collaborative Annotation Sync v1
 // WOOTO precedence graph for collaborative annotations, incremental visibility, multi-node sync, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { wootPrecedenceGraph } from '@/sync/woot-precedence-graph';

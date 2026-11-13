@@ -1,5 +1,5 @@
 // metta-wasm-loader.js – sovereign client-side MeTTa evaluation bridge
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // Placeholder: real MeTTa WASM will be loaded from CDN or bundled later
 // For now: mock interpreter with basic symbolic valence check

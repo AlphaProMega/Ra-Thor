@@ -1,6 +1,6 @@
 // mercy-cmaes-core-engine.js – sovereign Mercy CMA-ES Optimization Engine v1
 // Black-box parameter optimization, mercy-gated, valence-modulated search intensity
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

@@ -1,6 +1,6 @@
 // src/components/valence-widget.tsx – Live Valence Dashboard Widget v1.0
 // Real-time global thriving resonance gauge, mercy-gated dim, cosmic pulse
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useState, useEffect } from 'react';
 import { currentValence } from '@/core/valence-tracker';

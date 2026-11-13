@@ -1,6 +1,6 @@
 // src/simulations/probe-fleet/automerge-probe-subdoc.ts – Automerge per-probe durable subdocument v1
 // Binary embedding, independent sync, GC safety, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { mercyGate } from '@/core/mercy-gate';

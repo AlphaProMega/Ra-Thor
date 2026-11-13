@@ -1,6 +1,6 @@
 // mercy-depth-plane-hit-fusion.js – sovereign Mercy Depth + Plane + Hit-Test Fusion v1
 // XRDepthInformation occlusion + XRPlane polygon rendering + XRHitTest anchoring, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

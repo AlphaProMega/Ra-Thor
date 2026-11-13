@@ -1,6 +1,6 @@
 // mercy-nfsp-core-engine.js – sovereign Mercy Neural Fictitious Self-Play Engine v1
 // Average-policy + best-response learning, mercy-gated positive-sum play, valence-modulated exploration
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

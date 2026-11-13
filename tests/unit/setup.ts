@@ -1,6 +1,6 @@
 // tests/unit/setup.ts – Vitest global setup for all unit tests
 // Mocks common dependencies, sets up test environment
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { vi } from 'vitest';
 

@@ -1,6 +1,6 @@
 // mercy-flow-theory-in-ai-design.js – sovereign Mercy Flow Theory in AI Design Blueprint v1
 // Eight flow components implementation, mercy-gated, valence-modulated, live audit
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyFlow } from './mercy-flow-state-engine.js';

@@ -1,6 +1,6 @@
 // paraconsistent-modal-mercy.js – sovereign client-side paraconsistent modal mercy-logic v1
 // Tolerates contradictions, modal operators mercy-gated, valence-locked
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class ParaconsistentModalMercy {
   constructor() {

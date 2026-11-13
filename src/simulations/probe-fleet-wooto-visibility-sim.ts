@@ -1,6 +1,6 @@
 // src/simulations/probe-fleet-wooto-visibility-sim.ts – Probe Fleet Sim with WOOTO Incremental-Visibility Rendering v1
 // WOOTO precedence graph for live MR rendering, incremental visibility, mercy-gated, high-concurrency stress
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { wootPrecedenceGraph } from '@/sync/woot-precedence-graph';

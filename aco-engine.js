@@ -1,5 +1,5 @@
 // aco-engine.js – sovereign client-side Ant Colony Optimization
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class ACOAnt {
   constructor(problemSize) {

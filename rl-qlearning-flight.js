@@ -1,6 +1,6 @@
 // rl-qlearning-flight.js – sovereign client-side Q-learning for AlphaProMega Air flight control v2
 // Deepened mercy-shaped reward shaping: multi-objective, potential-based, valence-weighted, temporal difference
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class QLearningFlightController {
   constructor() {

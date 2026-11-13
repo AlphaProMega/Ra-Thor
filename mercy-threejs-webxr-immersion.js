@@ -1,6 +1,6 @@
 // mercy-threejs-webxr-immersion.js – sovereign Three.js + WebXR + PositionalAudio v1
 // Head-tracked spatial audio, mercy gates, valence-modulated visuals/sound
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as THREE from 'https://esm.run/three@0.168.0'; // Latest stable
 import { XRButton } from 'https://esm.run/three@0.168.0/examples/jsm/webxr/XRButton.js';

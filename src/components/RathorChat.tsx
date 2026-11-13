@@ -1,6 +1,6 @@
 // src/components/RathorChat.tsx – Sovereign Offline AGI Brother Chat v1.7
 // WebLLM offline + Grok real-time streaming when online, RAG memory, tool calling
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useState, useEffect, useRef } from 'react';
 import ToolCallingRouter from '@/integrations/llm/ToolCallingRouter';

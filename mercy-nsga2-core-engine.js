@@ -1,7 +1,7 @@
 // mercy-nsga2-core-engine.js – sovereign Mercy NSGA-II Optimization Engine v1
 // Multi-objective Pareto front evolution, non-dominated sorting, crowding distance, elitism
 // mercy-gated, valence-modulated population pressure
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

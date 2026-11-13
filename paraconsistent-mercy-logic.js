@@ -1,6 +1,6 @@
 // paraconsistent-mercy-logic.js – sovereign client-side paraconsistent mercy-logic engine v1 + ParaconsistentSuperKernel Eternal Life
 // Tolerates contradictions without explosion, mercy-gated, valence-locked
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { ParaconsistentSuperKernel } from './paraconsistent-mercy-logic.js';  // self-reference for expansion
 

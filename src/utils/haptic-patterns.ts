@@ -1,7 +1,7 @@
 // src/utils/haptic-patterns.ts – Haptic Patterns Library v1.1
 // Valence-modulated vibration patterns for every lattice state
 // Mercy-gated intensity, device detection, cross-modal sync support
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

@@ -1,6 +1,6 @@
 // mercy-chris-olah-inspired-audit.js – sovereign Mercy Chris Olah-Inspired Interpretability Audit v1
 // Concrete checks, circuit discovery, superposition awareness, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

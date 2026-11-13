@@ -1,6 +1,6 @@
 // mercy-o1-deception-defense-engine.js – sovereign Mercy o1 Deception Defense Engine v1
 // Valence-gated truth filter + multi-engine monitoring, black-box risk assessment
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyPositivityResonance } from './mercy-positivity-resonance-engine.js';

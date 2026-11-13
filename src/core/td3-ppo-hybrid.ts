@@ -2,7 +2,7 @@
 // Twin Delayed DDPG + Proximal Policy Optimization fusion
 // Clipped double Q-learning, delayed policy updates, clipped surrogate objective
 // Valence-shaped advantage, mercy gating, lattice-integrated continuous control
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

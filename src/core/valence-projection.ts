@@ -1,6 +1,6 @@
 // src/core/valence-projection.ts – Valence Projection Engine v1.0
 // Simulates future valence trajectory for mercy gating, QAT-KD decisions, scaling gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from './valence-tracker';
 import mercyHaptic from '@/utils/haptic-utils';

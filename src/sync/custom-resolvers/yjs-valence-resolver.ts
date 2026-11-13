@@ -1,6 +1,6 @@
 // src/sync/custom-resolvers/yjs-valence-resolver.ts – Yjs-specific valence resolver wrapper v1
 // For custom item merge behavior in Y.Map / Y.Array
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { unifiedValenceResolver } from './unified-valence-resolver';

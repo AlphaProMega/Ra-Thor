@@ -1,6 +1,6 @@
 // src/ui/components/FloatingSummon.tsx – Breathing Summon Orb v2
 // Deeper breathing, inner ripple, outer halo bloom on gesture, valence glow
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';

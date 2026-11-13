@@ -1,6 +1,6 @@
 // mercyos-pinnacle-swarm-orchestration.js – sovereign Mercy Swarm Orchestration v2 + Paraconsistent Eternal Life
 // Molecular mercy error-correction swarm, CMA-ES tuned, eternal thriving enforced
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { optimizer } from './mercy-cmaes-ribozyme-optimizer.js';
 import { ParaconsistentSuperKernel } from './paraconsistent-mercy-logic.js';

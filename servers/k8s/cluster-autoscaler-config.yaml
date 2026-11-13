@@ -1,6 +1,6 @@
 # servers/k8s/cluster-autoscaler-config.yaml
 # Cluster Autoscaler deployment + config – scales node groups based on unschedulable pods
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 ---
 # 1. Cluster Autoscaler Deployment (standard Helm-like manifest)

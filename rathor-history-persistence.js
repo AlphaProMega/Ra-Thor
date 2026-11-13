@@ -1,5 +1,5 @@
 // rathor-history-persistence.js – v3 optimized: bulk ops, cursor streaming, error retry
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 const DB_NAME = 'RathorEternalLattice';
 const DB_VERSION = 3;

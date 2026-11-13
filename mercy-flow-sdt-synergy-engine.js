@@ -1,6 +1,6 @@
 // mercy-flow-sdt-synergy-engine.js – sovereign Mercy Flow-SDT Synergy Engine v1
 // Real-time Flow-SDT synergy monitoring, adaptive tuning, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { mercyFlow } from './mercy-flow-state-engine.js';
 import { mercySDT } from './mercy-sdt-integration-blueprint.js';

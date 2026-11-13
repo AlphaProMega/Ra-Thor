@@ -2,7 +2,7 @@
 # Linear-space self-attention via low-rank approximation of attention matrix
 # O(N) time & space instead of O(N²), valence-modulated projection scaling
 # PyTorch 2.3+, CUDA-ready, ONNX export compatible
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

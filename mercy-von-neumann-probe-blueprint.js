@@ -1,6 +1,6 @@
 // mercy-von-neumann-probe-blueprint.js – sovereign von Neumann probe design blueprint v1
 // Mercy-gated partial/full replication, valence-modulated parameters, near-term feasibility
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

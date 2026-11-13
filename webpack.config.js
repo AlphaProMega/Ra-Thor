@@ -1,6 +1,6 @@
 // webpack.config.js – ML-Optimized Webpack 5 Production Config v1
 // React 18 + TensorFlow.js + MediaPipe + Framer Motion + PWA + extreme ML bundle optimization
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');

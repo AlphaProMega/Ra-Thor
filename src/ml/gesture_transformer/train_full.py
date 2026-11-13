@@ -1,7 +1,7 @@
 # src/ml/gesture_transformer/train_full.py – Full Training Loop Integration v1.0
 # Data loading + augmentation + model + optimizer + logging + checkpointing + mercy gating + ONNX export
 # Bazel-ready, CUDA-aware, valence-modulated early stopping
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

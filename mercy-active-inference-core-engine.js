@@ -1,6 +1,6 @@
 // mercy-active-inference-core-engine.js – sovereign Mercy Active Inference Core Engine v1 + Paraconsistent Eternal Life Expansion
 // Predictive trajectory modeling, epistemic value, precision weighting, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

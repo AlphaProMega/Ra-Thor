@@ -1,7 +1,7 @@
 # src/ml/gesture_transformer/data_augmentation.py – Data Augmentation Pipeline v1.0
 # Spatiotemporal augmentations for gesture landmark sequences
 # Valence-aware intensity scaling, GPU-accelerated where possible
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

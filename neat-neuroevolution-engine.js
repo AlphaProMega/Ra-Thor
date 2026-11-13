@@ -1,6 +1,6 @@
 // neat-neuroevolution-engine.js – sovereign client-side Neuroevolution of Augmenting Topologies (NEAT)
 // Expanded for AlphaProMega Air flight simulation: multi-aircraft swarm, physics dynamics, mercy-gated fitness
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 let globalInnovation = 0;
 

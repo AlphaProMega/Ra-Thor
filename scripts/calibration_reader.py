@@ -1,6 +1,6 @@
 # scripts/calibration_reader.py – Valence-Aware CalibrationDataReader v1
 # Iterator for high-valence gesture sequence .npy files – used in Olive/AIMET/ONNX PTQ
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import os
 import numpy as np

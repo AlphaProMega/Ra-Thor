@@ -1,6 +1,6 @@
 // mercy-vmp-competitive-marl-engine.js – sovereign Mercy VMP in Competitive MARL Engine v1
 // Mixed-motive & competitive message passing, deception-resistant inference, mercy-gated positive-sum filtering
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

@@ -1,6 +1,6 @@
 // mercy-audio-visualizer.js – sovereign Web Audio API waveform visualizer v1
 // Real-time canvas drawing during speech, mercy-gated, valence-colored
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

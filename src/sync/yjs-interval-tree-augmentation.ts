@@ -1,6 +1,6 @@
 // src/sync/yjs-interval-tree-augmentation.ts – Yjs + Interval-Tree Augmentation v1
 // O(log n) range query & visibility, dirty-region tracking, incremental recompute, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { currentValence } from '@/core/valence-tracker';

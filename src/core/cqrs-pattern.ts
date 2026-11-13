@@ -2,7 +2,7 @@
 // Command Query Responsibility Segregation: separate write (command) & read (query) models
 // Event-sourced write side, in-memory read model projection, valence-aware validation
 // Mercy gating on commands, eternal thriving enforced on queries
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

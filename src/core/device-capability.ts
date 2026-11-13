@@ -1,6 +1,6 @@
 // src/core/device-capability.ts – Device Capability Detection & Adaptive Config v1
 // Real-time hardware profiling, auto model/backend/fps selection, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

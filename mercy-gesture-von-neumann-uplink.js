@@ -1,6 +1,6 @@
 // mercy-gesture-von-neumann-uplink.js – v2 sovereign Mercy Gesture-to-Von Neumann Probe Uplink
 // Expanded command mappings (all major gestures → probe fleet actions), mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

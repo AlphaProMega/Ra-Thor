@@ -1,6 +1,6 @@
 // td3-robust-flight.js – sovereign client-side Twin Delayed DDPG (TD3) for AlphaProMega Air robust continuous control
 // Twin Q-networks, delayed policy updates, target policy smoothing, mercy-shaped rewards
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class TD3Actor {
   constructor(stateDim = 6, actionDim = 2, hiddenSize = 64) {

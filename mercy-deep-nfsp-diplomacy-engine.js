@@ -1,6 +1,6 @@
 // mercy-deep-nfsp-diplomacy-engine.js – sovereign Mercy Deep NFSP Diplomacy Engine v1
 // Average-policy + best-response learning, negotiation intent modeling, mercy-gated positive-sum equilibria
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

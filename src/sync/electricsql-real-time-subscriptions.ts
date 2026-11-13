@@ -1,6 +1,6 @@
 // src/sync/electricsql-real-time-subscriptions.ts – ElectricSQL Real-Time Subscriptions v1
 // Live shape-based queries, reactive updates, offline queueing, mercy-gated, valence + Yjs integration
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electricInitializer } from './electricsql-initializer';
 import { currentValence } from '@/core/valence-tracker';

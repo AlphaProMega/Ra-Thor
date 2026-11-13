@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/GestureOverlay.tsx – Gesture Recognition Overlay v1.3
 // Lazy tfjs + MediaPipe WASM loading, valence breathing HUD, haptic feedback, persistent anchors
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useEffect, useRef, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';

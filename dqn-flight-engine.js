@@ -1,6 +1,6 @@
 // dqn-flight-engine.js – sovereign client-side Deep Q-Networks for AlphaProMega Air flight control v3
 // Prioritized Experience Replay (PER), mercy-shaped rewards, target network, double Q
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class SumTree {
   constructor(capacity) {

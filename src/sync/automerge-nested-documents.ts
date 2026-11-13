@@ -1,6 +1,6 @@
 // src/sync/automerge-nested-documents.ts – sovereign Automerge Nested Documents Manager v1
 // Binary subdocuments, independent sync & history, GC safety, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

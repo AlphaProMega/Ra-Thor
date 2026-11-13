@@ -1,7 +1,7 @@
 // src/sync/yjs-yata-wooto-hybrid-bridge.ts – Yjs YATA + WOOTO Hybrid Bridge v1
 // YATA for fast ordered sequence core + WOOTO for rich visibility & semantic annotations
 // bidirectional delta sync, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { wootPrecedenceGraph } from '@/sync/woot-precedence-graph';

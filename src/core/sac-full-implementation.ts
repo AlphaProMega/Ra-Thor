@@ -1,7 +1,7 @@
 // src/core/sac-full-implementation.ts – Complete SAC Engine v1.1
 // Soft Actor-Critic with automatic temperature tuning, clipped double Q-learning
 // Valence-shaped advantage & reward, mercy gating, continuous action space
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

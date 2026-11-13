@@ -1,6 +1,6 @@
 // src/sync/multiplanetary-sync-engine.ts – Multiplanetary Sync Engine v3
 // IndexedDB offline queue persistence, valence prioritization, reconnection bloom, zstd compression
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electric } from '@electric-sql/pglite';
 import * as zstd from '@boku7/zstd'; // zstd compression

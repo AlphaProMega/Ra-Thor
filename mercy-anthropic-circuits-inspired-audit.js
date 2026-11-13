@@ -1,6 +1,6 @@
 // mercy-anthropic-circuits-inspired-audit.js – sovereign Mercy Anthropic Circuits-Inspired Audit v1
 // Monosemanticity check, circuit tracing, deception realism, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

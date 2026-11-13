@@ -1,7 +1,7 @@
 # src/ml/gesture_transformer/quantize_post_training.py – Post-Training Quantization v1.1
 # Static INT8/INT4 PTQ with per-channel weights, calibration on high-valence sequences
 # Uses PyTorch quantization APIs + ONNX export for WebNN/TensorRT
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

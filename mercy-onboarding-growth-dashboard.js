@@ -1,6 +1,6 @@
 // mercy-onboarding-growth-dashboard.js – v2 sovereign Mercy Onboarding & Growth Dashboard
 // Detailed progression ladder mechanics, thresholds, rewards, unlock flows, live valence tracking
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 const DB_NAME = 'RathorMercyProgress';
 const STORE_NAME = 'userGrowth';

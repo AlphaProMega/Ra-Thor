@@ -1,6 +1,6 @@
 // mercy-webxr-audio-immersion.js – sovereign WebXR + Web Audio spatial audio immersion v1
 // PannerNode HRTF spatialization synced to XR head pose, mercy gates, valence modulation
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

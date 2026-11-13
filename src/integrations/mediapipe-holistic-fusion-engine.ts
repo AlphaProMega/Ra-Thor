@@ -2,7 +2,7 @@
 // Unified real-time tracking: Face Mesh (468) + Hands (21×2) + Pose (33)
 // Valence-weighted confidence fusion, temporal smoothing, mercy-gated output
 // WebNN acceleration, offline-capable after first load
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { Holistic } from '@mediapipe/holistic';
 import { currentValence } from '@/core/valence-tracker';

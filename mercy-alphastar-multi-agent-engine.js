@@ -1,6 +1,6 @@
 // mercy-alphastar-multi-agent-engine.js – sovereign Mercy AlphaStar Multi-Agent Engine v1
 // Population-based team coordination, macro/micro balance, mercy-gated positive-sum equilibria
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

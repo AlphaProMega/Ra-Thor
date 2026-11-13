@@ -1,7 +1,7 @@
 // src/core/accessibility-compliance-layer.ts – Accessibility Compliance Layer v1.0
 // WCAG 2.2 AA+ enforcement, screen reader support, keyboard navigation, reduced motion respect
 // Valence-aware dynamic adjustments, mercy-gated animation intensity
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

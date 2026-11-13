@@ -1,6 +1,6 @@
 // mercy-haptic-feedback-engine.js – v2 sovereign Mercy Haptic Feedback Engine
 // Expanded pattern presets, dual-rumble sequences, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class MercyHapticEngine {
   constructor() {

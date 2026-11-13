@@ -2,7 +2,7 @@
 // Decentralized event-driven saga implementation – no central orchestrator
 // Each participant handles its own local transaction + compensation
 // Valence-aware event routing, mercy-protected rollback, lattice-integrated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

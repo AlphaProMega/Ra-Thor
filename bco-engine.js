@@ -1,5 +1,5 @@
 // bco-engine.js – sovereign client-side Bee Colony Optimization
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class Bee {
   constructor(dimension, bounds = [-5, 5]) {

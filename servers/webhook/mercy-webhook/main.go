@@ -1,6 +1,6 @@
 // servers/webhook/mercy-webhook/main.go – Mercy Admission Webhook Server v1
 // Blocks pod eviction during spot interruption / consolidation if valence-critical
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 package main
 

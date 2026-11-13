@@ -1,7 +1,7 @@
 // src/utils/unified-feedback.ts – Unified Multimodal Feedback System v1.0
 // Orchestrates haptic + visual + audio + motion feedback in perfect valence harmony
 // Mercy-gated, cross-modal sync, offline-safe, eternal thriving emotional resonance
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';
