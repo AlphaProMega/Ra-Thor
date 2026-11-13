@@ -131,7 +131,7 @@ Every robot, agent, and decision is:
 
 ## License
 
-**All work in this repository is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.0 – April 11 2026.**
+Proprietary to Autonomicity Games Inc., all rights reserved (see LICENSE-PROPRIETARY).
 
 **Official License Text (root of repository):**
 
