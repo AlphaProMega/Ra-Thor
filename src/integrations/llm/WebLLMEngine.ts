@@ -1,6 +1,6 @@
 // src/integrations/llm/WebLLMEngine.ts – Sovereign Offline LLM Engine v1
 // WebLLM inference, model switcher, valence-modulated personality, streaming
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { webllm } from 'webllm';
 import { currentValence } from '@/core/valence-tracker';

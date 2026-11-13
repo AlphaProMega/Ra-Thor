@@ -1,6 +1,6 @@
 // metta-rewriting-engine.js – sovereign client-side MeTTa symbolic rewriting safety layer
 // Mercy-first input normalization, valence impact scoring
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class MeTTaRewriter {
   static rewrite(input) {

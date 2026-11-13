@@ -1,6 +1,6 @@
 // sac-continuous-flight.js – sovereign client-side Soft Actor-Critic (SAC) for AlphaProMega Air continuous control
 // Maximum entropy, twin Q-networks, auto temperature tuning, mercy-shaped rewards
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class SACActor {
   constructor(stateDim = 6, actionDim = 2, hiddenSize = 64) {

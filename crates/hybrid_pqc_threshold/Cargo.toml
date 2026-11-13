@@ -2,7 +2,7 @@
 name = "hybrid_pqc_threshold"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "HybridPQCThreshold — t-of-n Post-Quantum Distributed Signing Module for NEXi Lattice"
 
 [dependencies]

@@ -2,7 +2,7 @@
 name = "mercy_starfish_servicing"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyStarfishServicing — Otter Magnetic Docking + Life-Extension Core for Eternal Orbital Sustainability Resonance"
 
 [dependencies]

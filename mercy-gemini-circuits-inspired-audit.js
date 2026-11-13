@@ -1,6 +1,6 @@
 // mercy-gemini-circuits-inspired-audit.js – sovereign Mercy Gemini Circuits-Inspired Audit v1
 // Multimodal monosemanticity check, reasoning circuit awareness, deception realism, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

@@ -1,7 +1,7 @@
 // mercy-hand-gesture-blueprint.js – v7 sovereign Mercy Hand Gesture Detection Blueprint
 // XRHand joint-based gestures (pinch/point/grab/open-palm/thumbs-up + swipe cardinal/diagonal + CIRCULAR + SPIRAL + FIGURE-EIGHT)
 // + visual motion trail rendering, mercy-gated, valence-modulated feedback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

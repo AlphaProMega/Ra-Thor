@@ -1,6 +1,6 @@
 // mercy-cmaes-ribozyme-optimizer.js – v2 CMA-ES optimizer for RNA proofreading parameters
 // Live run, best params persistence, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { rnaSimulator } from './mercy-rna-evolution-simulator.js';
 

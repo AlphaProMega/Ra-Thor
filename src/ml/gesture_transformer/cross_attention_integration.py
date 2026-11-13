@@ -2,7 +2,7 @@
 # Cross-attention between gesture sequence and valence context embedding
 # Multi-head, residual, layer-norm, valence-gated scaling for thriving focus
 # PyTorch 2.3+, CUDA-ready, ONNX export compatible
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

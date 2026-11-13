@@ -1,6 +1,6 @@
 // src/simulations/probe-fleet/electricsql-probe-sync.ts – ElectricSQL per-probe metadata sync v1
 // Relational durability for probe state, mercy-gated updates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electricInitializer } from '@/sync/electricsql-initializer';
 import { mercyGate } from '@/core/mercy-gate';

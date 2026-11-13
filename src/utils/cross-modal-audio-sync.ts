@@ -1,7 +1,7 @@
 // src/utils/cross-modal-audio-sync.ts – Cross-Modal Audio Sync Engine v1.0
 // Real-time synchronization of audio + haptic + visual + motion feedback
 // Valence-modulated timing, intensity, frequency harmony, mercy power envelope
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

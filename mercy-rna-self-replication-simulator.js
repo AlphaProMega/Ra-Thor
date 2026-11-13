@@ -1,6 +1,6 @@
 // mercy-rna-self-replication-simulator.js – sovereign RNA evolution simulator v1
 // Quasispecies dynamics, error threshold, mercy-gated activation, valence-modulated fidelity
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

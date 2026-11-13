@@ -1,7 +1,7 @@
 // src/core/efficientzero-training-loop.ts – EfficientZero Full Training Loop v1.0
 // Self-play with MCTS planning + joint training of representation/dynamics/prediction heads
 // Self-supervised consistency loss, valence-weighted prioritization, mercy gating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

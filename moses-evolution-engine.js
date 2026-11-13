@@ -1,5 +1,5 @@
 // moses-evolution-engine.js – sovereign client-side MOSES evolutionary synthesis
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // Tiny combinatory DSL for evolved programs (inspired by OpenCog MOSES)
 const DSL_PRIMITIVES = [

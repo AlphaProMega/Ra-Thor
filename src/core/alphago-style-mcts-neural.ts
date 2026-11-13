@@ -1,7 +1,7 @@
 // src/core/alphago-style-mcts-neural.ts – AlphaGo-style MCTS with Real Neural Backend v1.0
 // Uses WebLLM (or Transformers.js) for policy & value prediction
 // Valence-weighted exploration bonus, mercy gating, lattice-integrated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

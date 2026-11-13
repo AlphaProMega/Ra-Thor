@@ -1,6 +1,6 @@
 // mercy-multi-agent-vmp-engine.js – sovereign Mercy Multi-Agent VMP Engine v1
 // Distributed variational message passing, shared factors, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

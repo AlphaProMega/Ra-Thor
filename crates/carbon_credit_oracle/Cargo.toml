@@ -2,7 +2,7 @@
 name = "carbon_credit_oracle"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "CarbonCreditOracle — Mercy-Gated CO₂ Capture + On-Chain Credit Minting for Eternal Climate Resonance"
 
 [dependencies]

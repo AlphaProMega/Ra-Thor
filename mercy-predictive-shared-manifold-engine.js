@@ -1,6 +1,6 @@
 // mercy-predictive-shared-manifold-engine.js – sovereign Mercy Predictive Coding + Shared Manifold Engine v1
 // Active inference approximation + embodied intersubjective resonance, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

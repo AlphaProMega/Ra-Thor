@@ -1,7 +1,7 @@
 // src/core/mcts-lookahead-integration.ts – MCTS Lookahead Integration Layer v1.0
 // Neural-guided tree search overlay for SAC/PPO/TD3 policies
 // Valence-shaped exploration bonus, mercy-gated branch pruning, automatic temperature tuning
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 // src/sync/yjs-performance-optimizations.ts – Yjs Performance Optimizations v1
 // Multiplanetary-ready, high-latency, large-state tuning, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { WebsocketProvider } from 'y-websocket';

@@ -1,6 +1,6 @@
 // ppo-continuous-flight.js – sovereign client-side Proximal Policy Optimization for AlphaProMega Air continuous control
 // Clipped surrogate, GAE, mercy-shaped rewards, attention-modulated entropy
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class PPOActor {
   constructor(stateDim = 6, actionDim = 2, hiddenSize = 64) {

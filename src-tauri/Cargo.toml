@@ -3,7 +3,7 @@ name = "rathor-lattice"
 version = "0.1.0"
 description = "Rathor™ Eternal Mercy Lattice Desktop"
 authors = ["Sherif Botros <@AlphaProMega>"]
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/Rathor-NEXi"
 edition = "2021"
 

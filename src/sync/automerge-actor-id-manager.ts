@@ -1,6 +1,6 @@
 // src/sync/automerge-actor-id-manager.ts – Automerge Actor ID Manager v1
 // Generation, persistence, collision awareness, mercy gates, valence-modulated identity
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

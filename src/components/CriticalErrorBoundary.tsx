@@ -1,6 +1,6 @@
 // src/components/CriticalErrorBoundary.tsx – Critical error boundary with mercy UI
 // Catches render errors & shows graceful fallback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React from 'react'
 

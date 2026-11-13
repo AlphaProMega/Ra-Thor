@@ -1,7 +1,7 @@
 // src/core/event-sourcing-integration.ts – Event Sourcing Integration Layer v1.1
 // Full CQRS + Event Sourcing bridge: event-sourced write model + projected read models
 // Valence-aware event validation, snapshotting, mercy-protected replay & commit
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

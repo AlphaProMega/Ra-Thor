@@ -1,6 +1,6 @@
 // src/core/ppo-surrogate-loss.ts – PPO Clipped Surrogate Objective + Full Loss v1.0
 // Valence-weighted advantage normalization, entropy bonus, value loss, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

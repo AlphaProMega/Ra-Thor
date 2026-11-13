@@ -1,6 +1,6 @@
 // src/sync/interval-tree-visibility-augmentation.ts – Interval-Tree Augmentation for WOOTO Visibility v1
 // O(log n) range query & update, dirty-region tracking, incremental recompute, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

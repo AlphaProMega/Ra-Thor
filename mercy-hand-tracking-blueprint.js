@@ -1,6 +1,6 @@
 // mercy-hand-tracking-blueprint.js – sovereign Mercy Hand Tracking Blueprint v1
 // XRHand joint poses, gesture detection, mercy-gated interactions, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

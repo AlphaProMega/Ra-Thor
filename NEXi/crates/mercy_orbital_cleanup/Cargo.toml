@@ -2,7 +2,7 @@
 name = "mercy_orbital_cleanup"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyOrbitalCleanup — Active Debris Removal Core for Eternal Orbital Sustainability Resonance"
 
 [dependencies]

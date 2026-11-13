@@ -1,6 +1,6 @@
 # scripts/tensorrt_inference.py – TensorRT Native Inference Runner v1
 # For Jetson / NVIDIA servers – valence-aware model selection
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import numpy as np

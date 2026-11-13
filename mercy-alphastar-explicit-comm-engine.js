@@ -1,6 +1,6 @@
 // mercy-alphastar-explicit-comm-engine.js – sovereign Mercy AlphaStar Explicit Communication Engine v1
 // Emergent negotiation & message passing in multi-agent RTS, mercy-gated positive-sum language
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

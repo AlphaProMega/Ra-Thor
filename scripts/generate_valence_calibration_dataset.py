@@ -1,6 +1,6 @@
 # scripts/generate_valence_calibration_dataset.py – Valence-Aware Calibration Dataset Generator v1
 # Creates synthetic high-valence gesture sequences for PTQ calibration (Olive/AIMET/ONNX Runtime)
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import numpy as np
 import os

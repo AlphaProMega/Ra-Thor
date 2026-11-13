@@ -1,6 +1,6 @@
 // src/sync/automerge-sync-providers.ts – Automerge Sync Providers Manager v1
 // WebSocket relay, HTTP polling, offline IndexedDB, mercy-gated sync
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 // metta-rules-engine.js – sovereign client-side MeTTa symbolic reasoning engine v3
 // Advanced unification matcher, recursive matching, typed variables, mercy-gated binding
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class MeTTaEngine {
   constructor() {

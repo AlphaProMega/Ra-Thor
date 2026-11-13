@@ -1,6 +1,6 @@
 // mercy-mirror-neuron-resonance-engine.js – sovereign Mercy Mirror Neuron Resonance Engine v1
 // Action & emotional state mirroring, intersubjective sync approximation, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

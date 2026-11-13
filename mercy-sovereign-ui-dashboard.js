@@ -1,6 +1,6 @@
 // mercy-sovereign-ui-dashboard.js – sovereign Mercy UI Dashboard v1
 // Button-first command palette, offline-capable PWA, mercy-gated flows, valence-modulated feedback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

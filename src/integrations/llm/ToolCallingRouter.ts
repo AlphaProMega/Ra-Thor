@@ -1,6 +1,6 @@
 // src/integrations/llm/ToolCallingRouter.ts – Tool Calling Router v7
 // Full xAI Grok tools + real-time streaming + offline WebLLM streaming fallback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

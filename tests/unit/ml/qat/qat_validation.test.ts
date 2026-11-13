@@ -1,7 +1,7 @@
 // tests/unit/ml/qat/qat_validation.test.ts
 // Vitest unit tests for Quantization-Aware Training pipeline
 // Fake-quant ops, STE gradient flow, per-channel scales, post-conversion accuracy
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest';
 import * as torch from 'torch'; // assuming torch.js or tfjs with torch-like API

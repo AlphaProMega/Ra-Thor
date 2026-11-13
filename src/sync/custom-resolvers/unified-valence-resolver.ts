@@ -1,6 +1,6 @@
 // src/sync/custom-resolvers/unified-valence-resolver.ts – Unified Valence-Weighted Resolver v1
 // Cross-engine core resolver (Yjs/Automerge/ElectricSQL), mercy-gated, thriving-aligned
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

@@ -1,6 +1,6 @@
 // mercy-rna-evolution-simulator.js – v4 with exonuclease-like proofreading
 // Sequence-level mutations, proofreading hydrolysis, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

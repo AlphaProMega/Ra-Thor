@@ -2,7 +2,7 @@
 // Real-time hand & pose landmark detection + gesture classification
 // Valence-weighted confidence gating, mercy-protected false-positive rejection
 // WebNN acceleration, offline-capable after first load
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { Hands, Holistic } from '@mediapipe/hands';
 import { currentValence } from '@/core/valence-tracker';

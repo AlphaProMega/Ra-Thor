@@ -1,6 +1,6 @@
 // src/sync/automerge-durable-sync.ts – Automerge Durable Document Sync Layer v1
 // Per-document independent histories, compact binary sync, valence-aware change filtering
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

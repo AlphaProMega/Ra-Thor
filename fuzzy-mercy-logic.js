@@ -1,6 +1,6 @@
 // fuzzy-mercy-logic.js – sovereign client-side fuzzy mercy-logic engine v1
 // Continuous truth degrees [0,1], mercy-gated, valence-weighted operators
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class FuzzyMercyLogic {
   constructor() {

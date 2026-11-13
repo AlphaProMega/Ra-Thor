@@ -2,7 +2,7 @@
 name = "mercy_orbital_safety"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyOrbitalSafety — Debris Mitigation + Valence-Weighted Collision Avoidance Core for Eternal Orbital Resonance"
 
 [dependencies]

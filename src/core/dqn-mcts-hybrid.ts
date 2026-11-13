@@ -1,7 +1,7 @@
 // src/core/dqn-mcts-hybrid.ts – DQN + MCTS Hybrid Engine v1.0
 // Deep Q-Network guided MCTS + experience replay + target network
 // Valence-shaped Q-bonus, mercy gating, lattice-integrated planning
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

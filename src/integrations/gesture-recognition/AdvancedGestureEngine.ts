@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/AdvancedGestureEngine.ts – Advanced Gesture Recognition Engine v1
 // MediaPipe-style topology + spatiotemporal transformer, YATA sequence ordering, valence gating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as tf from '@tensorflow/tfjs';
 import '@tensorflow/tfjs-backend-webgl';

@@ -2,7 +2,7 @@
 // 468 facial landmarks + 3D geometry + blendshape coefficients (emotions)
 // Real-time face tracking, valence-weighted micro-expression filtering, mercy-protected output
 // WebNN acceleration, offline-capable after first load
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { FaceMesh } from '@mediapipe/face_mesh';
 import { currentValence } from '@/core/valence-tracker';

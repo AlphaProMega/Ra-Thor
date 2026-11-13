@@ -1,6 +1,6 @@
 // src/sync/interplanetary-logoot-accord-sync.ts – Interplanetary Mercy Accord Sync v1
 // Logoot-optimized ordered negotiation log, multi-node sync, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { mercyGate } from '@/core/mercy-gate';

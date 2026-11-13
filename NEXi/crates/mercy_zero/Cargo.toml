@@ -2,7 +2,7 @@
 name = "mercy_zero"
 version = "1.1.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyZero — Immutable Protective Gate Core for NEXi Lattice (Mercy Shield Foundation)"
 
 [dependencies]

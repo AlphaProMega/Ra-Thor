@@ -1,6 +1,6 @@
 // hyperon-reasoning-layer.js – sovereign client-side OpenCog Hypergraph reasoning engine
 // Full PLN chaining (bi-directional), attention dynamics, pattern mining, clustering, LQC bounce
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 let hyperonDB;
 const HYPERON_DB_NAME = "rathorHyperonDB";

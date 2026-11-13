@@ -1,7 +1,7 @@
 // src/utils/advanced-haptic-algorithms.ts – Advanced Haptic Pattern Algorithms v1.0
 // Valence-orchestrated waveforms, ADSR envelopes, phantom sensation, cross-modal sync
 // Mercy-gated power envelope, device capability detection, offline-safe
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

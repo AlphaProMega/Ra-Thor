@@ -2,7 +2,7 @@
 name = "hyperplonk_recursion"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "HyperPlonkRecursion — Multilinear + Lookup Recursive PLONK for Infinite Arbitrary Circuits in NEXi Lattice"
 
 [dependencies]

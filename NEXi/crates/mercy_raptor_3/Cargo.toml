@@ -2,7 +2,7 @@
 name = "mercy_raptor_3"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyRaptor3 — Full-Flow Staged Combustion Methane Engine Innovations Core for Eternal Starship Resonance"
 
 [dependencies]

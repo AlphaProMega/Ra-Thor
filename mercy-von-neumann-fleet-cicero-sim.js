@@ -1,6 +1,6 @@
 // mercy-von-neumann-fleet-cicero-sim.js – v1 von Neumann probe fleet Cicero-style negotiation simulation
 // Deep NFSP + action/dialogue policy, MR habitat preview, mercy-gated positive-sum equilibria
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

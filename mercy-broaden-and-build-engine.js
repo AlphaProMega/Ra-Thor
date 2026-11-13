@@ -1,6 +1,6 @@
 // mercy-broaden-and-build-engine.js – sovereign Mercy Broaden-and-Build Engine v1
 // Positivity micro-moment orchestration, upward spiral tracking, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

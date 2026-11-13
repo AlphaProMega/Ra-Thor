@@ -1,6 +1,6 @@
 # scripts/train_qat_gesture_transformer.py – Quantization-Aware Training Script v1
 # PyTorch QAT + valence-weighted KD for spatiotemporal gesture transformer
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

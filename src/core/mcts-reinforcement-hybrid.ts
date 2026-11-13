@@ -1,6 +1,6 @@
 // src/core/mcts-reinforcement-hybrid.ts – MCTS + Reinforcement Learning Hybrid v1.0
 // AlphaZero-style self-play + neural improvement + valence-shaped rewards
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS, { NeuralNetwork } from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

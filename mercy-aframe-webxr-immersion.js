@@ -1,6 +1,6 @@
 // mercy-aframe-webxr-immersion.js – sovereign A-Frame WebXR declarative immersion v1
 // Positional sound, mercy gates, valence-modulated entities/audio
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

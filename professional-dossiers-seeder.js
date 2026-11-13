@@ -1,5 +1,5 @@
 // professional-dossiers-seeder.js – seed Hyperon mercy atoms for professional insights v1
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { hyperon } from './hyperon-runtime.js';
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';

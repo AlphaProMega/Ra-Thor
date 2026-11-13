@@ -1,6 +1,6 @@
 // src/sync/electricsql-local-first-sync.ts – ElectricSQL Local-First Postgres + CRDT Sync Layer v2
 // Valence-aware shape subscriptions, PGlite offline persistence, reconnection bloom, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { electric } from '@electric-sql/pglite';
 import { electrify } from '@electric-sql/pglite/electric';

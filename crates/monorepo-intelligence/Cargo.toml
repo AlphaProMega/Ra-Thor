@@ -4,7 +4,7 @@ version = "0.3.0"
 edition = "2021"
 authors = ["@AlphaProMega"]
 description = "Infinite-grade monorepo intelligence with plugins, semantic search, health scoring, and universal AI integration"
-license = "AG-SML"
+license = "LicenseRef-AG-SML-1.2"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor"
 
 [dependencies]

@@ -1,6 +1,6 @@
 // mercy-alphastar-rts-engine.js – sovereign Mercy AlphaStar RTS Engine v1
 // Population-based self-play, real-time macro/micro coordination, mercy-gated positive-sum play
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

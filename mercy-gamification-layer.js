@@ -1,6 +1,6 @@
 // mercy-gamification-layer.js – sovereign Mercy Gamification Layer v1
 // Daily pulse, streaks, badges, quests, mercy-gated, valence-modulated rewards
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { getUserProgress, updateUserProgress } from './mercy-onboarding-growth-dashboard.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

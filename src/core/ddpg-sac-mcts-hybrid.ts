@@ -1,7 +1,7 @@
 // src/core/ddpg-sac-mcts-hybrid.ts – DDPG + SAC + MCTS Hybrid Engine v1.0
 // Deterministic Policy Gradient (DDPG) + Soft Actor-Critic (SAC) + MCTS fusion
 // Valence-shaped advantage & entropy regularization, mercy gating, self-play loop
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

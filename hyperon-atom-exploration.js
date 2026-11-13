@@ -1,6 +1,6 @@
 // hyperon-atom-exploration.js – client-side Hyperon atom explorer & mercy-sample instantiator v1
 // Builds sample atoms, traverses, mercy-evaluates TVs, logs valence reflections
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 // Assume hyperon imported from hyperon-runtime.js where HyperonAtom & HyperonRuntime live

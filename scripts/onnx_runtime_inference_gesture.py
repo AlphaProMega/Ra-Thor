@@ -1,6 +1,6 @@
 # scripts/onnx_runtime_inference_gesture.py – ONNX Runtime Inference v1.0
 # Multi-backend (WebNN/WebGPU/WebGL/CPU), dynamic batch, valence gating, latency metrics
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import time

@@ -1,6 +1,6 @@
 // src/simulations/probe-fleet-logoot-rebalanced-sim.ts – Probe Fleet Sim with Logoot Rebalancing-Proof Sync v1
 // Logoot ordered command queue, rebalancing on high concurrency, MR habitat preview, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { mercyMR } from '@/integrations/mr-hybrid';

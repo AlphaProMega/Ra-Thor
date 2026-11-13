@@ -1,7 +1,7 @@
 // src/core/alphazero-neural-backend.ts – AlphaZero-style Neural Network Backend v1.0
 // Policy head + value head, trainable with self-play trajectories
 // Valence-weighted loss scaling, mercy gating, lattice-integrated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

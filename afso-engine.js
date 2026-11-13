@@ -1,5 +1,5 @@
 // afso-engine.js – sovereign client-side Artificial Fish Swarm Optimization
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class ArtificialFish {
   constructor(dimension, bounds = [-5, 5]) {

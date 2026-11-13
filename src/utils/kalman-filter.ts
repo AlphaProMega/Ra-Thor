@@ -2,7 +2,7 @@
 // Linear Kalman Filter for landmark/trajectory smoothing
 // Valence-adaptive process/measurement noise, mercy-gated outlier rejection
 // Supports 1D, 3D, or full multi-dimensional state vectors
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

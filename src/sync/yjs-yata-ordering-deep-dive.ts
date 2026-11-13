@@ -1,6 +1,6 @@
 // src/sync/yjs-yata-ordering-deep-dive.ts – Yjs YATA Ordering Deep Dive Reference & Mercy Helpers v1
 // Detailed YATA ordering rules, valence-weighted semantic override, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

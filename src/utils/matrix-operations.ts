@@ -1,7 +1,7 @@
 // src/utils/matrix-operations.ts – Matrix Operations Library v1.4
 // Complete linear algebra: multiply, add, subtract, transpose, inverse, determinant, Cholesky, QR
 // Householder QR with column pivoting, valence-modulated tolerance, mercy-gated rank check
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 export type Matrix = number[][];
 

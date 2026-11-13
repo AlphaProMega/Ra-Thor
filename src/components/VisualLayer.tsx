@@ -1,6 +1,6 @@
 // src/components/VisualLayer.tsx – Visuals & heavy components
 // Orb, particle field, dashboard – loaded after core
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React from 'react'
 

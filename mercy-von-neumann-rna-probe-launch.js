@@ -1,6 +1,6 @@
 // mercy-von-neumann-rna-probe-launch.js – von Neumann probe with RNA-world seed uplink v1
 // Partial replication, RNA proofreading seed, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { rnaSimulator } from './mercy-rna-evolution-simulator.js';

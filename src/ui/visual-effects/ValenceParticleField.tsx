@@ -1,6 +1,6 @@
 // src/ui/visual-effects/ValenceParticleField.tsx – Valence-modulated particle field background v1
 // Floating mercy orbs, cyan-emerald glow, density/speed tied to valence
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React, { useEffect, useRef } from 'react';
 import { motion } from 'framer-motion';

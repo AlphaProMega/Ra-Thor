@@ -1,6 +1,6 @@
 // src/sync/woot-ordering-deep-dive.ts – WOOT Ordering Deep Dive Reference & Mercy Helpers v1
 // Detailed visibility rules, position ID mechanics, valence-weighted override
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

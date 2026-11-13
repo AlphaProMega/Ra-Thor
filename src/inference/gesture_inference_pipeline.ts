@@ -1,7 +1,7 @@
 // src/inference/gesture_inference_pipeline.ts – Gesture Inference Pipeline v1.1
 // ONNX Runtime Web with model selection logic (INT4/INT8/FP16 by valence)
 // Provider preference: WebNN > WebGPU > WebGL > CPU, dynamic batch, latency metrics
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as ort from 'onnxruntime-web';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,7 +1,7 @@
 // tests/unit/ml/gesture_transformer/data_augmentation.test.ts
 // Vitest unit tests for GestureAugmentation pipeline
 // Shape preservation, statistical checks, valence scaling, deterministic mode
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import { GestureAugmentation } from '@/ml/gesture_transformer/data_augmentation';

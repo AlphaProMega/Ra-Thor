@@ -1,7 +1,7 @@
 // src/utils/phantom-motion-cues.ts – Phantom Motion Cues Engine v1.0
 // Creates illusory directional motion via asymmetric vibration, optical flow gradients, parallax hints
 // Valence-modulated direction/intensity, mercy-gated for low-power/reduced-motion users
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

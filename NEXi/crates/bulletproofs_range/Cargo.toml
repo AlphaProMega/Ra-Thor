@@ -2,7 +2,7 @@
 name = "bulletproofs_range"
 version = "1.3.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "BulletproofsRange — Logarithmic Range + Aggregation + Full Recursive Composition for NEXi Lattice"
 
 [dependencies]

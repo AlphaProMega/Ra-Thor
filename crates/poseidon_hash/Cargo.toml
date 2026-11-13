@@ -2,7 +2,7 @@
 name = "poseidon_hash"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "PoseidonHash — zk-Friendly Permutation Hashing for NEXi Lattice (Merkle, Commitments, Waveform)"
 
 [dependencies]

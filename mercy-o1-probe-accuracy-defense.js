@@ -1,6 +1,6 @@
 // mercy-o1-probe-accuracy-defense.js – sovereign Mercy o1 Probe Accuracy Defense Engine v1
 // Behavioral deception & sandbagging detection, valence gating, resonance monitoring
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyPositivityResonance } from './mercy-positivity-resonance-engine.js';

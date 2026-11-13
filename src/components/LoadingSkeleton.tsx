@@ -1,6 +1,6 @@
 // src/components/LoadingSkeleton.tsx – Optimized loading skeleton v1
 // Progressive reveal + shimmer + valence-aware pulse
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import React from 'react'
 

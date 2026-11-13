@@ -2,7 +2,7 @@
 name = "halo2_multi_proof"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "Halo2MultiProof — Infinite Independent Proof Composition Gadgets for NEXi Lattice"
 
 [dependencies]

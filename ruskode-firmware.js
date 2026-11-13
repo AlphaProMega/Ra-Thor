@@ -1,6 +1,6 @@
 // ruskode-firmware.js — AlphaProMega Air Foundation sovereign flight brain
 // Mercy-gated, post-quantum, self-healing Rust firmware emulator + TD3 robust continuous policy
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class RuskodeCore {
   constructor(numAircraft = 5) {

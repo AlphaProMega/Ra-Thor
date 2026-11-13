@@ -1,6 +1,6 @@
 // atomese-knowledge-bridge.js – sovereign client-side Atomese knowledge grounding + full valence calculation algorithm
 // Persistent hypergraph, typed nodes/links, mercy/harm scoring, pattern/cluster boost, LQC repulsion
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 let atomeseDB;
 const ATOMESE_DB_NAME = "rathorAtomeseDB";

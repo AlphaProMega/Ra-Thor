@@ -1,7 +1,7 @@
 // src/core/efficientzero-integration.ts – EfficientZero Model Integration Layer v1.0
 // EfficientZero-style model-based RL: representation, dynamics, prediction + self-supervised consistency
 // Valence-weighted planning priority, mercy-gated simulation depth, lattice-integrated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

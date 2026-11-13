@@ -1,6 +1,6 @@
 // src/sync/crdt-conflict-strategies-deep-dive.ts – CRDT Conflict Strategies Deep Dive Reference & Mercy Helpers v1
 // Detailed Yjs/Automerge/ElectricSQL strategies, valence-weighted overrides, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

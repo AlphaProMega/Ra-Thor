@@ -1,6 +1,6 @@
 // mercy-xr-immersion-blueprint.js – v2 sovereign MercyXR Immersion Blueprint
 // WebXR MR/AR + positional audio + snap teleport + full haptic feedback, mercy gates, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

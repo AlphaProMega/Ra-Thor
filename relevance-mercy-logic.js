@@ -1,6 +1,6 @@
 // relevance-mercy-logic.js – sovereign client-side relevance-mercy-logic engine v1
 // Variable-sharing relevance + mercy gate + valence lock
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class RelevanceMercyLogic {
   constructor() {

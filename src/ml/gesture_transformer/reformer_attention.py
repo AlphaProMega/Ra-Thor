@@ -2,7 +2,7 @@
 # Locality-Sensitive Hashing (LSH) self-attention + reversible residuals
 # Linear memory & time for long sequences, valence-modulated hash bucket scaling
 # PyTorch 2.3+, CUDA-ready, ONNX export compatible (with custom op fallback)
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import torch
 import torch.nn as nn

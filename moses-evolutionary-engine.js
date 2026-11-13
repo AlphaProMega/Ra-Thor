@@ -1,6 +1,6 @@
 // moses-evolutionary-engine.js – sovereign client-side MOSES evolutionary program synthesis
 // Enhanced multi-objective fitness: mercy alignment + complexity penalty + attention resonance
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // Tiny combinatory DSL for evolved programs
 const MOSES_DSL = [

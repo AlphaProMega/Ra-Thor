@@ -1,6 +1,6 @@
 # src/ml/gesture_transformer/train.py – Training loop stub v1.1
 # GPU-ready, simple dataset, valence logging
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import torch

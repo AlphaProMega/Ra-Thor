@@ -1,6 +1,6 @@
 // src/sync/__tests__/conflict-resolution-full-suite.test.ts – Complete Conflict Resolution Testing Suite v1
 // Diamond conflicts, valence skew, concurrency, collision, gate blocks, semantic overrides
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { describe, it, expect, vi, beforeEach } from 'vitest';
 import {

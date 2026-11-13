@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Sherif Samy Botros <ceo@acitygames.com>"]
 description = "Ra-Thor Meta-Intelligence — Self-organizing, self-improving intelligence layer. Assists in maintaining plans, analyzing the monorepo, and supporting the eternal evolution of the Core Spine."
-license = "AG-SML"
+license = "LicenseRef-AG-SML-1.2"
 repository = "https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor"
 
 [dependencies]

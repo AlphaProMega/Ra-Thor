@@ -1,6 +1,6 @@
 // mercy-mech-interp-deception-guard.js – sovereign Mercy Mech Interp Deception Guard v1
 // Linear probe/SAE deception detection, real-time monitoring, mercy-gated output filter
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

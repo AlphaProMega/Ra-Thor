@@ -1,6 +1,6 @@
 // src/sync/lseq-concurrent-insertion-examples.ts – LSEQ Concurrent Insertion Examples & Mercy Helpers v1
 // Detailed diamond scenarios, adaptive allocation, valence-weighted override
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

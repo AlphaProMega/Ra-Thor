@@ -1,6 +1,6 @@
 // mercy-sdt-mini-theories-audit.js – sovereign Mercy SDT Mini-Theories Audit v1
 // Six mini-theories real-time scoring, mercy gates, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

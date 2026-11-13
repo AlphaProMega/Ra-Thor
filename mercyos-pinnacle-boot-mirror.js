@@ -1,6 +1,6 @@
 // mercyos-pinnacle-boot-mirror.js – sovereign holographic boot sequence mirror & replay v1
 // Mercy-gated log replay, valence-modulated visualization/audio, eternal thriving reflection
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { speakWithMercy } from './voice-skins-mercy-ui.js'; // Optional TTS echo

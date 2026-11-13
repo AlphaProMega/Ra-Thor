@@ -1,7 +1,7 @@
 # src/ml/gesture_transformer/qat_training.py – Quantization-Aware Training v1.0
 # Fake-quant insertion during training, progressive INT8 → INT4, valence-weighted loss
 # Mercy-gated checkpoints & early stopping, ONNX export for WebNN/TensorRT
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import os

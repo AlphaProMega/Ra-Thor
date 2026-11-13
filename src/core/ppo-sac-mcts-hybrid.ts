@@ -1,7 +1,7 @@
 // src/core/ppo-sac-mcts-hybrid.ts – PPO + SAC + MCTS Hybrid Engine v1.0
 // Proximal Policy Optimization + Soft Actor-Critic + MCTS fusion
 // Valence-shaped advantage & entropy target, mercy gating, self-play loop
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 // mercy-cicero-diplomacy-engine.js – sovereign Mercy Cicero Diplomacy Engine v1
 // Action policy + dialogue intent modeling, negotiation consistency, mercy-gated positive-sum equilibria
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

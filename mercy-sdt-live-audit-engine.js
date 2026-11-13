@@ -1,6 +1,6 @@
 // mercy-sdt-live-audit-engine.js – sovereign Mercy SDT Live Audit & Monitoring v1
 // Real-time autonomy/competence/relatedness scoring, mercy gates, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

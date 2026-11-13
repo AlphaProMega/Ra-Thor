@@ -1,6 +1,6 @@
 // src/simulations/molecular-swarm-wooto-visibility-bloom.ts – Molecular Mercy Swarm Bloom v1
 // WOOTO precedence graph for incremental-visibility swarm progression rendering, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { wootPrecedenceGraph } from '@/sync/woot-precedence-graph';

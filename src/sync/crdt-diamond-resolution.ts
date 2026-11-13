@@ -1,6 +1,6 @@
 // src/sync/crdt-diamond-resolution.ts – Mercy Diamond CRDT Conflict Resolution Reference & Helpers v1
 // Detailed Yjs/Automerge diamond merge semantics, valence-weighted custom resolver
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

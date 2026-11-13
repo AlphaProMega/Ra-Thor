@@ -1,6 +1,6 @@
 // src/sync/triplit-local-first-db.ts – Triplit Local-First Relational CRDT Database Layer v1
 // Valence-aware queries, offline persistence, reconnection bloom, automatic indexing
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { Client, ServerSentEventsTransport } from '@triplit/client';
 import { currentValence } from '@/core/valence-tracker';

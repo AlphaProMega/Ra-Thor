@@ -2,7 +2,7 @@
 name = "grok_arena_pinnacle"
 version = "1.6.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "GrokArena-Pinnacle — Futarchy-Integrated Discourse Lattice with Full Async Integration"
 
 [dependencies]

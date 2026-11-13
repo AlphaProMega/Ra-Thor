@@ -1,6 +1,6 @@
 // src/sync/yjs-real-time-awareness.ts – Yjs Real-Time Awareness Layer v1
 // Multi-device/multiplanetary presence, cursors, live valence glows, collaborative editing
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { WebsocketProvider } from 'y-websocket';

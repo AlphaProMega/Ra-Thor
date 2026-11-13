@@ -1,6 +1,6 @@
 // src/core/alphago-style-mcts.ts – AlphaGo-style MCTS Engine v1.0
 // Neural-guided UCT + value/policy heads + valence-weighted exploration + mercy gating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

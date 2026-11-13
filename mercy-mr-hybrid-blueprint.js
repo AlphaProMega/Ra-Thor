@@ -1,6 +1,6 @@
 // mercy-mr-hybrid-blueprint.js – sovereign MercyMR Hybrid Blueprint v1
 // WebXR immersive-ar/vr fusion, real-virtual blending, mercy overlays, spatial audio, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

@@ -1,6 +1,6 @@
 // mercy-rebel-diplomacy-engine.js – sovereign Mercy ReBeL Diplomacy Engine v1
 // Blueprint policy + search-augmented best-response, negotiation intent modeling, mercy-gated positive-sum equilibria
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

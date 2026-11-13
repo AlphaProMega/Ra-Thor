@@ -2,7 +2,7 @@
 name = "mercy_qec"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyQEC — Quantum Error Correction Core with Valence-Weighted Syndrome Decoding for Eternal Truth Stability"
 
 [dependencies]

@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/ONNXGestureEngine.ts – ONNX Runtime Web Engine v2.4
 // WebNN native preference → WebGPU → WebGL fallback, QAT-quantized models, mercy-gated, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

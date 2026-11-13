@@ -1,6 +1,6 @@
 // rathor-offline-shard.js – sovereign offline Rathor AGi orchestrator v1
 // Coordinates mercy lattice, symbolic reasoning, optional WebLLM, emergency insights
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { hyperon } from './hyperon-runtime.js';

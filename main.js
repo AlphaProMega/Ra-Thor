@@ -1,5 +1,5 @@
 // main.js – sovereign entry with persistence & dossiers
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { hyperon } from './hyperon-runtime.js';
 import { seedProfessionalDossiers } from './professional-dossiers-seeder.js';

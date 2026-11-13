@@ -1,6 +1,6 @@
 // mercy-mechanistic-interpretability-stack.js – sovereign Mercy Mechanistic Interpretability Stack v1
 // SAEs + linear probes + causal tracing + steering + valence gating, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyDeceptionGuard } from './mercy-deception-prevention-engine.js';

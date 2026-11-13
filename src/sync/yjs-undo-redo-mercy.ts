@@ -1,6 +1,6 @@
 // src/sync/yjs-undo-redo-mercy.ts – Valence-Aware Yjs Undo/Redo Manager v2
 // Advanced UndoManager configuration: capture timeout, tracked origins, high-valence snapshots, mercy gating, low-valence prune
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { UndoManager } from 'y-undo-manager';

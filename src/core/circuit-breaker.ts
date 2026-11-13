@@ -1,7 +1,7 @@
 // src/core/circuit-breaker.ts – Circuit Breaker Pattern v1.0
 // Prevents cascading failures, mercy-gated, valence-aware retry aggression
 // States: CLOSED (normal), OPEN (failed, fast-fail), HALF_OPEN (testing recovery)
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

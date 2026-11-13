@@ -1,6 +1,6 @@
 // src/integrations/privacy/homomorphic-encryption-bridge.ts – Homomorphic Encryption Bridge v1
 // CKKS encrypted speculative draft verification + valence aggregation, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

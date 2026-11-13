@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/SpatiotemporalTransformerGestures.ts – Spatiotemporal Transformer Gesture Engine v1.15
 // BlazePose → Encoder-Decoder → Valence-Weighted Contrastive QAT-KD Distilled Draft + Speculative Decoding → gesture + future valence
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as tf from '@tensorflow/tfjs';
 import '@tensorflow/tfjs-backend-webgl';

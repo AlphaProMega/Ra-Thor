@@ -1,7 +1,7 @@
 // src/core/trpo-sac-mcts-hybrid.ts – TRPO + SAC + MCTS Hybrid Engine v1.0
 // Trust Region Policy Optimization guided MCTS + SAC entropy regularization + tree search
 // Valence-shaped advantage & KL constraint, mercy gating, self-play loop
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/TfjsLazyLoader.ts – TensorFlow.js Lazy Loader v1.1
 // Deferred import + WebGPU backend preference (fallback to WebGL), mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

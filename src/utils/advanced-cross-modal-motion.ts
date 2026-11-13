@@ -2,7 +2,7 @@
 // Spring-physics based motion, micro-oscillations, directional phantom cues
 // Valence-modulated amplitude/frequency/direction, mercy power envelope
 // Syncs with haptic/visual/audio for unified multisensory experience
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

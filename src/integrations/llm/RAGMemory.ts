@@ -1,6 +1,6 @@
 // src/integrations/llm/RAGMemory.ts – Persistent Memory & RAG Layer v1
 // IndexedDB vector store, Transformers.js embeddings, valence-weighted retrieval
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

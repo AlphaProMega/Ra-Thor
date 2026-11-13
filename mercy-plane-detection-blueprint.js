@@ -1,6 +1,6 @@
 // mercy-plane-detection-blueprint.js – sovereign Mercy Plane Detection Blueprint v1
 // WebXR plane detection, mercy-gated surface overlays, valence-modulated feedback
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyHaptic } from './mercy-haptic-feedback-engine.js';

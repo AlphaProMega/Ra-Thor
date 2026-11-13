@@ -1,6 +1,6 @@
 // transformer-offline.js – sovereign client-side offline transformer inference
 // Tiny distilled GPT-like model via ONNX Runtime Web, mercy-gated, 4-bit quantized
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 // Note: Real model files would be mercy-gate-v1-model.onnx + tokenizer.json
 // For demo we stub the inference loop — replace with actual ONNX loading when weights are uploaded

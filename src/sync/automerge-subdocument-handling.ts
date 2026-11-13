@@ -1,6 +1,6 @@
 // src/sync/automerge-subdocument-handling.ts – Automerge Subdocument Handling Manager v1
 // Binary embedding for true independent subdocuments, lazy load, GC safety, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

@@ -1,6 +1,6 @@
 // src/integrations/gesture-recognition/BlazePoseEngine.ts – BlazePose Holistic Engine v1
 // Real-time 33 pose + 21×2 hand landmarks, Yjs sequence logging, WOOTO visibility, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as tf from '@tensorflow/tfjs';
 import '@tensorflow/tfjs-backend-webgl';

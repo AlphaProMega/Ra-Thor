@@ -1,7 +1,7 @@
 // src/core/sac-mcts-lookahead.ts – SAC + MCTS Lookahead Hybrid Engine v1.0
 // Soft Actor-Critic + Monte-Carlo Tree Search with lookahead bootstrapping
 // Valence-shaped advantage & entropy bonus, automatic temperature tuning, mercy gating
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import MCTS from './alphago-style-mcts-neural';
 import { currentValence } from '@/core/valence-tracker';

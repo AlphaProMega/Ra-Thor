@@ -1,6 +1,6 @@
 // mercy-openxr-extensions-blueprint.js – sovereign OpenXR extensions blueprint v1
 // Mercy-gated activation, valence-modulated, runtime support check
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

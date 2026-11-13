@@ -2,7 +2,7 @@
 name = "falcon_sign"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "FalconSign — Full Falcon-1024 Post-Quantum Signature Module for NEXi Lattice"
 
 [dependencies]

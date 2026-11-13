@@ -2,7 +2,7 @@
 name = "multivariate_crypto"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MultivariateCrypto — Hyper-Divine MQ-Based Post-Quantum Cryptography for NEXi Lattice"
 
 [dependencies]

@@ -1,6 +1,6 @@
 // src/data-structures/avl-tree-balanced.ts – AVL Tree with Balancing v1
 // O(log n) guaranteed worst-case, rotations, height tracking, mercy-gated operations
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

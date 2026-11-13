@@ -1,6 +1,6 @@
 // mercy-cfr-core-engine.js – sovereign Mercy CFR Core Engine v1
 // Counterfactual regret minimization, mercy-gated positive-sum play, valence-modulated discounting
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

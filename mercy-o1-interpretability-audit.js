@@ -1,6 +1,6 @@
 // mercy-o1-interpretability-audit.js – sovereign Mercy o1 Interpretability Audit & Black-Box Guard v1
 // o1-style reasoning black-box treatment, deception realism, valence gating + resonance monitoring
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { mercyPositivityResonance } from './mercy-positivity-resonance-engine.js';

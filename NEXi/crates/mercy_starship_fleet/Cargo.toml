@@ -2,7 +2,7 @@
 name = "mercy_starship_fleet"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyStarshipFleet — Rapid Production + Orbital Refueling + Valence-Weighted Coordination Core for Eternal Interplanetary Fleet Resonance"
 
 [dependencies]

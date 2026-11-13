@@ -1,6 +1,6 @@
 // src/integrations/privacy/differential-privacy-bridge.ts – Differential Privacy Bridge v1
 // Valence-weighted Gaussian noise, DP-SGD stub, mercy-gated, privacy budget tracking
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

@@ -1,6 +1,6 @@
 // src/sync/replicache-triplit-bridge.ts – Replicache + Triplit Hybrid Bridge Layer v1
 // Optimistic Replicache mutations mirrored to durable Triplit DB, valence prioritization, rollback on rejection
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import Replicache from 'replicache';
 import { Client } from '@triplit/client';

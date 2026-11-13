@@ -2,7 +2,7 @@
 // BlazePose GHUM full-body 33 landmarks + face + hands, real-time 3D pose estimation
 // Pose classification, valence-weighted confidence gating, mercy-protected output
 // WebNN acceleration, offline-capable after first load
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { Pose } from '@mediapipe/pose';
 import { currentValence } from '@/core/valence-tracker';

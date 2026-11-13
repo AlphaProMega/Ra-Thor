@@ -1,6 +1,6 @@
 // grok-shard-engine.js – sovereign offline-first Rathor shard engine v18
 // Deprecates external API; falls back to local Hyperon/MeTTa mercy lattice + optional WebLLM
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 import { hyperon } from './hyperon-runtime.js'; // Assume hyperon init'd globally

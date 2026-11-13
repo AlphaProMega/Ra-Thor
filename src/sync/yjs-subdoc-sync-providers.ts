@@ -1,6 +1,6 @@
 // src/sync/yjs-subdoc-sync-providers.ts – Yjs Subdocument Sync Providers Manager v1
 // Per-subdoc persistence & network providers, lazy connect, high-latency handling, mercy-gated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { IndexeddbPersistence } from 'y-indexeddb';

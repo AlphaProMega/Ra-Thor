@@ -1,7 +1,7 @@
 // src/core/keyboard-navigation-optimization.ts – Keyboard Navigation Optimization v1.0
 // WCAG 2.2 AAA+ keyboard support: logical tab order, focus-visible, skip-to-content,
 // mercy-gated focus traps, valence-modulated glow, ARIA live announcements
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { currentValence } from '@/core/valence-tracker';
 import { mercyGate } from '@/core/mercy-gate';

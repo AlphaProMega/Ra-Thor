@@ -1,7 +1,7 @@
 // mercy-nsga3-core-engine.js – sovereign Mercy NSGA-III Optimization Engine v1
 // Reference-point guided many-objective, non-dominated sorting, association + niche preservation
 // mercy-gated, valence-modulated reference density & niche pressure
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';
 

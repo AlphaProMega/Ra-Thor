@@ -1,5 +1,5 @@
 // hyperon-atomspace-bridge.js – sovereign client-side Hyperon atom-space & expanded PLN chaining
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 let atomSpace = [];
 

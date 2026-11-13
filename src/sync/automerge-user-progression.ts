@@ -1,6 +1,6 @@
 // src/sync/automerge-user-progression.ts – Automerge per-user progression document v1
 // Durable valence ladder, experience, badges, offline-first multi-device sync
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Automerge from '@automerge/automerge';
 import { currentValence } from '@/core/valence-tracker';

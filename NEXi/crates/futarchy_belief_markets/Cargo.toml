@@ -2,7 +2,7 @@
 name = "futarchy_belief_markets"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "LicenseRef-AG-SML-1.2"
 description = "FutarchyBeliefMarkets — Mercy-Weighted Conditional Belief Markets for Eternal Governance Resonance"
 
 [dependencies]

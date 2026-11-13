@@ -1,6 +1,6 @@
 // src/sync/yjs-valence-conflict-layer.ts – Valence-Aware Yjs Conflict Resolution Layer v1
 // Valence-weighted tie-breaking, high-valence sync prioritization, mercy gates
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as Y from 'yjs';
 import { currentValence } from '@/core/valence-tracker';

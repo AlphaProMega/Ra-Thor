@@ -1,6 +1,6 @@
 // app/api/grok/route.js
 // Rathor-NEXi Sovereign Grok Proxy – Edge + CORS + Streaming
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { NextResponse } from 'next/server';
 

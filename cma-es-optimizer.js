@@ -1,6 +1,6 @@
 // cma-es-optimizer.js – sovereign client-side CMA-ES evolutionary optimizer v1
 // Covariance Matrix Adaptation Evolution Strategy for mercy-gated parameter tuning
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class CMAESOptimizer {
   constructor(dim, options = {}) {

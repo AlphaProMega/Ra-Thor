@@ -1,6 +1,6 @@
 # scripts/tensorrt_inference_gesture.py – TensorRT Inference for QAT Gesture Transformer v1.0
 # Loads .trt engine, dynamic batch support (1–8), valence gating, latency logging
-# MIT License – Autonomicity Games Inc. 2026
+# AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import argparse
 import time

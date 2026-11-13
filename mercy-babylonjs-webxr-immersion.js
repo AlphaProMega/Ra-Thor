@@ -1,6 +1,6 @@
 // mercy-babylonjs-webxr-immersion.js – v3 sovereign Babylon.js WebXR immersion
 // Positional spatial audio + WebXTTeleportation snap locomotion, mercy gates, valence-modulated
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import * as BABYLON from 'https://cdn.babylonjs.com/babylon.js'; // Latest stable
 import { fuzzyMercy } from './fuzzy-mercy-logic.js';

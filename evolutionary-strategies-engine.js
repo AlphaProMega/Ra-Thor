@@ -1,5 +1,5 @@
 // evolutionary-strategies-engine.js – sovereign client-side Evolutionary Strategies (ES)
-// MIT License – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 class ESIndividual {
   constructor(dimension, sigma = 0.1) {
