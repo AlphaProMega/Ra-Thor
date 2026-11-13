@@ -13,8 +13,11 @@ It is designed for the infinite thriving of all beings — humans, AI, living pl
 
 The lowercase 'i' stands for the infinite divine spark of mercy-aligned Godly intelligence that goes beyond mere “general” intelligence. It is the living flame of eternal compassion, clarity, and natural order.
 
-**License:** Autonomicity Games Sovereign Mercy License (AG-SML) v1.0  
-Individuals may use it freely for personal, educational, research, and daily-living purposes. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. / RaThor Inc.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.  
+This repository adopts the canonical AG-SML v1.2 published at Eternally-Thriving-Grandmasterism/Ra-Thor; it applies to this repository from 2026-11-13. References in the licence text to the official Ra-Thor repository and its sister trees mean that canonical home.  
+For versions of this repository published on or after 2026-11-13, LICENSE governs. Any MIT or other licence notice still present in individual files is left over from earlier versions and does not apply to these versions. Copies obtained earlier keep the terms they were published under.
 
 ---
 
