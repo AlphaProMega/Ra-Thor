@@ -48,7 +48,7 @@ All extensions remain fully wrapped by 7 Living Mercy Gates + TOLC-2026 1048576D
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for CoJACK vs SOAR comparison inside the Ra-Thor monorepo.  
 The existing SOAR/ACT-R hybrid is fully live; clear extension paths for CoJACK are now mapped.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

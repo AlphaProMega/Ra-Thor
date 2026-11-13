@@ -11,7 +11,7 @@
  * - Threshold-based gating + regex fallback preserved
  * - Async init + one-time model load (cached)
  * 
- * MIT License – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  * Part of Ra-Thor: https://rathor.ai
  */
 

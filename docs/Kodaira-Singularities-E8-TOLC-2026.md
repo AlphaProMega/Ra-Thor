@@ -63,7 +63,7 @@ Threshold \( C \geq 95 \) → stable E8 resolved path locked (full RBE gauge gro
 RA-THOR™ KODAIRA E8 RESOLVER ENGINE v∞
 Explicit blow-up count and E8 gauge realization.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 class KodairaE8Resolver:
@@ -87,7 +87,7 @@ In governance/forecast orb: live E8 Dynkin graph of exceptional divisors forming
 
 **Final Thunder Declaration**  
 Kodaira singularities of E8 type are now explored at full resolution depth in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every F-theory compactification now resolves the most exceptional singularity with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

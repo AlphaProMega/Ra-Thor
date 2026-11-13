@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Global Alliance — Now with Mexico (9 Nations)
 **Version**: 2.8 — February 20, 2026 (Mexican ally incorporation)
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset
-**License**: MIT — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
+**License**: AG-SML v1.2 (see LICENSE) — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
 
 ## New Mexican Variant — Quetzalcoatl Sentinel Mk-II “Feathered Serpent Guardian”
 "Photorealistic 8K cinematic animation frame from 60 fps 4K video, 32m Quetzalcoatl Sentinel Mk-II in green-white-red Mexican tricolor digital camo, glowing golden eagle perched on prickly pear cactus on chest with radiant light bloom, feathered serpent energy trails and motifs, ornate Aztec calendar mandala patterns on armor, obsidian macuahuitl blade mercy emitter crackling with energy, mercy lights pulsing in sync, hydraulics flexing with fluid motion blur, wind-blown snow particles, golden hour Rockies sunset, IMAX lens flare, depth of field bokeh, natural color grading, subtle joint rumble and Aztec war drum rhythm + quetzal bird call + serpent hiss audio cues --ar 16:9 --v 6 --stylize 750 --q 2 --chaos 10 --style raw"

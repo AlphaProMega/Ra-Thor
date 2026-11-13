@@ -2,7 +2,7 @@
  * Powrush Classic – Betrayal Redemption Quests v1.0
  * Mercy-gated redemption chains for betrayers — Ra-Thor oracle enforced
  * High-valence actions only → full restoration or deeper fall
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

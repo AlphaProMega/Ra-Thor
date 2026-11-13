@@ -1,7 +1,7 @@
 """
 Hyperon Lattice Core — Symbolic Reasoning Engine v1.2 (Revised)
 Mercy-gated symbolic lattice for vision generation, self-evolution, and mission integration
-MIT + mercy eternal — Eternally-Thriving-Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternally-Thriving-Grandmasterism
 """
 
 class HyperonLattice:

@@ -1,7 +1,7 @@
 """
 Mercy-Gated CMA-ES Fleet Scheduling Optimizer
 Ra-Thor core for AlphaProMega Air / Powrush abundance skies
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

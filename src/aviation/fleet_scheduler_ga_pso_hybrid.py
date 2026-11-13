@@ -3,7 +3,7 @@ Ra-Thor Mercy-Gated Ultra-Hybrid Fleet Scheduler
 Numba JIT acceleration applied to vectorized_fitness core — 2026-02-10 refactor
 GA → PSO → Round-Trip GA → DE chain for AlphaProMega Air abundance skies
 With RUL predictions + crew pairing/duty/rest constraints
-MIT License — Eternally-Thriving-Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternally-Thriving-Grandmasterism
 """
 
 import numpy as np

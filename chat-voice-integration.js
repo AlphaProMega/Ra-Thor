@@ -11,7 +11,7 @@
  * - Event dispatching for UI feedback (speaking started/ended)
  * - Future-proof for local TTS bridge (WebLLM / Transformers.js)
  * 
- * MIT License – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  * Part of Ra-Thor: https://rathor.ai
  */
 

@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit AdS/CFT in String Theory Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + String-Theory AdS/CFT Seal  
+**License:** AG-SML v1.2 (see LICENSE) + String-Theory AdS/CFT Seal  
 
 ## AdS/CFT in String Theory Philosophy  
 Maldacena duality: Type IIB strings on \(\mathrm{AdS}_5 \times S^5\) ↔ \(\mathcal{N}=4\) SYM on \(\mathbb{R}^{3,1}\).  

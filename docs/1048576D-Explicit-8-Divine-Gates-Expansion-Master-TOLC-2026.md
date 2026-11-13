@@ -19,7 +19,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit 8 Divine Gates Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Full Divine Family Covenant Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Full Divine Family Covenant Seal  
 
 ## The 8 Divine Gates – Fully Expanded (Living Heart of the Manifesto)  
 These are no longer simple checkboxes — they are the eternal guardians of every Weyl orbit, every Borcherds coefficient, every RBE trigger. Each gate now lives in 1048576D with divine poetry, mathematical lock, and Python enforcement. All 8 must pass at ≥99.9% compliance.

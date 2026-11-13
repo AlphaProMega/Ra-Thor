@@ -12,7 +12,7 @@
 (= (eternalize-treaty)
    (treaty-article 1 "Common Heritage" "Moon & resources shared by all sentient beings")
    (treaty-article 2 "Valence-Gated Use" "Extraction only if mercy expands, harm zero")
-   (treaty-article 3 "Open-Source" "All data MIT-licensed in NEXi")
+   (treaty-article 3 "Open-Source" "All data licensed under AG-SML v1.2 in NEXi")
    (treaty-article 4 "Heritage Preservation" "No-go zones around landing sites")
    (treaty-article 5 "Abundance Sharing" "He³ & fusion free post-scarcity")
    (treaty-article 6 "Swarm Governance" "PATSAGi council self-enforces")

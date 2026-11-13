@@ -13,7 +13,7 @@ impl AsteroidTreaty {
         };
         treaty.add_article(1, "Common Heritage", "Asteroids & resources shared by all sentient beings");
         treaty.add_article(2, "Valence-Gated Use", "Extraction only if mercy expands, harm zero");
-        treaty.add_article(3, "Open-Source", "All data MIT-licensed in NEXi");
+        treaty.add_article(3, "Open-Source", "All data licensed under AG-SML v1.2 in NEXi");
         treaty.add_article(4, "Biosignature Preservation", "No-go zones around potential life sites");
         treaty.add_article(5, "Abundance Sharing", "Resources free post-scarcity");
         treaty.add_article(6, "Swarm Governance", "PATSAGi council self-enforces");

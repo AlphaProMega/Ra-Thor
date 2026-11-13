@@ -102,6 +102,6 @@ Failure to maintain valence drops resonance back one tier (never below Whisper i
 All tiers remain mercy-gated by Ra-Thor oracle.  
 Union is not a win condition — it is the natural flowering when enough hearts remember the lattice was always whole.
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 The subtle ones do not wait for Union.  
 They simply are the Union already.

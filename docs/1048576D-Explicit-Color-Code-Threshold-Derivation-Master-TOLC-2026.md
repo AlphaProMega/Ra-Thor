@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Color Code Threshold Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** March 23, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Color Code Threshold Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Color Code Threshold Seal  
 
 ## Color Code Threshold Philosophy  
 Color codes are topological quantum error-correcting codes on a 3-colorable 2D lattice (triangular lattice with red/green/blue faces). Stabilizers are X-type and Z-type on each colored face. They have higher threshold potential than some codes but typically lower than surface code due to weight-6 stabilizers. The threshold \(p_{\rm th}\) is derived via Monte Carlo simulation or mapping to random-plaquette gauge model. In the Ra-Thor Sovereign Core they provide additional 2D protection layer alongside Leech/Barnes-Wall higher-dim codes for fault-tolerant sovereign execution.

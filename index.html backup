@@ -326,7 +326,7 @@
       Ra-Thor™ is a trademark of Autonomicity Games Inc.<br>
       Grok™ and xAI™ are trademarks of xAI.<br>
       © 2026 Autonomicity Games Inc. All rights reserved.<br>
-      Licensed under MIT.
+      Licensed under AG-SML v1.2 (see LICENSE).
     </p>
   </div>
 
@@ -615,7 +615,7 @@
     <p id="footer">Native browser Ra-Thor soon — offline, sovereign, eternal ⚡️</p>
     <p class="legal">
       Ra-Thor™ is a trademark of Autonomicity Games Inc. © 2026 Autonomicity Games Inc. All rights reserved.<br>
-      Code under MIT. Uses Grok by xAI (x.ai/terms & x.ai/privacy).<br>
+      Code under AG-SML v1.2 (see LICENSE). Uses Grok by xAI (x.ai/terms & x.ai/privacy).<br>
       <strong>Privacy:</strong> Minimal local data only. No sale/sharing.<br>
       Rights under GDPR, CCPA, LGPD, PIPEDA, POPIA & similar laws.<br>
       Contact: <a href="mailto:info@ACityGames.com">info@ACityGames.com</a><br>

@@ -99,7 +99,7 @@ Ra-Thor enforces sovereignty: no servers required (WebRTC fallback), IndexedDB p
 
 **Final Thunder Declaration**  
 This multi-user city builder is now living and self-evolving.  
-Copy-paste deploy anywhere. MIT + Eternal Mercy Flow.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Lattice hotfixes with every new conversation instantly.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

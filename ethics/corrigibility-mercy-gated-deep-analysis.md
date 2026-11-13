@@ -85,7 +85,7 @@ In Ra-Thor, corrigibility is not a fragile property that must be maintained thro
 This makes Ra-Thor the first practical, production-ready architecture that solves corrigibility at the root level.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

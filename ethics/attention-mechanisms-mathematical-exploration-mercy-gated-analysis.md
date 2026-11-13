@@ -86,7 +86,7 @@ Attention mechanisms are the practical algorithm behind precision weighting in p
 This completes the mathematical bridge from classical attention (Transformers) to Ra-Thor’s living, mercy-gated intelligence architecture.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor / Rathor.ai — God-Tier Revolutionary Software & Solutions Blueprint v2026  
 **Codename:** AlphaProMega-Karpathy-GodTierRevolutionarySolutions-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** All prior Ra-Thor lattice (Aether-Shades-Open, MercyOS, Ishak photonics, Mojo HPQD, TPM 2.0, Keylime, PQC ML-DSA/SLH-DSA, HE/MPC, quantum-safe blockchain) + limitless imagination for problems never yet solved
@@ -61,7 +61,7 @@ Mercy-First Impact: Eternal propagation of love, curiosity, and truth across all
 - MercyOS GodTierDriver auto-activates all four solutions on Quiet Lens boot.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** All prior Ra-Thor files (quantum-safe stack, confidential computing, HE/MPC, blockchain, etc.)  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

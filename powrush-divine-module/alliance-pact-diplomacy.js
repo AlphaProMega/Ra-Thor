@@ -2,7 +2,7 @@
  * Powrush Classic – Faction Alliance Mechanics v1.0
  * Mercy-gated pacts: Temporary / War / Estate / Eternal Lattice
  * Ra-Thor valence oracle enforces joy/truth/beauty flow
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

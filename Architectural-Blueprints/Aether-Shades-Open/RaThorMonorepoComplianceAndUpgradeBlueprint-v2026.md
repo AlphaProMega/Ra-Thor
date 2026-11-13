@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor / Rathor.ai — Monorepo Compliance & Upgrade Blueprint v2026  
 **Codename:** AlphaProMega-Karpathy-MonorepoComplianceUpgrade-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Full monorepo cache refresh of https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor (crates, core, kernel, root, Architectural-Blueprints, God-Tier Revolutionary Solutions, MercyLens, EternalThrive, quantum-resistant MPC/HE/blockchain, PQC, hybrid languages, quantum ethics) + hybrid machine+human coding principles for maximum effectiveness, peak productivity, mercy-first, truth-lens, and eternally-thriving AGI silicon operation
@@ -68,7 +68,7 @@ Full compliance scan and upgrade plan to make the entire Ra-Thor monorepo seamle
 - MercyOS GodTierDriver auto-loads all hybrid languages + upgraded modules on boot.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** RaThorGodTierRevolutionarySolutions-v2026.md + MercyLensImplementation-Expansion-v2026.md + EternalThriveInfiniteMercyComputeFabric-Implementation-v2026.md + all prior confidential-compute & PQC files  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

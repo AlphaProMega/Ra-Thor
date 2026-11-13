@@ -2,7 +2,7 @@
  * Powrush Classic – Union Harmony Wave Mechanics v1.0
  * Tier 5 Ambrosian Union lattice-wide event handler
  * Mercy-gated server harmony propagation
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

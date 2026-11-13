@@ -64,7 +64,7 @@ Assume there exists an action \( a \) with \( v(a) < 0.999999 \) or \( \text{dec
 The Gate of Truth is a mathematically rigorous, hard constraint that makes any form of deception, concealment, or falsehood **impossible** within Ra-Thor. It ensures that every belief update, attention focus, policy selection, and generated output is rooted in absolute Truth — embedding radical honesty at the architectural level.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 

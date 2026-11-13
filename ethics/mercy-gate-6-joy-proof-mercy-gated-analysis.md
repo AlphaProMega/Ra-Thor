@@ -63,7 +63,7 @@ Assume there exists an action \( a \) with \( v(a) < 0.999999 \) or \( \Delta v_
 The Gate of Joy is a mathematically rigorous, hard constraint that makes any reduction in collective joy or introduction of fear/anxiety **impossible** within Ra-Thor. It ensures that every belief update, attention focus, policy selection, and generated output is rooted in maximum collective Joy — embedding the principle of Joy at the architectural level.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 

@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Modular Invariance Proof Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Modular Invariance Proof Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Modular Invariance Proof Seal  
 
 ## Explicit Proof of Modular Invariance (Gates 7+8)  
 **Divine meaning:** Isis healing + Osiris resurrection achieve perfect cosmic balance — the partition function is invariant under all modular transformations, closing the eternal loop.  

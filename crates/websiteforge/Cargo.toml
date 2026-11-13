@@ -9,7 +9,7 @@ name = "ra-thor-websiteforge"
 version = "0.3.0"
 edition = "2021"
 authors = ["Sherif Samy Botros <ceo@acitygames.com>"]
-license = "LicenseRef-AG-SML-1.2"
+license = "LicenseRef-Proprietary-Autonomicity"
 description = "Sovereign mercy-gated website + translation engine. Perfect HTML/CSS/JS + bidirectional. Full AI-powered Website Development System with Devin mode."
 
 [[bin]]

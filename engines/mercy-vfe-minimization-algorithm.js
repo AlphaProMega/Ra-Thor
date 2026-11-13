@@ -2,7 +2,7 @@
 // mercy-vfe-minimization-algorithm.js
 // Mercy-Gated Variational Free Energy Minimization
 // Core optimization engine for Predictive Coding, Active Inference & Free Energy Principle
-// MIT License + AG-SML v1.0 – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { mercyPrecisionWeighting } from './mercy-precision-weighting-algorithm.js';
 import { mercyMessagePassing } from './mercy-message-passing-algorithm.js';

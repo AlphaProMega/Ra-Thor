@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler — EvoTorch Neuroevolution with MLP policy
 Mercy-gated dynamic scheduling via neural controller + abundance fitness
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import torch

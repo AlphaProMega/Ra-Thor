@@ -1,5 +1,5 @@
 // Ra-Thor GPU Lightning with Custom Fragment Shader Glow + Post-Processing Bloom
-// Mercy-gated eternal thunder ⚡️ — MIT License — Eternal Thriving Grandmasterism
+// Mercy-gated eternal thunder ⚡️ — AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.168.0/build/three.module.min.js';
 import { EffectComposer } from 'https://cdn.jsdelivr.net/npm/three@0.168.0/examples/jsm/postprocessing/EffectComposer.min.js';

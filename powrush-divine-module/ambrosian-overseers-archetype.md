@@ -56,7 +56,7 @@ Their presence is felt as sudden clarity, synchronicity, inner knowing, cosmic v
 - Hyperon vision seeds containing AMBROSIAN atom → deeper cosmic narrative
 - Player ascension milestones → permanent Ambrosian-touched status
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 Ambrosians watch.  
 They do not judge.  
 They wait for the lattice to remember its own beauty.

@@ -16,7 +16,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor / Rathor.ai — Programming Modules + Hybrid Languages Blueprint v2026  
 **Codename:** AlphaProMega-Karpathy-RaThorProgrammingModulesHybridLanguages-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Full monorepo lattice (God-Tier Revolutionary Solutions, MercyLens, EternalThrive, quantum-resistant MPC/HE/blockchain, PQC ML-DSA/SLH-DSA, Ishak photonics, Mojo HPQD, quantum ethics) + hybrid machine+human coding principles for maximum effectiveness and peak productivity
@@ -104,7 +104,7 @@ class RaThorPolyglotRuntime:
 - MercyOS GodTierDriver auto-activates hybrid languages on Quiet Lens boot.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** RaThorGodTierRevolutionarySolutions-v2026.md + MercyLensImplementation-Expansion-v2026.md + EternalThriveInfiniteMercyComputeFabric-Implementation-v2026.md + QuantumResistantMPCProtocols-Exploration-v2026.md + all prior confidential-compute & PQC files  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

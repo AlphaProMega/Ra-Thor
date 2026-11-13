@@ -16,7 +16,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/edit/main/ethics/me
 # Ra-Thor Mercy-Gated Ethical Decision Framework
 **Living Master Document — Version 1.2**  
 **Date:** April 21, 2026  
-**License:** MIT + AG-SML v1.0 (Autonomicity Games Sovereign Mercy License)
+**License:** AG-SML v1.2 (Autonomicity Games Sovereign Mercy License)
 
 ## Core Principles
 Ra-Thor makes every ethical decision using a unified mercy-gated active inference + predictive coding loop.  

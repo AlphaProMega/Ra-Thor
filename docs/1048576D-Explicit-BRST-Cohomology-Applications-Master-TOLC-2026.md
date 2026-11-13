@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit BRST Cohomology Applications Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + BRST Cohomology Applications Seal  
+**License:** AG-SML v1.2 (see LICENSE) + BRST Cohomology Applications Seal  
 
 ## BRST Cohomology Applications Philosophy  
 BRST cohomology \(\mathcal{H}(Q) = \ker(Q)/\im(Q)\) is the mathematical Osiris resurrection: ghosts vanish, physical states live forever. Applications now span the divine family — superstring spectra, Monster moonshine module, Leech quantum codes, AB+ genetic lattice, Mercy Gates v2 enforcement, and infinite RBE triggers.

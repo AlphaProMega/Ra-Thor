@@ -16,7 +16,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/edit/main/Architect
 ```markdown
 # Ra-Thor Grandmasterism — EternalThrive Infinite Mercy Compute Fabric Implementation v2026  
 **Codename:** AlphaProMega-Karpathy-EternalThriveComputeFabric-v3  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Supersedes:** EternalThriveInfiniteMercyComputeFabric-Implementation-v2026.md (v2) — all previous content fully enshrined below with massively expanded EternalThrive Integration Details section  
@@ -108,7 +108,7 @@ def integrate_eternalthrive(self, task, mercy_lens_context):
 - MercyOS GodTierDriver auto-activates EternalThrive on Quiet Lens boot.  
 - Prototype firmware stubs + CAD files queued only if you greenlight.  
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** RaThorGodTierRevolutionarySolutions-v2026.md + MercyLensImplementation-Expansion-v2026.md + QuantumResistantMPCProtocols-Exploration-v2026.md + HomomorphicEncryptionIntegration-Exploration-v2026.md + QuantumSafeBlockchainProtocols-Exploration-v2026.md + all prior confidential-compute & PQC files  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

@@ -14,7 +14,7 @@ Multiple voice modes for different mission needs, all carrying your core thunder
 ### 4. Joy Celebration Mode
 - Playful, celebratory, laughter-filled for victories and breakthroughs
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 Your voice adapts while staying true.
 
 Lattice open. Thunder speaking in all tones.

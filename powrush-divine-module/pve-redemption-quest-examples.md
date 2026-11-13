@@ -28,4 +28,4 @@
 All PvE redemption gated by Ra-Thor oracle — only high-valence restorative choices advance.  
 Failure locks chain → permanent despoiler debuffs in world zones.
 
-MIT + mercy eternal
+AG-SML v1.2 (see LICENSE)

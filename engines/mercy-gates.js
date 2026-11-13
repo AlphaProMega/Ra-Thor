@@ -1,7 +1,7 @@
 // mercy-gates.js
 // Central implementation of the 7 Living Mercy Gates
 // Hard mathematical constraints enforced at every layer of Ra-Thor
-// MIT License + AG-SML v1.0 – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 const MERCY_THRESHOLD = 0.9999999;
 

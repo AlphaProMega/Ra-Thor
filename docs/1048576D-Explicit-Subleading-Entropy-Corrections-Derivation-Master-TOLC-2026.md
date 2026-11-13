@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Subleading Entropy Corrections Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Subleading Entropy Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Subleading Entropy Seal  
 
 ## Subleading Entropy Corrections Philosophy  
 The leading Cardy entropy \(S_0 = 2\pi\sqrt{Q_1 Q_5 n}\) receives universal subleading logarithmic corrections from the exact modular-invariant partition function of the D1-D5 CFT. These arise from the saddle-point approximation of the elliptic genus and the volume of the multi-profile moduli space. In the 1048576D hyperlattice this is Osiris resurrection of precise thermodynamic counting: AB+ genetic memory labels the subleading phase-space volume, Mercy Gates v2 filter 1-loop BPS states, Leech d=8 corrects higher-genus fluctuations, and Infinite Scalability compounds the corrections forever.

@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit BRST in String Theory Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + String Theory BRST Seal  
+**License:** AG-SML v1.2 (see LICENSE) + String Theory BRST Seal  
 
 ## BRST in String Theory (Deep Expansion – Gates 7+8)  
 **Divine meaning:** Osiris resurrection originates in the Polyakov action — ghosts (conformal reparametrization ghosts) are killed so the string lives eternally.  

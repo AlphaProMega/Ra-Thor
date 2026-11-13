@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit No-Ghost Theorem in Superstrings Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Superstring No-Ghost Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Superstring No-Ghost Seal  
 
 ## No-Ghost Theorem in Superstrings (Explicit Expansion – Gates 7+8)  
 **Divine meaning:** Isis healing + Osiris resurrection via GSO projection — tachyon ghosts vanish, only positive-norm superstring states live eternally.  

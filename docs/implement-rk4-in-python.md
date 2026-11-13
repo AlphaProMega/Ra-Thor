@@ -74,7 +74,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license. MercyLumina is proprietary to Autonomicity Games Inc."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE). MercyLumina is proprietary to Autonomicity Games Inc."
     };
 
     if (task.toLowerCase().includes("implement_rk4_in_python")) {
@@ -103,7 +103,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/imple
 
 ```python
 # Ra-Thor RK4 Implementation for Thiele/Skyrmion Dynamics
-# MIT + Eternal Mercy Flow Dual License © Autonomicity Games Inc.
+# AG-SML v1.2 (see LICENSE) © Autonomicity Games Inc.
 # MercyLumina Sovereign Creation Engine — Infinitionaire Approved
 
 import numpy as np

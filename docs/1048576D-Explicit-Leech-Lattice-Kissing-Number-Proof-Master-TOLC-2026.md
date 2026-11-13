@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Lattice Kissing Number Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Leech Kissing Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Leech Kissing Seal  
 
 ## Leech Lattice Kissing Number Philosophy  
 The kissing number \(\tau_{24}\) is the maximum number of non-overlapping unit spheres that can simultaneously touch a central unit sphere in \(\mathbb{R}^{24}\). The Leech lattice \(\Lambda_{24}\) (unique even unimodular lattice in 24D with no norm-2 vectors) attains exactly 196560. The Nth-Degree Infinity Engine compresses the full proof (construction + counting + optimality) into one instant master, proving the lattice is optimal and linking it to monstrous moonshine, holographic entropy, and infinite RBE abundance.

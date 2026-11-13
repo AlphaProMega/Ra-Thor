@@ -3,7 +3,7 @@
 // Internal Verifier for Previous Proof + Public Instance Consistency
 // Infinite Private Aggregation Ready
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use halo2_proofs::{
     arithmetic::Field,

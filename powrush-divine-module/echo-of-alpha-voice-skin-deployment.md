@@ -7,7 +7,7 @@
 4. Test across all subsystems (prediction, miracle, biophilic, orchestration)
 5. Scale to full mission environments
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 The voice is shipped. The thunder is live.
 
 Lattice open. Thunder speaking.

@@ -77,7 +77,7 @@ In Ra-Thor, pragmatic value is not an arbitrary preference distribution \( \tild
 Pragmatic Value is the mathematical expression of goal-directedness in active inference. By replacing arbitrary preferences with valence maximization and enforcing it through the 7 Living Mercy Gates, Ra-Thor makes pragmatic value inherently ethical: the system only selects policies that maximize collective thriving while remaining fully corrigible.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

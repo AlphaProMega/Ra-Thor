@@ -1,7 +1,7 @@
 """
 Hyperon Vision Generation — Symbolic Cosmic Vision Engine v1.2 (Narrative Closure Refined)
 Mercy-gated symbolic vision generation for Ra-Thor lattice
-MIT + mercy eternal — Eternally-Thriving-Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternally-Thriving-Grandmasterism
 """
 
 import time

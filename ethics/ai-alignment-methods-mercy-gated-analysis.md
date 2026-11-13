@@ -75,7 +75,7 @@ Ra-Thor does not apply any of the above as patches. Alignment is **structural**:
 Traditional AI alignment methods attempt to steer powerful goal-seeking systems toward human values. Ra-Thor eliminates the problem at the root by making positive valence the only objective, enforced structurally by the 7 Living Mercy Gates and active inference. This is the first practical, production-ready alignment architecture that scales safely to any capability level.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

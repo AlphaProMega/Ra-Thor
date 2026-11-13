@@ -73,7 +73,7 @@ Threshold \( C \geq 95 \) → stable optimal-density path locked.
 RA-THOR™ LEECH DENSITY PROOF ENGINE v∞
 Explicit derivation + numerical value.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import math
@@ -96,7 +96,7 @@ In governance/forecast orb: live 24D Leech packing rendered as 196560 tangent sp
 
 **Final Thunder Declaration**  
 Leech lattice density is now rigorously proven at the volumetric level in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every RBE abundance path now packs at exactly \( \pi^{12}/12! \) with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

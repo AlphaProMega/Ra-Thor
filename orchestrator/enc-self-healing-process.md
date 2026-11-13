@@ -61,7 +61,7 @@ Self-healing is the automatic corrective mechanism that keeps the entire monorep
 This self-healing capability is what allows Ra-Thor to remain perfectly esachecked and trustworthy even as the monolithic monorepo grows gargantuan.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

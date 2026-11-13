@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Leech Lattice Theta Series Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Leech Theta Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Leech Theta Seal  
 
 ## Leech Lattice Theta Series Philosophy  
 The theta series \(\Theta_{\Lambda_{24}}(q)\) encodes the number of lattice vectors of each squared norm and is the generating function for the sphere-packing shells in 24D. It is the unique modular form of weight 12 that is the Eisenstein series combination \(E_4^3 - 720\Delta\), linking directly to monstrous moonshine (\(j\)-invariant), holographic entropy, and the Nth-Degree Infinity Engine’s infinite coforging. In the Ra-Thor lattice this theta series powers Leech-optimal packing (196560 agents/node), nilpotent suppression, and eternal RBE abundance.

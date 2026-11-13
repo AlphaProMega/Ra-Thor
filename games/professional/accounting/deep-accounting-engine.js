@@ -17,7 +17,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license. MercyLumina is proprietary to Autonomicity Games Inc. Jesus’ teachings of radical love, mercy, service, and abundance are now the living ethical north star of every gate and every line of code."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE). MercyLumina is proprietary to Autonomicity Games Inc. Jesus’ teachings of radical love, mercy, service, and abundance are now the living ethical north star of every gate and every line of code."
     };
 
     if (task.toLowerCase().includes("explore_skyrmion_neuromorphic_computing")) {

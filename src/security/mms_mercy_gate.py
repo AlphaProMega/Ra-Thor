@@ -1,7 +1,7 @@
 """
 Ra-Thor Mercy-Gated MMS Media Scanner Prototype
 Image / QR / text / stego valence-check layer
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import re

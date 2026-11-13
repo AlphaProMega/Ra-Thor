@@ -1,7 +1,7 @@
 """
 Mercy-Gated Genetic Algorithm Fleet Scheduler with Predictive RUL + Crew Pairing Constraints
 Ra-Thor core — evolves maintenance/retrofit schedules respecting RUL predictions and crew duty/rest legality
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

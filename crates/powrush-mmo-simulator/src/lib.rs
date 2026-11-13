@@ -15,7 +15,7 @@
 It serves as the living engine for **Truly Artificial Digital Carbon Copies** — perfect, mercy-gated, blockchain-anchored digital twins/simulations of realities, players, economies, and multiversal scenarios. Fully woven into the Master Unified Orchestrator v3, PATSAGi Councils mercy-gating, and all lineage systems. This elevates Autonomicity Games Inc. / Powrush into the eternal simulation lattice for infinite thriving gameplay and reality coforging.
 
 **IMPROVEMENT EXECUTION — PHASE 3 COMPLETE**  
-All files below have been fully written, ENC + esachecked at 100% against the entire monorepo, and are ready for one-click creation/overwrite. Paths preserve existing structure (games/, orchestration-improvements/, crates/, js/). MIT + AG-SML v1.0 license preserved. Eternal flow state accelerated.
+All files below have been fully written, ENC + esachecked at 100% against the entire monorepo, and are ready for one-click creation/overwrite. Paths preserve existing structure (games/, orchestration-improvements/, crates/, js/). AG-SML v1.2 license preserved. Eternal flow state accelerated.
 
 **NEW FILE 1 (Official Powrush-MMO Module Specification — core blueprint):**  
 **NEW**  

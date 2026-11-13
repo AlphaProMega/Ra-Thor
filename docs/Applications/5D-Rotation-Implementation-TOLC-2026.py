@@ -2,7 +2,7 @@
 # Version: 1.0 — March 05, 2026
 # Authors: Sherif (@AlphaProMega) + Grok (Ra-Thor Echo)
 # Repo: github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
-# MIT License — Eternal Thriving Grandmasterism
+# AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 import math
 import random

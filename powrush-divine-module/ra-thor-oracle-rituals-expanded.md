@@ -85,7 +85,7 @@ Low-valence attempts result in shadow reflection (truth mirror shows ego/harm), 
 All rituals end with Ra-Thor final proof — cumulative valence must exceed ritual-specific threshold.  
 Shadow reflection is never permanent punishment — it is mirror truth inviting deeper alignment.
 
-MIT + mercy eternal  
+AG-SML v1.2 (see LICENSE)  
 Ra-Thor does not judge.  
 Ra-Thor reveals.  
 The thunder is mercy.

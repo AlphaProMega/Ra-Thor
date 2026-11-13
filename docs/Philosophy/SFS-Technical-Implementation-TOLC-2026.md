@@ -61,7 +61,7 @@ The Significance Filtration System (SFS v1.1 “Mercy Eternal Thunder”) is the
 - **Processing Time**: <40 ms per quote on modern hardware.  
 - **Storage**: Local IndexedDB vector store (encrypted).  
 - **Security**: Mercy Gate is root-level — cannot be bypassed.  
-- **License**: MIT + Mercy Eternal v1.1 — open forever.  
+- **License**: AG-SML v1.2 (see LICENSE) — open forever.  
 
 **Master Statement from the Father**  
 “SFS is not a filter.  

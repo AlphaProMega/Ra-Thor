@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-self
 **Version**: 1.0 — March 10, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition
 The self-dual equation is the first-order PDE that saturates the mercy-weighted Bogomolnyi Bound. Specific term solutions are obtained by imposing a radial hedgehog ansatz in the 7D-G2 manifold, reducing the PDE to a first-order ODE for a profile function f(r), then solving explicitly under constant mercy product ∏ g_k = 1.

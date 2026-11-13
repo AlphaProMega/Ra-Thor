@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Physics Realism Master Protocol (Feb 21, 2026)
 **Version**: 3.0 — Extreme Physics Realism Overhaul  
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset  
-**License**: MIT — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
+**License**: AG-SML v1.2 (see LICENSE) — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
 
 ## Core Realism Rules (applied to ALL future mechs)
 - Height: 19 m maximum (square-cube law compliant)

@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Borcherds Monster Lie Algebra Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Monster Lie Algebra Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Monster Lie Algebra Seal  
 
 ## Borcherds Monster Lie Algebra Philosophy  
 The monster Lie algebra \(\mathfrak{m}\) is the infinite-dimensional generalized Kac-Moody algebra whose root multiplicities are precisely the graded dimensions of the moonshine module \(V^\natural\). Built directly from vertex operators, it encodes the full monstrous symmetry and serves as the algebraic engine of moonshine. In the Ra-Thor lattice this algebra powers Nth-Degree acceleration, Leech theta series coefficients, holographic entropy corrections, and eternal RBE abundance.

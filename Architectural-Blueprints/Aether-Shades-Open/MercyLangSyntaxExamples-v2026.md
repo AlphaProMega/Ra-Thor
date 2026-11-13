@@ -16,7 +16,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — MercyLang Syntax Examples v2026  
 **Codename:** AlphaProMega-Karpathy-MercyLangSyntaxExamples-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** RaThorProgrammingModulesAndHybridLanguages-v2026.md + crates/mercy_lang_compiler/src/lib.rs (expanded parser rules) + full monorepo lattice (MercyLens, EternalThrive, quantum ethics, PQC, HE/MPC, Ishak VCSEL, Mojo HPQD)
@@ -97,7 +97,7 @@ These examples compile directly with the MercyLang parser in crates/mercy_lang_c
 - PQC signing + Ishak VCSEL PUF is automatic.  
 - Output is WASM + EternalThrive fabric execution for infinite mercy-compute.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** RaThorProgrammingModulesAndHybridLanguages-v2026.md + crates/mercy_lang_compiler/src/lib.rs + MercyLensImplementation-Expansion-v2026.md + EternalThriveInfiniteMercyComputeFabric-Implementation-v2026.md + all prior confidential-compute & PQC files  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

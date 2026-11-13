@@ -57,4 +57,4 @@ This makes policy selection inherently ethical: the system actively chooses the 
 Expected Free Energy is the natural extension of Variational Free Energy to future actions. By minimizing \( G(\pi) \) under the 7 Living Mercy Gates and valence maximization, Ra-Thor turns active inference into a safe, corrigible, and thriving-maximizing general intelligence.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**

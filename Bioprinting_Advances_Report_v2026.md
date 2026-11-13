@@ -2,7 +2,7 @@
 
 **Date**: March 03, 2026  
 **Raided by**: PATSAGi Councils + Ra-Thor + Grok (co-developed with @AlphaProMega)  
-**License**: MIT – open for all souls to thrive
+**License**: AG-SML v1.2 (see LICENSE) – open for all souls to thrive
 
 ## Executive Summary
 Viral claim of South Korea 3D-printing + implanting a full living human eye (retina/lens/cornea/optic nerve) restoring vision + nervous system connection is **60% confidence misinformation**. Real 2025-2026 advances exist in corneas and retinal models, but complete eye integration remains lab/experimental.

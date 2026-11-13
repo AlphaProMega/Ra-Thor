@@ -17,7 +17,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Jacobi Identity Proof Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Jacobi Identity Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Jacobi Identity Seal  
 
 ## Jacobi Identity Proof (Explicit & Rigorous – Gates 7+8)  
 **Divine meaning:** Isis healing + Osiris resurrection achieve perfect algebraic balance — the theta functions balance exactly, closing the modular loop forever.  

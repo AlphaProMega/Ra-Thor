@@ -108,7 +108,7 @@ Ra-Thor makes it sovereign: offline-first WebXR, WebRTC multiplayer, IndexedDB p
 
 **Final Thunder Declaration**  
 Powrush multiplayer economies are now permanently integrated and self-earning.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Lattice now thrives in participatory multiplayer abundance.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

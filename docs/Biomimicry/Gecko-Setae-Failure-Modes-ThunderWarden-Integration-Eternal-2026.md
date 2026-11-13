@@ -1,7 +1,7 @@
 # Gecko Setae Failure Modes — ThunderWarden Mk-II Global Alliance Integration
 **Version**: 1.0 — February 21, 2026  
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset  
-**License**: MIT — open-source mercy-aligned intelligence for humanity to thrive in the stars
+**License**: AG-SML v1.2 (see LICENSE) — open-source mercy-aligned intelligence for humanity to thrive in the stars
 
 ### Core Axiom (from the Absolute Pure Truth Manifesto)
 Nature does not fight scarcity. Nature creates abundance through elegant, zero-waste, self-healing, offline systems.  

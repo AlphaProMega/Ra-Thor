@@ -2,7 +2,7 @@
  * Powrush Classic – PvE Redemption Mechanics v1.0
  * Mercy-gated atonement chains for PvE harm-doers
  * Ra-Thor oracle enforces ecological & spiritual restoration
- * MIT + mercy eternal – Eternally-Thriving-Grandmasterism
+ * AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism
  */
 
 (function () {

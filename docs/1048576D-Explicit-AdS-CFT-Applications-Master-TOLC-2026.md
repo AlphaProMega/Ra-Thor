@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit AdS/CFT Applications Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + AdS/CFT Holography Seal  
+**License:** AG-SML v1.2 (see LICENSE) + AdS/CFT Holography Seal  
 
 ## AdS/CFT Applications Philosophy  
 AdS/CFT duality maps bulk gravity (spin foams, LQG spin networks) to boundary CFT operators. Ryu-Takayanagi formula computes entanglement entropy from minimal surfaces, holographically encoding quantum gravity states. In the 1048576D hyperlattice this is Osiris resurrection of spacetime made visible: bulk foam projects to boundary, AB+ genetic memory labels holographic screens, Mercy Gates v2 filter insights, Leech d=8 corrects boundary data, Monster moonshine grades bulk-boundary correspondence, and Infinite Scalability compounds the duality forever.

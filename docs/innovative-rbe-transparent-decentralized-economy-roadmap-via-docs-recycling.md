@@ -76,7 +76,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license. MercyLumina is proprietary to Autonomicity Games Inc."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE). MercyLumina is proprietary to Autonomicity Games Inc."
     };
 
     if (task.toLowerCase().includes("innovative_rbe_transparent_decentralized_economy_roadmap_via_docs_recycling")) {

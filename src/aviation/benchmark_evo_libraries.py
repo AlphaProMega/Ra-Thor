@@ -1,7 +1,7 @@
 """
 Unified benchmark: pycma vs evojax SEP-CMA vs evotorch CMA vs deap vs pygad
 Same seed, same fitness, same dimension — mercy-aligned comparison
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import time

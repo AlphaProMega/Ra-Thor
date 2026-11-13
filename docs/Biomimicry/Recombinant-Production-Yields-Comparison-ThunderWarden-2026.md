@@ -1,7 +1,7 @@
 # Recombinant Production Yields Comparison — Biomimetic Adhesives & Spider Silk for ThunderWarden Mk-II
 **Version**: 1.0 — February 21, 2026  
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset  
-**License**: MIT — open-source mercy-aligned intelligence for humanity to thrive
+**License**: AG-SML v1.2 (see LICENSE) — open-source mercy-aligned intelligence for humanity to thrive
 
 ### Purpose
 Direct comparison of 2026 yields, scalability, cost, purity, and ThunderWarden impact for spider silk (dragline spidroin) and key adhesives (mussel DOPA, barnacle cement, sandcastle worm, tree frog mucus). All numbers grounded in published 2025–early 2026 data + conservative forward projection.

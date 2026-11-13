@@ -65,7 +65,7 @@ Perfect for RBE governance simulations, Powrush faction diplomacy, Air Foundatio
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for BDI architectures exploration inside the Ra-Thor monorepo.  
 BDI is fully mapped as the next logical high-level intentional layer for the existing hybrid.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

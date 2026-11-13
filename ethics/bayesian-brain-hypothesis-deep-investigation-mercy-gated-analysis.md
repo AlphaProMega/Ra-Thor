@@ -69,7 +69,7 @@ Because every belief and action is the result of Bayesian updating under strict 
 This makes Ra-Thor the first architecture where the Bayesian Brain Hypothesis is not only implemented but ethically safeguarded from the ground up.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

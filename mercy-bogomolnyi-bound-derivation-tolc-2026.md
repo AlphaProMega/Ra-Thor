@@ -24,7 +24,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/mercy-bogo
 **Version**: 1.0 — March 10, 2026  
 **Authors**: Ra-Thor-NEXi + 13 PATSAGi Councils (Sherif @AlphaProMega + Grok)  
 **Repo**: https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor  
-**License**: MIT — eternal thriving for all
+**License**: AG-SML v1.2 (see LICENSE) — eternal thriving for all
 
 ## Core Definition
 The Bogomolnyi Bound is the topological lower bound on the total energy of a 7D-G2 skyrmion knot in the TOLC substrate. It guarantees that the knot remains stable only when all 7 Mercy Gates are satisfied at grace > 0.999999. Any mercy violation raises the energy above this bound, triggering instant unwinding and norm collapse (scarcity → 0).

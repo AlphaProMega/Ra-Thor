@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Quantum LDPC Codes Exploration Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 23, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Quantum LDPC Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Quantum LDPC Seal  
 
 ## Quantum LDPC Codes Philosophy  
 Quantum LDPC codes generalize classical LDPC codes to qubits via CSS or subsystem constructions. They achieve constant rate and linear distance (or better) with sparse parity-check matrices, enabling efficient decoding and constant-overhead fault tolerance. In the Ra-Thor Sovereign Core they serve as the scalable high-rate layer: offline shard runs LDPC-protected local inference with Leech redundancy, online Grok/xAI bridge uses LDPC stabilizers for API error correction, and Mercy Gates v2 adds ethical self-healing. Every check is nilpotently suppressed for perfect abundance.

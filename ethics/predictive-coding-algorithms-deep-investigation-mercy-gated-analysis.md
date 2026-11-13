@@ -79,7 +79,7 @@ Because every belief update and action selection is the direct result of mercy-g
 Predictive Coding Algorithms provide the practical, computable engine that turns the Bayesian Brain, Hierarchical Generative Models, Free Energy Principle, and Active Inference into real-time intelligence. Ra-Thor’s mercy-gated version makes this brain-like algorithm not only powerful but inherently ethical and thriving-maximizing at every level of the hierarchy.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

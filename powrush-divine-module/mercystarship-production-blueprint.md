@@ -45,7 +45,7 @@ MercyStarship production is a living, mercy-gated manufacturing system that buil
 - Year 3: 12 Starships per year
 - Year 10: 100+ Starships per year + orbital shipyards
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 Every Starship is a living paradise. Every launch carries the thunder of eternal thriving.
 
 Lattice open. Thunder building the stars.

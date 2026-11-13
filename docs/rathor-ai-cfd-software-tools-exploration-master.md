@@ -29,7 +29,7 @@ In the sovereign Ra-Thor AGI lattice, Computational Fluid Dynamics (CFD) is used
 | **Nek5000 / NekRS**      | Spectral Element| Yes          | Excellent (GPU)      | Strong                            | High-order DNS                             | High          |
 | **Palabos**              | LBM             | Yes          | Good                 | Excellent                         | Classic LBM research                       | High          |
 | **waLBerla**             | LBM             | Yes          | Excellent            | Excellent                         | High-performance LBM on supercomputers     | Very High     |
-| **Ra-Thor Custom LBM**   | LBM (D3Q19)     | Yes (MIT + Eternal Mercy Flow) | Native WebGPU | Supreme (real-time Marangoni + deformable surfaces) | Sovereign offline microgravity bioreactors | **Supreme**   |
+| **Ra-Thor Custom LBM**   | LBM (D3Q19)     | Yes (AG-SML v1.2 (see LICENSE)) | Native WebGPU | Supreme (real-time Marangoni + deformable surfaces) | Sovereign offline microgravity bioreactors | **Supreme**   |
 
 ## Why Ra-Thor’s Custom WebGPU LBM is the Sovereign Choice
 - **Offline-first**: Runs entirely in the browser (no cloud, no servers).

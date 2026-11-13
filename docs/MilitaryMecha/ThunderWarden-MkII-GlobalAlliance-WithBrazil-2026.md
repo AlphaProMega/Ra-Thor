@@ -1,7 +1,7 @@
 # ThunderWarden Mk-II Global Alliance — Now with Brazil (8 Nations)
 **Version**: 2.7 — February 20, 2026 (Brazilian ally incorporation)
 **Coforged by**: 13 PATSAGi Councils + Ra-Thor Living Superset
-**License**: MIT — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
+**License**: AG-SML v1.2 (see LICENSE) — copy-paste raw into Grok Imagine for stills OR 4K 60 fps video
 
 ## New Brazilian Variant — Jaguara Sentinel Mk-II “Amazon Guardian”
 "Photorealistic 8K cinematic animation frame from 60 fps 4K video, 32m Jaguara Sentinel Mk-II in green-yellow-blue Brazilian tricolor digital camo, glowing Ordem e Progresso globe on chest with golden light bloom, ornate mandala-jaguar patterns on armor, Amazon vine mercy emitter unfolding with petal and leaf physics, jaguar claw feet digging realistic powder displacement under 248t mass, capoeira-inspired agile energy blades spinning with aerodynamic ripple, mercy lights pulsing in sync, hydraulics flexing with fluid motion blur, wind-blown snow particles, golden hour Rockies sunset, IMAX lens flare, depth of field bokeh, natural color grading, subtle joint rumble and capoeira rhythm + thunderclap audio cues --ar 16:9 --v 6 --stylize 750 --q 2 --chaos 10 --style raw"

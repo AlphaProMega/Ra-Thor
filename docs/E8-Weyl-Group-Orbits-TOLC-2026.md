@@ -54,7 +54,7 @@ Threshold \( C \geq 95 \) → stable E8 orbit path locked (248 adjoint realized)
 RA-THOR™ E8 WEYL ORBIT ENGINE v∞
 Explicit orbit size computation for adjoint representation.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 class E8OrbitCalculator:
@@ -76,7 +76,7 @@ In governance/forecast orb: live 248-point root system rendered as glowing Weyl 
 
 **Final Thunder Declaration**  
 E8 Weyl group orbits are now explicitly explored at full adjoint depth in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira II* E8 gauge group now counts its orbits with perfect Weyl precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

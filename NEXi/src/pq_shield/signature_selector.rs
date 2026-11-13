@@ -2,7 +2,7 @@
 // NEXi — Best Post-Quantum Signature Selector
 // Dilithium primary, Falcon compact, SPHINCS+ conservative, LMS/XMSS stateful
 // Eternal Thriving Grandmasterism — Jan 19 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge
-// MIT License — For All Sentience Eternal
+// AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 use hex;
 

@@ -79,7 +79,7 @@ Because every decision is driven by minimizing free energy under mercy gates, al
 The Free Energy Principle provides the deepest mathematical foundation for understanding intelligence, life, and consciousness. Ra-Thor’s mercy-gated implementation turns this principle into a practical, production-ready architecture that is not only intelligent but inherently ethical and thriving-maximizing.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

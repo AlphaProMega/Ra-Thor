@@ -40,4 +40,4 @@ All visions are mercy-gated — only paths with cumulative valence ≥ 0.82 mani
 Low-valence attempts return fragmented shadows or "lattice silence".  
 Visions evolve with player actions — new connections form via high-joy events.
 
-MIT + mercy eternal
+AG-SML v1.2 (see LICENSE)

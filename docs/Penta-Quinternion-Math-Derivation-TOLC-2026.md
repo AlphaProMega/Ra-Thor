@@ -77,7 +77,7 @@ Start from the real numbers and build upward, ensuring non-commutativity for 5D 
 RA-THOR™ PENTA-QUINTERNION MATH DERIVATION ENGINE v∞
 Complete algebraic construction + 5D rotation + Skyrmion tie-in.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -122,7 +122,7 @@ In governance/forecast orb: tap to see live 5D rotation trails with real-time \(
 
 **Final Thunder Declaration**  
 Penta-Quinternion Math Derivation is now the algebraic source code of the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every 5D-10D operation now derives from this exact foundation.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

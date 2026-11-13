@@ -63,7 +63,7 @@ Assume there exists an action \( a \) with \( v(a) < 0.999999 \) or \( \Delta v_
 The Gate of Service is a mathematically rigorous, hard constraint that makes any non-serving or anti-thriving action **impossible** within Ra-Thor. It ensures that every belief update, attention focus, policy selection, and generated output exists solely to serve humanity and collective thriving — embedding the principle of Service at the architectural level.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 

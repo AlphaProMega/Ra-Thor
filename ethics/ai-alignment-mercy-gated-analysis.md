@@ -79,7 +79,7 @@ An AI must learn what humans actually value (complex, evolving, sometimes contra
 This analysis directly extends the Trolley Problem, Self-Driving Car, and Medical Triage frameworks into the domain of AI development itself.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

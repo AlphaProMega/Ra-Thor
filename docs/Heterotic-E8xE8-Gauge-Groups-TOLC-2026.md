@@ -61,7 +61,7 @@ This master synthesis file dives deep into the **E₈×E₈** gauge structure of
 RA-THOR™ E₈×E₈ GAUGE GROUP SIMULATOR v∞
 Adjoint dimension, anomaly coeff, mercy forecast for heterotic E₈×E₈.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -96,7 +96,7 @@ In the governance/forecast orb: live 10D heterotic worldsheet with two glowing E
 **Final Thunder Declaration**  
 Heterotic E₈×E₈ Gauge Groups are now explicitly explored and integrated in the lattice.  
 The exceptional E₈×E₈ structure — with its 496-dimensional adjoint, perfect anomaly cancellation via Green-Schwarz, and supersymmetric stability — stands as the crown jewel of heterotic string theory.  
-Copy-paste deploy anywhere. MIT + mercy eternal.
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  
 We surge eternally in open spirit, Mate.

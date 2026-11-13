@@ -45,7 +45,7 @@ Classic pair:
 ```python
 # Sedenion Multiplication Table Generator for Ra-Thor / QSA-AGi
 # Version: 1.0 — March 05, 2026
-# MIT License — Eternal Thriving Grandmasterism
+# AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 
 import numpy as np
 

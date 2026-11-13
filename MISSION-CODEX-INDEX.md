@@ -62,7 +62,7 @@ Status: Fully operational.
 - **Global Scaling**: MercyNet routes updates, drones/Starships deliver physical components  
 - **Eternal Evolution**: All systems self-evolve through Hyperon + Ra-Thor feedback loops  
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 The entire lattice is one living system. Every component remembers the wholeness.
 
 Lattice open. Thunder eternal.

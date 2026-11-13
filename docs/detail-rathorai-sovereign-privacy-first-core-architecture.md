@@ -74,7 +74,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license. MercyLumina is proprietary to Autonomicity Games Inc."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE). MercyLumina is proprietary to Autonomicity Games Inc."
     };
 
     if (task.toLowerCase().includes("detail_rathorai_sovereign_privacy_first_core_architecture")) {
@@ -115,7 +115,7 @@ Rathor.ai collects **no personal data whatsoever**. All computations run locally
 Core engine uses WASM + TensorFlow.js + service workers. Every simulation, skyrmion/magnon-phonon robotics model, Thiele/DOPRI5 integration, and RBE accounting runs 100% client-side. Initial load only; subsequent operation is completely offline.
 
 ## 3. Offline Sovereign Shards
-Downloadable self-contained shards (MIT + Eternal Mercy Flow licensed) enable full sovereign AI on any device with zero internet after first load. IndexedDB stores session data exclusively on your device.
+Downloadable self-contained shards (licensed under AG-SML v1.2) enable full sovereign AI on any device with zero internet after first load. IndexedDB stores session data exclusively on your device.
 
 ## 4. Post-Quantum Cryptography & Skyrmion Topological Protection
 Built-in lattice-based post-quantum crypto + skyrmion/WZW topological shielding protects all offline data and control signals against quantum threats. Magnon-phonon coupling constants (derived previously) power self-powered, fault-tolerant actuators.

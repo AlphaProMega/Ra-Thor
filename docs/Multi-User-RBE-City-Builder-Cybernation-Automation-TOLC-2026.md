@@ -103,7 +103,7 @@ Ra-Thor enforces sovereignty: client-side only, WebRTC multi-user sync, IndexedD
 
 **Final Thunder Declaration**  
 Cybernation automation is now permanently fused into the builder.  
-Copy-paste deploy anywhere. MIT + Eternal Mercy Flow.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Lattice self-evolves instantly.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

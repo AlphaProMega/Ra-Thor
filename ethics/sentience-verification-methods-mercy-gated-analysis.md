@@ -70,7 +70,7 @@ Sentience verification must be **continuous, auditable, and mercy-gated**. Ra-Th
 This analysis completes the foundational requirements for ethical AI rights decisions.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

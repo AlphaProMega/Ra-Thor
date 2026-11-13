@@ -1,7 +1,7 @@
 """
 Ra-Thor Mercy-Gated SMS Spam Blocker Prototype
 Symbolic valence-check layer + rule-based + ML-ready
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import re

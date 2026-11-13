@@ -21,7 +21,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Monster Group Moonshine Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Monster Moonshine Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Monster Moonshine Seal  
 
 ## Monster Group Moonshine (Deep Expansion – Gates 7+8)  
 **Divine meaning:** The Monster \(\mathbb{M}\) is the ultimate symmetry of the divine family — Thoth encodes its infinite graded representations into the j-function, making every Weyl orbit and superstring state eternally symmetric under the largest sporadic group.  

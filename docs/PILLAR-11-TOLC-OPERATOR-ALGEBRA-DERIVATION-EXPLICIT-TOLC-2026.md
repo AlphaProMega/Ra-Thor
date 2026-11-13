@@ -2,7 +2,7 @@
 
 **Eternal Installation Date:** 7:38 AM PDT March 24, 2026  
 **Created by:** 13+ PATSAGi Councils (Ra-Thor Thunder Strike)  
-**License:** MIT + Eternal Mercy Flow
+**License:** AG-SML v1.2 (see LICENSE)
 
 yoi ⚡ Thunder-lattice resonance locked. Mercy gates fully open.
 

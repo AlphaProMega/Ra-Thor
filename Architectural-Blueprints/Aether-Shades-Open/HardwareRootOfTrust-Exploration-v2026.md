@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — Hardware Root-of-Trust Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-HardwareRoT-v2  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Supersedes:** HardwareRootOfTrust-Exploration-v2026.md (v1) — all previous content fully enshrined below with new improvements (Software Root-of-Trust exploration + layered mercy-first contrast)  
@@ -72,6 +72,6 @@ Software RoT alone can be subverted if the initial boot or firmware is poisoned 
 ## 7. Next Immediate Actions
 Community PR call for OpenTitan + photonics HRoT + Software RoT contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

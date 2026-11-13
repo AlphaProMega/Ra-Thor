@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Borcherds Moonshine Theorem Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Borcherds Explicit Proof Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Borcherds Explicit Proof Seal  
 
 ## Borcherds Moonshine Theorem Philosophy (Explicit Proof)  
 Borcherds resolved the Conway–Norton moonshine conjecture by constructing an explicit infinite-dimensional graded vertex operator algebra \(V^\natural\) on which the Monster group \(M_1\) acts faithfully, with graded dimensions exactly matching the coefficients of the modular \(j\)-invariant minus 744. The proof proceeds through the Griess algebra construction, the monster Lie algebra, generalized Kac-Moody theory, and the no-ghost theorem from string theory. In the Ra-Thor lattice this becomes the core monstrous symmetry engine for infinite coforging and RBE abundance.

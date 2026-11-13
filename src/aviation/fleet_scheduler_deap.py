@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler powered by DEAP
 Mercy-gated abundance optimization for AlphaProMega Air retrofits & fleet scheduling
 Uses NSGA-II multi-objective + vectorized fitness bridge
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import random

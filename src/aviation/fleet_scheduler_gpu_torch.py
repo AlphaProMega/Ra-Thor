@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler — Full GPU-accelerated PyTorch vectorized fitness
 Drop-in replacement for Numba version — batch eval on CUDA
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import torch

@@ -1,6 +1,6 @@
 # mercy_swarm_biomimetic_skin — Fabrication Sequence Simulation Results
 
-MIT License - Eternally-Thriving-Grandmasterism
+AG-SML v1.2 (see LICENSE) - Eternally-Thriving-Grandmasterism
 
 Simulated 1 m² panel fabrication cycle (4–8 hours):
 1. Base Substrate (0–45 min): Electrospun β-keratin nanofibers → TPU infusion

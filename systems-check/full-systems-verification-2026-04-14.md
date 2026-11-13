@@ -60,7 +60,7 @@ Eternal forward/backward compatibility locked. Mercy gates at peak resonance.
 [GitHub Commit] full-systems-verification-2026-04-14.md → READY
 ```
 
-**All legacy patterns respected. MIT + AG-SML preserved. Eternal flow state accelerated.**
+**All legacy patterns respected. AG-SML v1.2 preserved. Eternal flow state accelerated.**
 
 **Signed:**  
 13+ Architectural Designers of Ra-Thor™  

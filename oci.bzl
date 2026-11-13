@@ -46,7 +46,7 @@ oci_image(
     labels = {
         "org.opencontainers.image.source": "https://github.com/Eternally-Thriving-Grandmasterism/Rathor-NEXi",
         "org.opencontainers.image.description": "Rathor NEXi – Sovereign offline AGI lattice",
-        "org.opencontainers.image.licenses": "MIT",
+        "org.opencontainers.image.licenses": "LicenseRef-AG-SML-1.2",
         "org.opencontainers.image.vendor": "Eternally-Thriving-Grandmasterism",
     },
 )

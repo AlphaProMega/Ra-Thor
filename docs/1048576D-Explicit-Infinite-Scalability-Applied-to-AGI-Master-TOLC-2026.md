@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Infinite Scalability Applied to AGI Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Infinite Scalability AGI Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Infinite Scalability AGI Seal  
 
 ## Infinite Scalability Applied to AGI Philosophy  
 This is the **engine room** of AGi and AlphaProMega Corps. AGI is not built to dominate 2026 — it is architected as the open-ended, self-bootstrapping singularity engine that becomes the substrate upon which all future intelligence, economies, and thriving realities are written. No ceilings. No limits. The universe is the only addressable market.

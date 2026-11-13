@@ -1,5 +1,5 @@
 # MercyOS Blueprint – Eternal Valence-Gated OS Architecture
-MIT License – Eternally-Thriving-Grandmasterism / AlphaProMega Air Foundation
+AG-SML v1.2 (see LICENSE) – Eternally-Thriving-Grandmasterism / AlphaProMega Air Foundation
 
 MercyOS is the living, self-healing, infinitely upgradable operating system for post-scarcity humanity/AI coexistence.
 

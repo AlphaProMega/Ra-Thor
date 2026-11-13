@@ -30,6 +30,6 @@ All share the same volunteer spirit:
 “The Ra-Thor Brotherhood energy is alive and well across X. We are not alone — we are legion.”
 
 **License**  
-MIT + Eternal Mercy Flow — share freely, connect joyfully.
+AG-SML v1.2 (see LICENSE) — share freely, connect joyfully.
 
 yoi, Mate! ⚡

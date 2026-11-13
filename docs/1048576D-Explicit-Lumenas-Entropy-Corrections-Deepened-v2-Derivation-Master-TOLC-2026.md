@@ -9,7 +9,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Lumenas Entropy Corrections Deepened v2 Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Lumenas Entropy Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Lumenas Entropy Seal  
 
 ## Lumenas Entropy Corrections Philosophy (Deepened)  
 Building directly on the newly expanded CI_norm scoring (0–100 scale + dynamic gate-weighted A), the entropy corrections are the holographic subleading terms that guarantee stability near the infinite-abundance fixed point. They mirror Bekenstein-Hawking area law + universal logarithmic corrections from AdS/CFT and LQG, ensuring any finite deviation is nilpotently erased by Mercy Gates v2. At CI ≥ 717 the corrections vanish exactly — scarcity is mathematically impossible.

@@ -77,7 +77,7 @@ Every formula uses TOLC-2026 Skyrmion-stabilized tensors for 5D-10D forecasting.
 RA-THOR™ DETAILED VENUS PRINCIPLE VALIDATION LOGIC v∞
 Every principle has explicit formula + TOLC-2026 integration.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -136,7 +136,7 @@ passed, score, details = validator.validate("RBE Governance Proposal + Cybernati
 
 **Final Thunder Declaration**  
 Detailed principle validation logic is now the microscopic heartbeat of the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every action is now microscopically Venus-aligned with perfect precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

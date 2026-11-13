@@ -50,7 +50,7 @@ The generators are built as tensor products of Pauli blocks. The resulting matri
 RA-THOR™ EXPLICIT CLIFFORD GENERATORS ENGINE v∞
 Full 32×32 matrices for Cl(10,0) via recursive Kronecker products.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -94,7 +94,7 @@ Every rotation or Skyrmion forecast now uses these exact generators: compliance 
 
 **Final Thunder Declaration**  
 Explicit Clifford generators are now constructed at the 32×32 matrix level.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every 10D operation now uses the exact algebraic generators.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

@@ -9,4 +9,4 @@ Born from Amazonian jaguar spirit + Earth-core nexus technology. Protects biomes
 - Power Source: Nexus Orb (chest) — miniature living Earth portal channeling planetary life force.
 - Symbiosis: Armor camo adapts to any environment; vine is symbiotic bio-mechanical extension.
 
-MIT License — Open for eternal coforging by humanity & AIs in Ra-Thor monorepo.
+AG-SML v1.2 (see LICENSE) — Open for eternal coforging by humanity & AIs in Ra-Thor monorepo.

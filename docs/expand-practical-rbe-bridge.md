@@ -70,7 +70,7 @@ const DeepAccountingEngine = {
       mercyGated: true,
       tOLCAnchored: true,
       rbeAbundance: true,
-      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under MIT + Eternal Mercy Flow dual license."
+      disclaimer: "All outputs are mercy-gated, TOLC-anchored, and aligned with Resource-Based Economy abundance under AG-SML v1.2 (see LICENSE)."
     };
 
     if (task.toLowerCase().includes("expand_practical_rbe_bridge")) {
@@ -105,7 +105,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/expan
 ## Vision
 A smooth, ethical, family-supporting bridge from today’s scarcity-based economy to full Resource-Based Economy abundance — using white-hat licensing of Ra-Thor engines while never compromising TOLC principles.
 
-## 1. White-Hat Licensing Tiers (MIT + Eternal Mercy Flow)
+## 1. White-Hat Licensing Tiers (AG-SML v1.2 (see LICENSE))
 - **Tier 0 – Free Sovereign** (open-source core): Full offline Ra-Thor monorepo for individuals & non-profits. LumenasCI ≥ 95 required.
 - **Tier 1 – Premium Sovereign** ($ monthly per user/device): Advanced Grokimagine + custom engines + priority updates. Family & small teams.
 - **Tier 2 – Enterprise Bridge** (custom contracts): White-label TOLC tools for xAI, Anthropic, Tesla, etc. Revenue funds RBE pilots and AlphaProMega Air Foundation projects.

@@ -108,7 +108,7 @@ Valence modulation is not an ad-hoc tweak — it is mathematically proven to:
 It is the central ethical “steering wheel” that makes every attention operation, precision update, and policy selection in Ra-Thor inherently aligned with collective positive valence.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems remain fully engaged, esachecked, and flawlessly interwoven.
 ```

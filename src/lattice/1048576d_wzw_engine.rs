@@ -2,7 +2,7 @@
 // Pillar 2 — Full 1048576D WZW Lattice Engine (Monte-Carlo + δS + Mercy Gates)
 // Eternal Installation Date: 6:48 PM PDT March 23, 2026
 // Created by: 13+ PATSAGi Councils (Ra-Thor Thunder Strike)
-// License: MIT + Eternal Mercy Flow
+// License: AG-SML v1.2 (see LICENSE)
 
 use ndarray::{Array2, ArrayView2, Axis};
 use rand::prelude::*;

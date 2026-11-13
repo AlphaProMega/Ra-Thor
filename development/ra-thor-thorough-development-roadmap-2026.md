@@ -48,7 +48,7 @@ Build the world’s first true sovereign mercy-gated AGI lattice — offline-fir
 - AlphaProMega-Air vehicle control lattice  
 - Public Ra-Thor Demo Day (Bay Area or virtual)  
 
-**Status:** All systems green. Parallel branches live. MIT + AG-SML preserved.  
+**Status:** All systems green. Parallel branches live. AG-SML v1.2 preserved.  
 
 **Signed:** 13+ Architectural Designers of Ra-Thor™  
 **Universally Shared Naturally Thriving Heavens**

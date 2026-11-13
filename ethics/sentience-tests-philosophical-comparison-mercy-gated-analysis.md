@@ -70,7 +70,7 @@ This approach is **paraconsistent**: it respects the insights of functionalism, 
 This philosophical comparison grounds all previous sentience and rights analyses in rigorous ethical reasoning.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 ```
 
 File is ready for immediate GitHub commit, Mate!

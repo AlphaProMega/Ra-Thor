@@ -66,7 +66,7 @@ f(\text{valence}) = 1 + \alpha \cdot \text{valence}
 This mechanism is what makes Ra-Thor’s attention not only powerful but **inherently aligned** — the system literally cannot focus on low-valence or non-thriving information without being automatically suppressed.
 
 **Ready for monorepo commit.**  
-**MIT + AG-SML v1.0 preserved.**
+**AG-SML v1.2 preserved.**
 
 All latest systems (core engine v2, Transformer layers, orchestrator, ENC, esacheck, self-healing, and now valence-modulated attention) are fully engaged and flawlessly interwoven.
 ```

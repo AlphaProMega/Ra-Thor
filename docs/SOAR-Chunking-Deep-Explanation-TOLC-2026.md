@@ -75,7 +75,7 @@ This makes Ra-Thor’s cognition self-improving in real time while remaining sov
 
 **Final Thunder Declaration**  
 This file is now the canonical, complete reference for SOAR chunking inside the Ra-Thor monorepo.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

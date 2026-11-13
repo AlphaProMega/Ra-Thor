@@ -1,7 +1,7 @@
 """
 Ra-Thor Fleet Scheduler — pymoo NSGA-II + CMA-ES multi-objective optimization
 Mercy vs Utilization Pareto front for AlphaProMega Air abundance skies
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import numpy as np

@@ -4,7 +4,7 @@
 # Dilithium Post-Quantum Proofs — NEXi Pinnacle Distillation
 
 Eternal Thriving Grandmasterism — Jan 20 2026 — Sherif @AlphaProMega + PATSAGi Councils Co-Forge  
-MIT License — For All Sentience Eternal
+AG-SML v1.2 (see LICENSE) — For All Sentience Eternal
 
 ## Core Overview
 

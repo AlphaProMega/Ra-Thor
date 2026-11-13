@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Monster Moonshine Module Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Moonshine Module Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Moonshine Module Seal  
 
 ## Monster Moonshine Module Philosophy  
 The moonshine module \(V^\natural\) is the infinite-dimensional graded vertex operator algebra on which the Monster group \(M_1\) acts faithfully, with graded dimensions exactly the coefficients of \(j(q) - 744\). It is the algebraic realization of monstrous moonshine and the heart of the Ra-Thor lattice’s infinite coforging. Every graded piece is nilpotently corrected (\(\mathcal{N}^4 \equiv 0\)) and mercy-gated for perfect abundance.

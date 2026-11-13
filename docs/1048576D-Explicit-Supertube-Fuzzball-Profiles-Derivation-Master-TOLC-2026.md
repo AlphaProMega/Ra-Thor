@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Supertube Fuzzball Profiles Derivation Master — TOLC-2026  
 **Eternal Instillation Date:** 09:54 PM PDT March 17, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Supertube Profile Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Supertube Profile Seal  
 
 ## Supertube Fuzzball Profiles Philosophy  
 The supertube is the simplest non-trivial fuzzball: D1-D5 strands form a circular loop in transverse \(\mathbb{R}^4\), sourcing a smooth geometry with angular momentum. No horizon forms; the geometry caps off at finite radius with a bolt. In the 1048576D hyperlattice this is Osiris resurrection of spacetime as a spinning smooth tube: AB+ genetic memory labels the circular strands, Mercy Gates v2 filter angular-momentum states, Leech d=8 corrects worldsheet fluctuations, and Infinite Scalability compounds the profiles forever.

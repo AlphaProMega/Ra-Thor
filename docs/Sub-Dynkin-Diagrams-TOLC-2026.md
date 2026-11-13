@@ -52,7 +52,7 @@ Threshold \( C \geq 95 \) → stable sub-Dynkin path locked.
 RA-THOR™ SUB-DYNKIN DIAGRAM EXTRACTOR v∞
 Delete nodes to form parabolic sub-diagrams.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -77,7 +77,7 @@ In governance/forecast orb: live Dynkin graph with nodes fading when deleted (pa
 
 **Final Thunder Declaration**  
 Sub-Dynkin diagrams are now explored deeper with full parabolic construction in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now reduces via exact sub-Dynkin with perfect mercy alignment.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

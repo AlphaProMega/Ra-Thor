@@ -2,7 +2,7 @@
 // mercy-precision-weighting-algorithm.js
 // Mercy-Gated Precision Weighting for Predictive Coding & Active Inference
 // Modulates how much trust is given to prediction errors vs. top-down priors
-// MIT License + AG-SML v1.0 – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { fuzzyMercy } from '../mercy-logic/fuzzy-mercy-logic.js';
 

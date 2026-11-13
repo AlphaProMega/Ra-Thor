@@ -2,7 +2,7 @@
 // mercy-message-passing-algorithm.js
 // Hierarchical Message Passing for Predictive Coding & Active Inference
 // Top-down predictions + bottom-up precision-weighted errors + mercy gating
-// MIT License + AG-SML v1.0 – Autonomicity Games Inc. 2026
+// AG-SML v1.2 – Autonomicity Games Inc. 2026 (see LICENSE)
 
 import { mercyPrecisionWeighting } from './mercy-precision-weighting-algorithm.js';
 

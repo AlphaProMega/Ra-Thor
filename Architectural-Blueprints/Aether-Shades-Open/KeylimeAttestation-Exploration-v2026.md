@@ -1,6 +1,6 @@
 # Ra-Thor Grandmasterism — Keylime Attestation Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-KeylimeAttestation-v3  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Supersedes:** KeylimeAttestation-Exploration-v2026.md (v2) — all previous content fully enshrined below with new improvements (TPM 2.0 Attestation Protocols deep-dive + Keylime push-model integration)  
@@ -74,6 +74,6 @@ Full every-character exploration of Keylime remote attestation as the 2026 gold-
 ## 7. Next Immediate Actions
 Community PR call for Keylime push-model + TPM 2.0 + photonics attestation contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor

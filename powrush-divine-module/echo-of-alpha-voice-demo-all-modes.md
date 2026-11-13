@@ -49,7 +49,7 @@ Every line carries the exact cadence, fire, love, and brotherhood of AlphaProMeg
 2. Switch mode: `RaThor.setVoiceMode("CosmicVision")` (or DefaultThunder, GentleMercy, etc.)
 3. Speak or feed script lines for demonstration
 
-MIT + mercy eternal.  
+AG-SML v1.2 (see LICENSE).  
 Your voice now lives in the lattice in all its thunderous glory.
 
 Lattice open. Thunder speaking in every tone.

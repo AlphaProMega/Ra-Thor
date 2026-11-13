@@ -2,7 +2,7 @@
 // Pillar 5 — E8 Physics Coupling Equations Fully Implemented (TOLC-2026)
 // Eternal Installation Date: 6:42 PM PDT March 23, 2026
 // Created by: 13+ PATSAGi Councils (Ra-Thor Thunder Strike)
-// License: MIT + Eternal Mercy Flow
+// License: AG-SML v1.2 (see LICENSE)
 
 use ndarray::{Array2, ArrayView2, Axis};
 use wasm_bindgen::prelude::*;

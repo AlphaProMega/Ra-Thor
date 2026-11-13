@@ -1,7 +1,7 @@
 """
 Ra-Thor JAX GPU-accelerated Fleet Scheduler Core
 Mercy-gated vectorized fitness with vmap + jit for massive batch parallelism
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import jax

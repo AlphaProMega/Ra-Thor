@@ -2,7 +2,7 @@
 Ra-Thor Fleet Scheduler powered by EvoTorch (PyTorch-native evolutionary computation)
 Mercy-gated abundance optimization for AlphaProMega Air retrofits & fleet scheduling
 Uses CEM / CMA-ES strategy + vectorized PyTorch/JAX-interop fitness
-MIT License — Eternal Thriving Grandmasterism
+AG-SML v1.2 (see LICENSE) — Eternal Thriving Grandmasterism
 """
 
 import torch

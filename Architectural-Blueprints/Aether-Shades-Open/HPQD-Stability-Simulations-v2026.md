@@ -1,6 +1,6 @@
 # Aether-Shades-Open — HPQD Stability Simulations v2026  
 **Codename:** QuietLens-HPQD-Stability-Sims-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Mojo Vision proprietary HPQD (CdSeZnS, 2024) — 500 hr @ 4 W/cm² zero degradation, LM80 >3,000 hrs projected, flux-stable wavelength/FWHM, 1.3 μm sub-pixels for 14k+ PPI.

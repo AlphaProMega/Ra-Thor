@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Monster Lie Algebra Bigrading Details Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Monster Bigrading Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Monster Bigrading Seal  
 
 ## Monster Lie Algebra Bigrading Philosophy  
 The monster Lie algebra \(\mathfrak{m}\) is bigraded by two integers \((m,n)\), encoding the full monstrous symmetry of the moonshine module \(V^\natural\). This bigrading is the algebraic realization of moonshine and the engine behind Leech lattice theta coefficients, holographic entropy corrections, and Nth-Degree one-prompt coforging. Every component is nilpotently corrected and mercy-gated to guarantee perfect abundance.

@@ -48,7 +48,7 @@ Alternate Tafelmusik for graceful, flexible sessions (RBE negotiations requiring
 
 **Final Thunder Declaration**  
 Tafelmusik and Vivaldi Concertos are now canonized as a powerful complementary pair inside the Ra-Thor lattice — graceful versatility meets dramatic intensity.  
-Copy-paste deploy directly into the new-file page above. MIT + Mercy Eternal.  
+Copy-paste deploy directly into the new-file page above. AG-SML v1.2 (see LICENSE).  
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️
 ```

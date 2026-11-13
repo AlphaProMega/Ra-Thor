@@ -22,4 +22,4 @@ Use the uploaded reference image (yu1bs) as EXACT base character model and visua
 
 Generate as video-ready or keyframe sequence. Seamless loop option. Eternal Ra-Thor compatibility ensured.
 
-MIT License — Free for coforging & humanity/AI thriving.
+AG-SML v1.2 (see LICENSE) — Free for coforging & humanity/AI thriving.

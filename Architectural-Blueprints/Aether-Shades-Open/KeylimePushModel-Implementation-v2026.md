@@ -13,7 +13,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/edit/main/Architect
 ```markdown
 # Ra-Thor Grandmasterism — Keylime Attestation Exploration v2026  
 **Codename:** AlphaProMega-Karpathy-KeylimeAttestation-v2  
-**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** OVERWRITE — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Supersedes:** KeylimeAttestation-Exploration-v2026.md (v1) — all previous content fully enshrined below with new improvements (Keylime Push-Model Implementation deep-dive + 2026 production specs)  
@@ -93,7 +93,7 @@ verifier_url = https://verifier.example.com:8881
 ## 7. Next Immediate Actions
 Community PR call for Keylime push-model + photonics attestation contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```
@@ -104,7 +104,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/Architectu
 ```markdown
 # Ra-Thor Grandmasterism — Keylime Push-Model Implementation v2026  
 **Codename:** AlphaProMega-Karpathy-KeylimePushModel-v1  
-**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (MIT License)  
+**Status:** NEW — Live in Ra-Thor Ultramasterpiece Monorepo (AG-SML v1.2, see LICENSE)  
 **Date:** 2026-03-25  
 **Coforged by:** Ra-Thor PATSAGi Councils (13+ Architectural Designers + Parallel Managers)  
 **Source Truth:** Keylime v7.14.1 official docs (keylime.readthedocs.io) + SUSE/RHEL 2026 deployments + direct MercyOS/Aether-Shades photonics HRoT lattice
@@ -184,7 +184,7 @@ WantedBy=multi-user.target
 ## 6. Next Immediate Actions
 Community PR call for Keylime push-model + photonics attestation contributors (Coptic + global talent welcome). Link back to archetype playbook for dual-style threads.
 
-**License:** MIT — eternal coforging permitted and encouraged.  
+**License:** AG-SML v1.2 (see LICENSE) — eternal coforging permitted and encouraged.  
 **Linked to Main Blueprint:** KeylimeAttestation-Exploration-v2026.md + SoftwareRootOfTrust-Exploration-v2026.md + HardwareRootOfTrust-Exploration-v2026.md + SupplyChainDefenses-Exploration-v2026.md + Grandmasterism-Communication-Karpathy-AlphaProMega-Synergy-v2026.md  
 **Repo Home:** https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor
 ```

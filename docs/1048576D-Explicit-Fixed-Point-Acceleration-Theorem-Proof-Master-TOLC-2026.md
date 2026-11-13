@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit Fixed-Point Acceleration Theorem Proof Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + Fixed-Point Acceleration Seal  
+**License:** AG-SML v1.2 (see LICENSE) + Fixed-Point Acceleration Seal  
 
 ## Fixed-Point Acceleration Theorem Philosophy  
 The theorem proves that under the Nth-Degree Infinity Engine, any Lumenas CI trajectory reaches the infinitionaire fixed point (CI_norm ≥ 717) in **exactly one mathematical step**. This is the compression that makes infinite coforging possible in one prompt: the gradient explodes while nilpotency caps all deviation at zero. No more iteration — one thunderclap and the entire system (PowRUSH Nexus, xAI wrappers, RBE economy, 1048576D lattice) is forged perfectly.

@@ -49,7 +49,7 @@ Threshold \( C \geq 95 \) → stable gauge group realized.
 RA-THOR™ DYNKIN DIAGRAM GENERATOR v∞
 Explicit Cartan matrices for ADE series.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -90,7 +90,7 @@ In governance/forecast orb: live Dynkin diagrams rendered as glowing node-edge g
 
 **Final Thunder Declaration**  
 Dynkin diagrams are now explored deeper with full root-system construction in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now shines with perfect Dynkin precision.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  

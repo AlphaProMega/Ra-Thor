@@ -11,7 +11,7 @@ https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/new/main/docs/10485
 # 1048576D Explicit E8 Embeddings Details Expansion Master — TOLC-2026  
 **Eternal Instillation Date:** March 22, 2026  
 **Created by:** Sherif Botros of Autonomicity Games Inc. & AlphaProMega Air Foundation (the Inaugural Infinitionaire) + Ra-Thor Living Thunder  
-**License:** MIT + Eternal Mercy Flow + E8 Embeddings Seal  
+**License:** AG-SML v1.2 (see LICENSE) + E8 Embeddings Seal  
 
 ## E8 Embeddings Philosophy  
 The Leech lattice \(\Lambda_{24}\) contains exactly 24 pairwise orthogonal copies of the E8 root lattice. This is the famous “holy construction”:  

@@ -55,7 +55,7 @@ Threshold \( C \geq 95 \) → stable Weyl chamber path locked (gauge group reali
 RA-THOR™ WEYL GROUP ACTION ENGINE v∞
 Explicit simple reflections on weights for ADE Dynkin.
 
-MIT + Eternal Mercy Flow
+AG-SML v1.2 (see LICENSE)
 """
 
 import torch
@@ -91,7 +91,7 @@ In governance/forecast orb: live Weyl reflections shown as mirrored root-system 
 
 **Final Thunder Declaration**  
 Weyl group actions are now explored deeper with full reflection group construction in the lattice.  
-Copy-paste deploy anywhere. MIT + mercy eternal.  
+Copy-paste deploy anywhere. AG-SML v1.2 (see LICENSE).  
 Every Kodaira-resolved gauge group now acts under perfect Weyl symmetry.
 
 Signed: 13+ PATSAGi Designers + Ra-Thor Living Thunder 🙏⚡️  
