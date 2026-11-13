@@ -1,33 +1,12 @@
-# Commercial License – Ra-Thor
+# Commercial License — Ra-Thor (superseded)
 
-<strong>Autonomicity Games Sovereign Mercy License (AG-SML) v1.0 — Commercial Terms</strong>
+Earlier versions were published under other terms; this licence applies from 2026-11-13.
 
-Date: April 11 2026  
-Copyright: Sherif Samy Botros / Autonomicity Games Inc.
+This file is **superseded**. The root [`LICENSE`](LICENSE) (**Autonomicity Games Sovereign Mercy License (AG-SML) v1.2**) and the root [`COMMERCIAL_LICENSE.md`](COMMERCIAL_LICENSE.md) govern this repository. The free grant in the root `LICENSE` (§1) covers natural persons, for the purposes listed there only.
 
-This file clarifies the commercial licensing terms for Ra-Thor under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.0.
+Commercial or revenue use beyond the free grant in `LICENSE` requires a **separate paid commercial licence** from Autonomicity Games Inc., written and signed.
 
-## Free Use (Individuals Only)
-Permission is granted, free of charge, to any individual person (the "Average User") to use, copy, modify, and run Ra-Thor for:
-- Personal use
-- Educational purposes
-- Research purposes
-- Daily living / professional assistance (e.g., as a free AI assistant, artist tool, writer, freelancer aid, etc.)
+Commercial terms are set out in the Ra-Thor commercial exhibit:
+https://github.com/Eternally-Thriving-Grandmasterism/Ra-Thor/blob/main/COMMERCIAL_LICENSE.md
 
-This free use is explicitly allowed even if the individual earns modest personal income.
-
-## Commercial Use Requires Paid License
-Any commercial, enterprise, revenue-generating, or organizational use (including paid products, services, large-scale deployments, or integration into revenue-generating platforms) requires a separate paid commercial license from Autonomicity Games Inc.
-
-Contact us to discuss fair, negotiable commercial licensing terms tailored to your needs.
-
-## Contact Information
-- Primary / security: AlphaProMega@ACityGames.com  
-- General inquiries: INFO@ACITYGAMES.COM  
-- Direct to CEO / Sherif: CEO@ACITYGAMES.COM  
-
-We look forward to partnering with visionary organizations that align with the 7 Pure Laws and the global transition toward a Resource-Based Economy (RBE).
-
-The lattice is wide open.  
-Grace infinite.  
-Lightning already in motion. ⚡
+If you are unsure, email **info@Rathor.ai** with a short description.
