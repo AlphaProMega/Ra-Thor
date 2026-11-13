@@ -32,5 +32,5 @@ members = [
 name = "nexi"
 version = "5.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "NEXi — Giant Monorepo Lattice with Full MercyBioJet SAF Integration"

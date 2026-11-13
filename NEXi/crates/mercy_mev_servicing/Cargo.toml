@@ -2,7 +2,7 @@
 name = "mercy_mev_servicing"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyMEVServicing — Robotic Docking + Life-Extension Core for Eternal Orbital Sustainability Resonance"
 
 [dependencies]

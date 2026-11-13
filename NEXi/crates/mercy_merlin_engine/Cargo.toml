@@ -2,7 +2,7 @@
 name = "mercy_merlin_engine"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyMerlinEngine — Kerosene/LOX Gas-Generator Cycle Engine Core for Eternal Orbital Access Resonance"
 
 [dependencies]

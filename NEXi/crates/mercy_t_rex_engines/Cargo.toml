@@ -2,7 +2,7 @@
 name = "mercy_t_rex_engines"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyT-RexEngines — Apex Raptor Evolution Core for Eternal Starship Fleet Dominance Resonance"
 
 [dependencies]

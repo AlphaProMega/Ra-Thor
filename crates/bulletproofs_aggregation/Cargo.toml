@@ -2,7 +2,7 @@
 name = "bulletproofs_aggregation"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "BulletproofsAggregation — Infinite-Depth Logarithmic Aggregation for NEXi Lattice"
 
 [dependencies]

@@ -2,7 +2,7 @@
 name = "plonk_recursion"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "PlonkRecursion — Halo2 Folding/IVC Gadgets for Infinite PLONK Recursion in NEXi Lattice"
 
 [dependencies]

@@ -2,7 +2,7 @@
 name = "hash_based_crypto"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "HashBasedCrypto — Hyper-Divine Hash-Based Post-Quantum Cryptography for NEXi Lattice"
 
 [dependencies]

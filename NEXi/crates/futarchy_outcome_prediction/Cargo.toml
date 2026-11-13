@@ -2,7 +2,7 @@
 name = "futarchy_outcome_prediction"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "FutarchyOutcomePrediction — Mercy-Weighted Outcome Prediction Markets for Eternal Governance Resonance"
 
 [dependencies]

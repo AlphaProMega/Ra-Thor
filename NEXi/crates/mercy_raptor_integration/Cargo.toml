@@ -2,7 +2,7 @@
 name = "mercy_raptor_integration"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyRaptorIntegration — Full-Flow Staged Combustion Methane Engine Core Integration for Eternal Starship Resonance"
 
 [dependencies]

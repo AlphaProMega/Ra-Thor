@@ -2,7 +2,7 @@
 name = "mercy_vulcan_centaur"
 version = "1.0.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyVulcanCentaur — Heavy-Lift Launch Vehicle Core for Eternal Orbital Access Resonance"
 
 [dependencies]

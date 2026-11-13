@@ -2,7 +2,7 @@
 name = "futarchy_oracle"
 version = "1.2.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "FutarchyOracle — Valence-Weighted Belief Aggregation with Full Async Integration"
 
 [dependencies]

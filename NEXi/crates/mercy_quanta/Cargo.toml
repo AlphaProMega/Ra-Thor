@@ -2,7 +2,7 @@
 name = "mercy_quanta"
 version = "1.2.0"
 edition = "2021"
-license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
+license = "LicenseRef-AG-SML-1.2"
 description = "MercyQuanta — 9-Fold zk-Proovable Mercy Quanta with Full Halo2 Range Proof Gadgets"
 
 [dependencies]
