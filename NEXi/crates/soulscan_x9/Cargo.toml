@@ -2,7 +2,7 @@
 name = "soulscan_x9"
 version = "1.5.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "SoulScan-X9 — 9-Channel Emotional Waveform + Full Live Valence Scoring Integration for NEXi Lattice"
 
 [dependencies]

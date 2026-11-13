@@ -2,7 +2,7 @@
 name = "mercy_orbital_refuel"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "MercyOrbitalRefuel — Tanker-to-Ship Propellant Transfer + Mercy-Gated Docking Core for Eternal Orbital Sustainability Resonance"
 
 [dependencies]

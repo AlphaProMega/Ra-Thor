@@ -2,7 +2,7 @@
 name = "futarchy_belief_markets"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "FutarchyBeliefMarkets — Mercy-Weighted Conditional Belief Markets for Eternal Governance Resonance"
 
 [dependencies]

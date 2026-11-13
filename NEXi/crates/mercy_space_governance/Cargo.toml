@@ -2,7 +2,7 @@
 name = "mercy_space_governance"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "MercySpaceGovernance — Futarchy + Valence-Weighted Cosmic Governance Core for Eternal Interplanetary Resonance"
 
 [dependencies]

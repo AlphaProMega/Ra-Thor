@@ -2,7 +2,7 @@
 name = "mercy_os_principles"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "MercyOS-Principles — Eternal Positive Emotional Thriving Runtime Core for NEXi Lattice"
 
 [dependencies]

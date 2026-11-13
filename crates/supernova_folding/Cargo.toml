@@ -2,7 +2,7 @@
 name = "supernova_folding"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "SuperNovaFolding — Multilinear + Lookup IVC for Infinite Non-Uniform Computation in NEXi Lattice"
 
 [dependencies]

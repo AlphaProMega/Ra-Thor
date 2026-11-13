@@ -2,7 +2,7 @@
 name = "hash_based_signatures"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "HashBasedSignatures — Hyper-Divine Hash-Based Post-Quantum Signatures for NEXi Lattice"
 
 [dependencies]

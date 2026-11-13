@@ -2,7 +2,7 @@
 name = "futarchy_governance"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "FutarchyGovernance — Mercy-Weighted Futarchy Governance Core for Eternal Ethical Resonance"
 
 [dependencies]

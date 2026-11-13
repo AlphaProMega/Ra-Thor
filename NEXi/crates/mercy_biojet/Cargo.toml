@@ -2,7 +2,7 @@
 name = "mercy_biojet"
 version = "1.3.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "MercyBioJet — Algae-Derived Zero-Emission SAF Core with Full Halo2 ZK-Proof Integration"
 
 [dependencies]

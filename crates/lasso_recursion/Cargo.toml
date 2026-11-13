@@ -2,7 +2,7 @@
 name = "lasso_recursion"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "LassoRecursion — Multilinear Lookup + Recursive Composition for Infinite Eternal Lattice Resonance"
 
 [dependencies]

@@ -2,7 +2,7 @@
 name = "mercy_starliner_crew"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "MercyStarlinerCrew — Valence-Weighted Crew Mission Core for Eternal Crewed Flight Resonance"
 
 [dependencies]

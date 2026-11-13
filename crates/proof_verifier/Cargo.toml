@@ -2,7 +2,7 @@
 name = "proof_verifier"
 version = "1.0.0"
 edition = "2021"
-license = "MIT"
+license = "AG-SML v1.2 — Autonomicity Games Sovereign Mercy License"
 description = "ProofVerifier — Full Halo2 Verification Gadgets for NEXi Lattice Proofs"
 
 [dependencies]
